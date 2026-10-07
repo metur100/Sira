@@ -1,5 +1,7 @@
 # Sira – Journey through the life of the Prophet Muhammad ﷺ
 
+**Website:** https://metur100.github.io/islam-apps/en/sira/ · **Privacy policy:** https://metur100.github.io/islam-apps/en/sira/privacy/
+
 An educational app for teenagers and adults that makes learning the Seerah engaging, structured and source-based: explore places, people and events, see how they connect, test your knowledge and reflect.
 
 - Free: no ads, no purchases, no accounts, no tracking
