@@ -1,0 +1,69 @@
+[
+  {
+    "id": "e10-q1", "episodeId": "episode-10", "kind": "general", "type": "multipleChoice",
+    "prompt": { "en": "Where did the Prophet ﷺ deliver his sermon during the Farewell Pilgrimage?", "de": "Wo hielt der Prophet ﷺ seine Ansprache während der Abschiedspilgerfahrt?", "bs": "Gdje je Poslanik ﷺ održao hutbu tokom Oprosnog hadža?" },
+    "options": [
+      { "id": "a", "text": { "en": "At ʿArafat", "de": "In Arafat", "bs": "Na Arefatu" } },
+      { "id": "b", "text": { "en": "At Uhud", "de": "Bei Uhud", "bs": "Na Uhudu" } },
+      { "id": "c", "text": { "en": "At Quba", "de": "In Quba", "bs": "U Kubi" } }
+    ],
+    "correctOptionId": "a",
+    "explanation": { "en": "Jabir's detailed narration of the Hajj describes the sermon at ʿArafat.", "de": "Dschabirs ausführlicher Bericht über den Haddsch beschreibt die Ansprache in Arafat.", "bs": "Džabirova detaljna predaja o hadžu opisuje hutbu na Arefatu." },
+    "sourceIds": ["muslim-1218"]
+  },
+  {
+    "id": "e10-q2", "episodeId": "episode-10", "kind": "general", "type": "trueFalse",
+    "prompt": { "en": "The verse \"This day I have perfected your religion for you\" was revealed on the day of ʿArafah.", "de": "Der Vers „Heute habe Ich euch eure Religion vervollkommnet“ wurde am Tag von Arafa offenbart.", "bs": "Ajet „Danas sam vam vjeru vašu usavršio“ objavljen je na Dan Arefata." },
+    "correct": true,
+    "explanation": { "en": "ʿUmar reported that it was revealed on the day of ʿArafah, while the Prophet ﷺ was standing at ʿArafat.", "de": "Umar berichtete, dass er am Tag von Arafa offenbart wurde, als der Prophet ﷺ in Arafat stand.", "bs": "Omer je prenio da je objavljen na Dan Arefata, dok je Poslanik ﷺ stajao na Arefatu." },
+    "sourceIds": ["bukhari-45", "q-5-3"]
+  },
+  {
+    "id": "e10-q3", "episodeId": "episode-10", "kind": "timeline", "type": "ordering",
+    "prompt": { "en": "Put the key moments of the Seerah in order.", "de": "Bringe die Schlüsselmomente der Sira in die richtige Reihenfolge.", "bs": "Poredaj ključne trenutke sire." },
+    "items": [
+      { "id": "1", "text": { "en": "First revelation", "de": "Erste Offenbarung", "bs": "Prva Objava" } },
+      { "id": "2", "text": { "en": "Hijrah", "de": "Hidschra", "bs": "Hidžra" } },
+      { "id": "3", "text": { "en": "Conquest of Makkah", "de": "Einnahme Mekkas", "bs": "Oslobođenje Mekke" } },
+      { "id": "4", "text": { "en": "Farewell Pilgrimage", "de": "Abschiedspilgerfahrt", "bs": "Oprosni hadž" } }
+    ],
+    "explanation": { "en": "c. 610, 622, 630 and 632 CE.", "de": "Um 610, 622, 630 und 632 n. Chr.", "bs": "Oko 610, 622, 630. i 632. godine." },
+    "sourceIds": ["ibn-hisham"]
+  },
+  {
+    "id": "e10-q4", "episodeId": "episode-10", "kind": "general", "type": "multipleChoice",
+    "prompt": { "en": "Which verse did Abu Bakr recite after the death of the Prophet ﷺ?", "de": "Welchen Vers rezitierte Abu Bakr nach dem Tod des Propheten ﷺ?", "bs": "Koji ajet je Ebu Bekr proučio nakon smrti Poslanika ﷺ?" },
+    "options": [
+      { "id": "a", "text": { "en": "\"Muhammad is no more than a messenger…\" (3:144)", "de": "„Muhammad ist nur ein Gesandter …“ (3:144)", "bs": "„Muhammed je samo poslanik…“ (3:144)" } },
+      { "id": "b", "text": { "en": "\"Indeed, We have given you a clear victory\" (48:1)", "de": "„Wir haben dir einen deutlichen Sieg gegeben“ (48:1)", "bs": "„Mi smo ti, zaista, jasnu pobjedu dali“ (48:1)" } },
+      { "id": "c", "text": { "en": "\"And warn your closest kinsmen\" (26:214)", "de": "„Und warne deine nächsten Verwandten“ (26:214)", "bs": "„I opominji rodbinu svoju najbližu“ (26:214)" } }
+    ],
+    "correctOptionId": "a",
+    "explanation": { "en": "He reminded the people that Allah is Ever-Living and recited Al ʿImran 3:144.", "de": "Er erinnerte die Menschen daran, dass Allah lebendig ist, und rezitierte Al Imran 3:144.", "bs": "Podsjetio je ljude da je Allah Živ i proučio Ali Imran 3:144." },
+    "sourceIds": ["bukhari-1241", "q-3-144"]
+  },
+  {
+    "id": "e10-q5", "episodeId": "episode-10", "kind": "placeEvent", "type": "matching",
+    "prompt": { "en": "Match each place with its event in the Seerah.", "de": "Ordne jedem Ort sein Ereignis in der Sira zu.", "bs": "Poveži svako mjesto s njegovim događajem u siri." },
+    "pairs": [
+      { "id": "p1", "left": { "en": "Hiraʾ", "de": "Hira", "bs": "Hira" }, "right": { "en": "Beginning of the revelation", "de": "Beginn der Offenbarung", "bs": "Početak Objave" } },
+      { "id": "p2", "left": { "en": "Thawr", "de": "Thaur", "bs": "Sevr" }, "right": { "en": "Hiding during the Hijrah", "de": "Versteck während der Hidschra", "bs": "Skrivanje tokom Hidžre" } },
+      { "id": "p3", "left": { "en": "al-Hudaybiyyah", "de": "al-Hudaibiya", "bs": "Hudejbija" }, "right": { "en": "The treaty with Quraysh", "de": "Der Vertrag mit den Quraisch", "bs": "Ugovor s Kurejšijama" } },
+      { "id": "p4", "left": { "en": "ʿArafat", "de": "Arafat", "bs": "Arefat" }, "right": { "en": "The Farewell Sermon", "de": "Die Abschiedspredigt", "bs": "Oprosna hutba" } }
+    ],
+    "explanation": { "en": "Four places that mark the journey from the first revelation to the Farewell Pilgrimage.", "de": "Vier Orte, die den Weg von der ersten Offenbarung bis zur Abschiedspilgerfahrt markieren.", "bs": "Četiri mjesta koja obilježavaju put od prve Objave do Oprosnog hadža." },
+    "sourceIds": ["bukhari-3", "bukhari-3905", "bukhari-2731", "muslim-1218"]
+  },
+  {
+    "id": "e10-q6", "episodeId": "episode-10", "kind": "connection", "type": "multipleChoice",
+    "prompt": { "en": "Which person connects the Cave of Thawr with the address after the Prophet's death?", "de": "Welche Person verbindet die Höhle Thaur mit der Ansprache nach dem Tod des Propheten?", "bs": "Koja osoba povezuje pećinu Sevr s obraćanjem nakon Poslanikove smrti?" },
+    "options": [
+      { "id": "a", "text": { "en": "Abu Bakr", "de": "Abu Bakr", "bs": "Ebu Bekr" } },
+      { "id": "b", "text": { "en": "ʿUthman", "de": "Uthman", "bs": "Osman" } },
+      { "id": "c", "text": { "en": "Hamzah", "de": "Hamza", "bs": "Hamza" } }
+    ],
+    "correctOptionId": "a",
+    "explanation": { "en": "Abu Bakr was his companion in the cave and addressed the people when the Prophet ﷺ died.", "de": "Abu Bakr war sein Gefährte in der Höhle und sprach zu den Menschen, als der Prophet ﷺ starb.", "bs": "Ebu Bekr je bio njegov drug u pećini i obratio se ljudima kada je Poslanik ﷺ umro." },
+    "sourceIds": ["bukhari-3653", "bukhari-1241"]
+  }
+]

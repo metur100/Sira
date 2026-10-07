@@ -1,0 +1,264 @@
+{
+  "id": "episode-08",
+  "order": 8,
+  "era": "madinah",
+  "title": {
+    "en": "The Treaty of al-Hudaybiyyah",
+    "de": "Der Vertrag von al-Hudaibiya",
+    "bs": "Ugovor na Hudejbiji"
+  },
+  "subtitle": {
+    "en": "A peace that looked like a loss",
+    "de": "Ein Frieden, der wie eine Niederlage aussah",
+    "bs": "Mir koji je izgledao kao poraz"
+  },
+  "period": {
+    "en": "6 AH / 628 CE",
+    "de": "6 n. H. / 628 n. Chr.",
+    "bs": "6. g. po H. / 628. g."
+  },
+  "scene": {
+    "sky": "day",
+    "elements": [
+      "dunes",
+      "tents",
+      "mountains",
+      "caravan"
+    ]
+  },
+  "introduction": {
+    "en": "The Muslims set out peacefully to perform ʿUmrah – and returned home without it. Why does the Quran call this treaty a clear victory?",
+    "de": "Die Muslime brachen friedlich zur Umra auf – und kehrten ohne sie heim. Warum nennt der Koran diesen Vertrag einen deutlichen Sieg?",
+    "bs": "Muslimani su mirno krenuli na umru – i vratili se kući bez nje. Zašto Kur'an ovaj ugovor naziva jasnom pobjedom?"
+  },
+  "context": [
+    {
+      "kind": "fact",
+      "text": {
+        "en": "After years of war, including the siege of Madinah at the Battle of the Trench, the Prophet ﷺ set out in 6 AH with around fourteen hundred companions in the clothing of pilgrims, bringing sacrificial animals, to visit the Kaʿbah.",
+        "de": "Nach Jahren des Krieges, darunter die Belagerung Medinas in der Grabenschlacht, brach der Prophet ﷺ im Jahr 6 n. H. mit rund vierzehnhundert Gefährten im Pilgergewand und mit Opfertieren auf, um die Kaaba zu besuchen.",
+        "bs": "Nakon godina rata, uključujući opsadu Medine u Bitki na Hendeku, Poslanik ﷺ je 6. godine po H. krenuo s oko hiljadu i četiri stotine ashaba u hodočasničkoj odjeći, s kurbanima, da posjeti Kabu."
+      },
+      "sourceIds": [
+        "bukhari-2731",
+        "ibn-hisham",
+        "q-33-9"
+      ]
+    }
+  ],
+  "mainEvent": [
+    {
+      "kind": "fact",
+      "text": {
+        "en": "Quraysh would not let them enter Makkah. The Muslims camped at al-Hudaybiyyah. ʿUthman ibn ʿAffan was sent as an envoy, and when a rumour spread that he had been killed, the companions pledged themselves to the Prophet ﷺ under a tree. The Quran says that Allah was pleased with the believers when they pledged under the tree.",
+        "de": "Die Quraisch ließen sie nicht nach Mekka. Die Muslime lagerten in al-Hudaibiya. Uthman ibn Affan wurde als Gesandter geschickt, und als das Gerücht aufkam, er sei getötet worden, leisteten die Gefährten dem Propheten ﷺ unter einem Baum den Treueeid. Der Koran sagt, dass Allah mit den Gläubigen zufrieden war, als sie unter dem Baum den Eid leisteten.",
+        "bs": "Kurejšije ih nisu htjeli pustiti u Mekku. Muslimani su se utaborili na Hudejbiji. Osman ibn Affan poslan je kao izaslanik, a kada se pronijela glasina da je ubijen, ashabi su Poslaniku ﷺ dali prisegu ispod drveta. Kur'an kaže da je Allah bio zadovoljan vjernicima kada su se zakleli ispod drveta."
+      },
+      "sourceIds": [
+        "q-48-18",
+        "ibn-hisham"
+      ]
+    },
+    {
+      "kind": "fact",
+      "text": {
+        "en": "Suhayl ibn ʿAmr came to negotiate for Quraysh. He objected to opening with \"In the name of Allah, the Most Merciful\" and to \"Muhammad, the Messenger of Allah\"; the Prophet ﷺ agreed to \"In Your name, O Allah\" and \"Muhammad ibn ʿAbdullah\".",
+        "de": "Suhail ibn Amr kam, um für die Quraisch zu verhandeln. Er widersprach der Einleitung „Im Namen Allahs, des Allerbarmers“ und den Worten „Muhammad, der Gesandte Allahs“; der Prophet ﷺ stimmte „In Deinem Namen, o Allah“ und „Muhammad ibn Abdullah“ zu.",
+        "bs": "Suhejl ibn Amr došao je da pregovara u ime Kurejšija. Usprotivio se uvodu „U ime Allaha, Milostivog“ i riječima „Muhammed, Allahov Poslanik“; Poslanik ﷺ je pristao na „U Tvoje ime, Allahu“ i „Muhammed ibn Abdullah“."
+      },
+      "sourceIds": [
+        "bukhari-2731"
+      ]
+    },
+    {
+      "kind": "fact",
+      "text": {
+        "en": "The terms: a truce of ten years; the Muslims would return that year and come for ʿUmrah the next; anyone from Quraysh who came to the Muslims without permission would be returned, but not the other way round. Many companions, including ʿUmar, found the terms very hard.",
+        "de": "Die Bedingungen: ein Waffenstillstand von zehn Jahren; die Muslime kehren dieses Jahr zurück und kommen im nächsten zur Umra; wer von den Quraisch ohne Erlaubnis zu den Muslimen kommt, wird zurückgeschickt, aber nicht umgekehrt. Viele Gefährten, darunter Umar, empfanden die Bedingungen als sehr hart.",
+        "bs": "Uslovi: primirje od deset godina; muslimani se te godine vraćaju i dolaze na umru sljedeće; ko od Kurejšija dođe muslimanima bez dozvole, biva vraćen, ali ne i obrnuto. Mnogim ashabima, među njima i Omeru, uslovi su bili veoma teški."
+      },
+      "sourceIds": [
+        "bukhari-2731",
+        "ibn-hisham"
+      ]
+    },
+    {
+      "kind": "fact",
+      "text": {
+        "en": "When the Prophet ﷺ told the companions to sacrifice their animals and shave their heads, they hesitated. On the advice of Umm Salamah, he did it himself first – and they all followed.",
+        "de": "Als der Prophet ﷺ die Gefährten aufforderte, ihre Tiere zu opfern und sich die Köpfe zu scheren, zögerten sie. Auf den Rat von Umm Salama tat er es selbst zuerst – und alle folgten.",
+        "bs": "Kada je Poslanik ﷺ rekao ashabima da zakolju kurbane i obriju glave, oklijevali su. Po savjetu Ummu Seleme on je to prvi učinio – i svi su ga slijedili."
+      },
+      "sourceIds": [
+        "bukhari-2731"
+      ]
+    },
+    {
+      "kind": "fact",
+      "text": {
+        "en": "On the way back, Surah al-Fath was revealed: \"Indeed, We have given you a clear victory.\"",
+        "de": "Auf dem Rückweg wurde Sure al-Fath offenbart: „Wir haben dir einen deutlichen Sieg gegeben.“",
+        "bs": "Na povratku je objavljena sura el-Feth: „Mi smo ti, zaista, jasnu pobjedu dali.“"
+      },
+      "sourceIds": [
+        "q-48-1"
+      ]
+    },
+    {
+      "kind": "interpretation",
+      "text": {
+        "en": "Historians point out that during the truce many more people accepted Islam than before, as people could travel and meet freely – one reason the treaty is seen as an opening.",
+        "de": "Historiker weisen darauf hin, dass während des Waffenstillstands viel mehr Menschen den Islam annahmen als zuvor, weil man frei reisen und sich begegnen konnte – ein Grund, warum der Vertrag als Öffnung gilt.",
+        "bs": "Historičari ističu da je tokom primirja islam primilo mnogo više ljudi nego ranije, jer su ljudi mogli slobodno putovati i susretati se – jedan od razloga zašto se ugovor smatra otvaranjem."
+      },
+      "sourceIds": [
+        "zad",
+        "ibn-kathir"
+      ]
+    }
+  ],
+  "mainEventId": "hudaybiyyah",
+  "events": [
+    "trench",
+    "hudaybiyyah"
+  ],
+  "people": [
+    "muhammad",
+    "uthman",
+    "umar",
+    "suhayl",
+    "abu-bakr",
+    "ali"
+  ],
+  "places": [
+    "madinah",
+    "hudaybiyyah",
+    "makkah"
+  ],
+  "routes": [
+    "route-hudaybiyyah"
+  ],
+  "questions": [
+    "e08-q1",
+    "e08-q2",
+    "e08-q3",
+    "e08-q4",
+    "e08-q5",
+    "e08-q6"
+  ],
+  "lessons": [
+    {
+      "title": {
+        "en": "Not every victory looks like one",
+        "de": "Nicht jeder Sieg sieht wie einer aus",
+        "bs": "Svaka pobjeda ne izgleda kao pobjeda"
+      },
+      "text": {
+        "en": "What seemed like giving in was called a clear victory. Patience allows us to see further than the moment.",
+        "de": "Was wie Nachgeben aussah, wurde ein deutlicher Sieg genannt. Geduld lässt uns weiter sehen als den Augenblick.",
+        "bs": "Ono što je izgledalo kao popuštanje nazvano je jasnom pobjedom. Strpljenje nam omogućava da vidimo dalje od trenutka."
+      },
+      "themeId": "patience"
+    },
+    {
+      "title": {
+        "en": "Keep your agreements",
+        "de": "Halte deine Vereinbarungen",
+        "bs": "Drži se dogovora"
+      },
+      "text": {
+        "en": "The Muslims kept the terms of the treaty even when they were painful.",
+        "de": "Die Muslime hielten die Bedingungen des Vertrags ein, auch als sie schmerzhaft waren.",
+        "bs": "Muslimani su poštovali uslove ugovora čak i kada su bili bolni."
+      },
+      "themeId": "justice"
+    },
+    {
+      "title": {
+        "en": "Lead by example",
+        "de": "Mit gutem Beispiel vorangehen",
+        "bs": "Predvodi primjerom"
+      },
+      "text": {
+        "en": "When words were not enough, the Prophet ﷺ acted first – and wise advice from Umm Salamah showed the way.",
+        "de": "Als Worte nicht genügten, handelte der Prophet ﷺ zuerst – und ein weiser Rat von Umm Salama wies den Weg.",
+        "bs": "Kada riječi nisu bile dovoljne, Poslanik ﷺ je prvi djelovao – a mudar savjet Ummu Seleme pokazao je put."
+      },
+      "themeId": "planning"
+    }
+  ],
+  "reflectionQuestions": [
+    {
+      "id": "e08-r1",
+      "prompt": {
+        "en": "What can we learn from the Treaty of al-Hudaybiyyah?",
+        "de": "Was können wir aus dem Vertrag von al-Hudaibiya lernen?",
+        "bs": "Šta možemo naučiti iz Ugovora na Hudejbiji?"
+      },
+      "options": [
+        {
+          "en": "That compromise can be a sign of strength.",
+          "de": "Dass ein Kompromiss ein Zeichen von Stärke sein kann.",
+          "bs": "Da kompromis može biti znak snage."
+        },
+        {
+          "en": "That peace opens doors that conflict closes.",
+          "de": "Dass Frieden Türen öffnet, die Streit verschließt.",
+          "bs": "Da mir otvara vrata koja sukob zatvara."
+        },
+        {
+          "en": "That I should not judge an outcome too quickly.",
+          "de": "Dass ich ein Ergebnis nicht zu schnell beurteilen sollte.",
+          "bs": "Da ne trebam prebrzo suditi o ishodu."
+        }
+      ]
+    },
+    {
+      "id": "e08-r2",
+      "prompt": {
+        "en": "Have you ever experienced something that felt like a loss but later turned out to be good?",
+        "de": "Hast du schon einmal etwas erlebt, das sich wie ein Verlust anfühlte, sich aber später als gut herausstellte?",
+        "bs": "Jesi li ikada doživio nešto što se činilo kao gubitak, a kasnije se pokazalo dobrim?"
+      },
+      "options": [
+        {
+          "en": "Yes – a plan that failed led to something better.",
+          "de": "Ja – ein gescheiterter Plan führte zu etwas Besserem.",
+          "bs": "Da – plan koji je propao doveo je do nečeg boljeg."
+        },
+        {
+          "en": "Yes – a hard \"no\" protected me.",
+          "de": "Ja – ein schweres „Nein“ hat mich geschützt.",
+          "bs": "Da – teško „ne“ me je zaštitilo."
+        },
+        {
+          "en": "I am still waiting to understand one.",
+          "de": "Bei einem warte ich noch darauf, es zu verstehen.",
+          "bs": "Za jedno još čekam da ga shvatim."
+        }
+      ]
+    }
+  ],
+  "sources": {
+    "primary": [
+      "q-48-1",
+      "q-48-18",
+      "q-48-27",
+      "bukhari-2731"
+    ],
+    "secondary": [
+      "ibn-hisham",
+      "zad",
+      "ibn-kathir"
+    ],
+    "further": [
+      "lings",
+      "salahi"
+    ]
+  },
+  "themeIds": [
+    "patience",
+    "justice",
+    "planning"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "episode-03",
+  "order": 3,
+  "era": "makkah",
+  "title": { "en": "The early call and the first Muslims", "de": "Der frühe Ruf und die ersten Muslime", "bs": "Rani poziv i prvi muslimani" },
+  "subtitle": { "en": "From a quiet circle to the hill of al-Safa", "de": "Vom stillen Kreis zum Hügel as-Safa", "bs": "Od tihog kruga do brda Safa" },
+  "period": { "en": "c. 610–613 CE", "de": "um 610–613 n. Chr.", "bs": "oko 610–613. g." },
+  "scene": { "sky": "dawn", "elements": ["mountains", "city", "kaaba"] },
+  "introduction": { "en": "The message began within a small circle of family and friends. Who were the first to believe – and what happened when the call became public?", "de": "Die Botschaft begann in einem kleinen Kreis von Familie und Freunden. Wer glaubte zuerst – und was geschah, als der Ruf öffentlich wurde?", "bs": "Poruka je počela u malom krugu porodice i prijatelja. Ko je prvi povjerovao – i šta se desilo kada je poziv postao javan?" },
+  "context": [
+    { "kind": "fact", "text": { "en": "The message called people to worship Allah alone, to reject idols, to believe in the Day of Judgement and to treat the weak with justice and kindness – a challenge to the religious and social order of Makkah.", "de": "Die Botschaft rief dazu auf, Allah allein anzubeten, die Götzen abzulehnen, an den Tag des Gerichts zu glauben und die Schwachen gerecht und gütig zu behandeln – eine Herausforderung für die religiöse und soziale Ordnung Mekkas.", "bs": "Poruka je pozivala da se obožava samo Allah, da se odbace kipovi, da se vjeruje u Sudnji dan i da se prema slabima postupa pravedno i dobro – izazov vjerskom i društvenom poretku Mekke." }, "sourceIds": ["ibn-hisham"] }
+  ],
+  "mainEvent": [
+    { "kind": "fact", "text": { "en": "Khadijah was the first to believe. Abu Bakr, ʿAli – then a boy in the Prophet's household – and Zayd ibn Harithah were among the very first as well. Through Abu Bakr, others such as ʿUthman ibn ʿAffan accepted Islam.", "de": "Chadidscha glaubte als Erste. Abu Bakr, Ali – damals ein Junge im Haushalt des Propheten – und Zaid ibn Haritha gehörten ebenfalls zu den Allerersten. Durch Abu Bakr nahmen weitere wie Uthman ibn Affan den Islam an.", "bs": "Hatidža je prva povjerovala. Ebu Bekr, Alija – tada dječak u Poslanikovoj kući – i Zejd ibn Harisa također su bili među prvima. Preko Ebu Bekra islam su primili i drugi, poput Osmana ibn Affana." }, "sourceIds": ["ibn-hisham"] },
+    { "kind": "interpretation", "text": { "en": "Who was the very first is discussed by scholars. A common way to reconcile the reports: Khadijah among women, Abu Bakr among free men, ʿAli among children, Zayd among freed men.", "de": "Wer der Allererste war, wird unter Gelehrten diskutiert. Eine verbreitete Art, die Berichte zu vereinen: Chadidscha unter den Frauen, Abu Bakr unter den freien Männern, Ali unter den Kindern, Zaid unter den Freigelassenen.", "bs": "Ko je bio prvi, pitanje je o kojem učenjaci raspravljaju. Uobičajen način usklađivanja predaja: Hatidža među ženama, Ebu Bekr među slobodnim muškarcima, Alija među djecom, Zejd među oslobođenicima." }, "sourceIds": ["ibn-kathir"] },
+    { "kind": "fact", "text": { "en": "After about three years came the command to proclaim openly. When \"And warn your closest kinsmen\" was revealed, the Prophet ﷺ climbed Mount al-Safa and called out to the clans of Quraysh. He asked whether they would believe him if he told them an army was behind the hill; they said they had never known him to lie. Then he warned them.", "de": "Nach etwa drei Jahren kam das Gebot, offen zu verkünden. Als „Und warne deine nächsten Verwandten“ offenbart wurde, stieg der Prophet ﷺ auf den Hügel as-Safa und rief die Clans der Quraisch. Er fragte, ob sie ihm glauben würden, wenn er ihnen sagte, dass hinter dem Hügel ein Heer stehe; sie sagten, sie hätten ihn nie lügen erlebt. Dann warnte er sie.", "bs": "Nakon oko tri godine došla je naredba da se poziva javno. Kada je objavljeno „I opominji rodbinu svoju najbližu“, Poslanik ﷺ se popeo na brdo Safa i pozvao kurejšijske rodove. Upitao ih je bi li mu povjerovali kada bi im rekao da je iza brda vojska; rekli su da ga nikada nisu čuli da laže. Tada ih je opomenuo." }, "sourceIds": ["bukhari-4770", "q-26-214", "q-15-94"] },
+    { "kind": "fact", "text": { "en": "His uncle Abu Lahab rejected him publicly, and Surah al-Masad was revealed about him.", "de": "Sein Onkel Abu Lahab wies ihn öffentlich zurück, und über ihn wurde Sure al-Masad offenbart.", "bs": "Njegov amidža Ebu Leheb javno ga je odbio, i o njemu je objavljena sura el-Mesed." }, "sourceIds": ["bukhari-4770", "q-111"] }
+  ],
+  "mainEventId": "public-call",
+  "events": ["first-muslims", "public-call"],
+  "people": ["muhammad", "khadijah", "abu-bakr", "ali", "zayd", "uthman"],
+  "places": ["makkah"],
+  "routes": [],
+  "questions": ["e03-q1", "e03-q2", "e03-q3", "e03-q4", "e03-q5", "e03-q6"],
+  "lessons": [
+    { "title": { "en": "Begin with those closest", "de": "Beginne bei den Nächsten", "bs": "Počni od najbližih" }, "text": { "en": "The message first reached family and friends who knew the Prophet's character best. Change often begins in our own homes.", "de": "Die Botschaft erreichte zuerst Familie und Freunde, die den Charakter des Propheten am besten kannten. Veränderung beginnt oft im eigenen Zuhause.", "bs": "Poruka je najprije stigla do porodice i prijatelja koji su najbolje poznavali Poslanikov karakter. Promjena često počinje u našim domovima." }, "themeId": "community" },
+    { "title": { "en": "A reputation for truth", "de": "Ein Ruf der Wahrhaftigkeit", "bs": "Glas istinoljubivosti" }, "text": { "en": "At al-Safa, Quraysh admitted they had never heard him lie. His words had weight because his life matched them.", "de": "Auf as-Safa gaben die Quraisch zu, ihn nie lügen gehört zu haben. Seine Worte hatten Gewicht, weil sein Leben ihnen entsprach.", "bs": "Na Safi su Kurejšije priznali da ga nikada nisu čuli da laže. Njegove riječi imale su težinu jer je njegov život bio u skladu s njima." }, "themeId": "character" }
+  ],
+  "reflectionQuestions": [
+    {
+      "id": "e03-r1",
+      "prompt": { "en": "The first Muslims believed because they knew him. How can our everyday behaviour show what we believe?", "de": "Die ersten Muslime glaubten, weil sie ihn kannten. Wie kann unser alltägliches Verhalten zeigen, was wir glauben?", "bs": "Prvi muslimani su povjerovali jer su ga poznavali. Kako naše svakodnevno ponašanje može pokazati u šta vjerujemo?" },
+      "options": [
+        { "en": "By being honest even in small things.", "de": "Indem wir auch in kleinen Dingen ehrlich sind.", "bs": "Tako što smo iskreni i u malim stvarima." },
+        { "en": "By treating everyone with respect.", "de": "Indem wir alle mit Respekt behandeln.", "bs": "Tako što prema svima postupamo s poštovanjem." },
+        { "en": "By keeping our promises.", "de": "Indem wir unsere Versprechen halten.", "bs": "Tako što ispunjavamo obećanja." }
+      ]
+    },
+    {
+      "id": "e03-r2",
+      "prompt": { "en": "Speaking up for the truth cost the Prophet ﷺ the support of some relatives. When is it hard for you to say what is right?", "de": "Für die Wahrheit einzutreten kostete den Propheten ﷺ die Unterstützung mancher Verwandter. Wann fällt es dir schwer, das Richtige zu sagen?", "bs": "Zalaganje za istinu koštalo je Poslanika ﷺ podrške nekih rođaka. Kada ti je teško reći ono što je ispravno?" },
+      "options": [
+        { "en": "When my friends think differently.", "de": "Wenn meine Freunde anders denken.", "bs": "Kada moji prijatelji misle drugačije." },
+        { "en": "When it might cost me something.", "de": "Wenn es mich etwas kosten könnte.", "bs": "Kada bi me to moglo nešto koštati." },
+        { "en": "I want to find a kind and wise way to say it.", "de": "Ich möchte einen freundlichen und weisen Weg finden, es zu sagen.", "bs": "Želim pronaći lijep i mudar način da to kažem." }
+      ]
+    }
+  ],
+  "sources": { "primary": ["q-26-214", "q-15-94", "q-111", "bukhari-4770"], "secondary": ["ibn-hisham", "ibn-kathir"], "further": ["mubarakpuri", "salahi"] },
+  "themeIds": ["community", "character"]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "episode-06",
+  "order": 6,
+  "era": "madinah",
+  "title": { "en": "Building the community in Madinah", "de": "Der Aufbau der Gemeinschaft in Medina", "bs": "Izgradnja zajednice u Medini" },
+  "subtitle": { "en": "A mosque, a brotherhood and a written agreement", "de": "Eine Moschee, eine Verbrüderung und eine schriftliche Vereinbarung", "bs": "Mesdžid, bratstvo i pisani sporazum" },
+  "period": { "en": "1–2 AH / 622–624 CE", "de": "1–2 n. H. / 622–624 n. Chr.", "bs": "1–2. g. po H. / 622–624. g." },
+  "scene": { "sky": "day", "elements": ["palms", "mosque", "city"] },
+  "introduction": { "en": "Hundreds of emigrants had arrived with almost nothing. How did a mixed city become home to a new community?", "de": "Hunderte Auswanderer waren mit fast nichts angekommen. Wie wurde eine gemischte Stadt zur Heimat einer neuen Gemeinschaft?", "bs": "Stotine iseljenika stiglo je gotovo bez ičega. Kako je mješoviti grad postao dom nove zajednice?" },
+  "context": [
+    { "kind": "fact", "text": { "en": "Madinah was an oasis of farms and palm groves. Its Arab tribes, the Aws and Khazraj, had a history of conflict, and several Jewish tribes lived there as well.", "de": "Medina war eine Oase mit Feldern und Palmenhainen. Ihre arabischen Stämme, die Aus und Chazradsch, hatten eine Geschichte von Konflikten, und auch mehrere jüdische Stämme lebten dort.", "bs": "Medina je bila oaza njiva i palminih gajeva. Njena arapska plemena, Evs i Hazredž, imala su historiju sukoba, a tu je živjelo i nekoliko jevrejskih plemena." }, "sourceIds": ["ibn-hisham"] }
+  ],
+  "mainEvent": [
+    { "kind": "fact", "text": { "en": "The first project was a mosque. The land was bought from two orphans, and the Prophet ﷺ carried bricks alongside his companions. The mosque became the place of prayer, teaching, consultation and care for the poor.", "de": "Das erste Vorhaben war eine Moschee. Das Land wurde von zwei Waisen gekauft, und der Prophet ﷺ trug zusammen mit seinen Gefährten Lehmziegel. Die Moschee wurde zum Ort des Gebets, des Unterrichts, der Beratung und der Fürsorge für die Armen.", "bs": "Prvi projekat bio je mesdžid. Zemljište je kupljeno od dvoje siročadi, a Poslanik ﷺ je zajedno s ashabima nosio cigle. Mesdžid je postao mjesto namaza, poučavanja, dogovaranja i brige o siromašnima." }, "sourceIds": ["bukhari-428"] },
+    { "kind": "fact", "text": { "en": "The Prophet ﷺ joined emigrants and helpers in pairs of brotherhood. The Ansar shared their homes and wealth; the Quran praises them for giving preference to others even when they themselves were in need.", "de": "Der Prophet ﷺ verband Auswanderer und Helfer paarweise zu Brüdern. Die Ansar teilten ihre Häuser und ihren Besitz; der Koran lobt sie dafür, andere zu bevorzugen, selbst wenn sie selbst bedürftig waren.", "bs": "Poslanik ﷺ je muhadžire i ensarije povezao u parove bratstva. Ensarije su dijelili domove i imetak; Kur'an ih hvali što su druge pretpostavljali sebi čak i kada su sami bili u potrebi." }, "sourceIds": ["q-59-9", "ibn-hisham"] },
+    { "kind": "fact", "text": { "en": "A written agreement regulated relations between the emigrants, the Ansar and the Jewish tribes, including the joint defence of Madinah.", "de": "Eine schriftliche Vereinbarung regelte die Beziehungen zwischen Auswanderern, Ansar und jüdischen Stämmen, einschließlich der gemeinsamen Verteidigung Medinas.", "bs": "Pisani sporazum uredio je odnose između muhadžira, ensarija i jevrejskih plemena, uključujući zajedničku odbranu Medine." }, "sourceIds": ["ibn-hisham"] },
+    { "kind": "interpretation", "text": { "en": "This text is often called the \"Constitution of Madinah\". Historians discuss whether it was one document or several agreements over time.", "de": "Dieser Text wird oft „Verfassung von Medina“ genannt. Historiker diskutieren, ob es ein Dokument oder mehrere Vereinbarungen über die Zeit war.", "bs": "Ovaj tekst se često naziva „Medinski ustav“. Historičari raspravljaju je li to bio jedan dokument ili više sporazuma tokom vremena." }, "sourceIds": ["ibn-hisham"] },
+    { "kind": "fact", "text": { "en": "Sixteen or seventeen months after the Hijrah, the qiblah was changed from Jerusalem to the Kaʿbah in Makkah.", "de": "Sechzehn oder siebzehn Monate nach der Hidschra wurde die Gebetsrichtung von Jerusalem zur Kaaba in Mekka geändert.", "bs": "Šesnaest ili sedamnaest mjeseci nakon Hidžre kibla je promijenjena s Jerusalema na Kabu u Mekki." }, "sourceIds": ["bukhari-40", "q-2-144"] }
+  ],
+  "mainEventId": "brotherhood",
+  "events": ["mosque", "brotherhood", "charter", "qibla"],
+  "people": ["muhammad", "muhajirun", "ansar", "abu-bakr"],
+  "places": ["madinah", "quba"],
+  "routes": [],
+  "questions": ["e06-q1", "e06-q2", "e06-q3", "e06-q4", "e06-q5", "e06-q6"],
+  "lessons": [
+    { "title": { "en": "A community needs a centre", "de": "Eine Gemeinschaft braucht ein Zentrum", "bs": "Zajednici je potrebno središte" }, "text": { "en": "The mosque came first – a shared place for worship, learning and caring for one another.", "de": "Zuerst kam die Moschee – ein gemeinsamer Ort für Gebet, Lernen und Fürsorge füreinander.", "bs": "Najprije je došao mesdžid – zajedničko mjesto za ibadet, učenje i brigu jednih o drugima." }, "themeId": "community" },
+    { "title": { "en": "Brotherhood is practical", "de": "Geschwisterlichkeit ist praktisch", "bs": "Bratstvo je praktično" }, "text": { "en": "The Ansar did not only welcome the emigrants with words; they shared homes, work and wealth. The Quran calls the believers brothers.", "de": "Die Ansar begrüßten die Auswanderer nicht nur mit Worten; sie teilten Häuser, Arbeit und Besitz. Der Koran nennt die Gläubigen Brüder.", "bs": "Ensarije nisu muhadžire dočekali samo riječima; dijelili su domove, posao i imetak. Kur'an vjernike naziva braćom." }, "themeId": "community" },
+    { "title": { "en": "Agreements create trust", "de": "Vereinbarungen schaffen Vertrauen", "bs": "Sporazumi grade povjerenje" }, "text": { "en": "A written agreement gave different groups clear rights and duties in one city.", "de": "Eine schriftliche Vereinbarung gab verschiedenen Gruppen in einer Stadt klare Rechte und Pflichten.", "bs": "Pisani sporazum dao je različitim skupinama u jednom gradu jasna prava i obaveze." }, "themeId": "justice" }
+  ],
+  "reflectionQuestions": [
+    {
+      "id": "e06-r1",
+      "prompt": { "en": "The Ansar shared what they had with strangers. What could you share with someone who is new in your community?", "de": "Die Ansar teilten, was sie hatten, mit Fremden. Was könntest du mit jemandem teilen, der neu in deiner Gemeinschaft ist?", "bs": "Ensarije su dijelili ono što su imali sa strancima. Šta bi ti mogao podijeliti s nekim ko je nov u tvojoj zajednici?" },
+      "options": [
+        { "en": "My time and help to settle in.", "de": "Meine Zeit und Hilfe beim Ankommen.", "bs": "Svoje vrijeme i pomoć da se snađe." },
+        { "en": "An invitation to my home or table.", "de": "Eine Einladung zu mir nach Hause oder an meinen Tisch.", "bs": "Poziv u svoj dom ili za svoj sto." },
+        { "en": "Friendship, so they are not alone.", "de": "Freundschaft, damit sie nicht allein sind.", "bs": "Prijateljstvo, da ne bude sam." }
+      ]
+    },
+    {
+      "id": "e06-r2",
+      "prompt": { "en": "What makes a mosque or community a real \"home\" for people?", "de": "Was macht eine Moschee oder Gemeinschaft für Menschen zu einem echten „Zuhause“?", "bs": "Šta mesdžid ili zajednicu čini pravim „domom“ za ljude?" },
+      "options": [
+        { "en": "That everyone is welcome and known by name.", "de": "Dass jeder willkommen ist und mit Namen gekannt wird.", "bs": "Da je svako dobrodošao i poznat po imenu." },
+        { "en": "That people care for each other's needs.", "de": "Dass man sich um die Bedürfnisse der anderen kümmert.", "bs": "Da se ljudi brinu o potrebama jedni drugih." },
+        { "en": "That it is a place to learn and grow.", "de": "Dass es ein Ort zum Lernen und Wachsen ist.", "bs": "Da je to mjesto za učenje i rast." }
+      ]
+    }
+  ],
+  "sources": { "primary": ["bukhari-428", "bukhari-40", "q-59-9", "q-9-100", "q-49-10", "q-2-144"], "secondary": ["ibn-hisham", "ibn-kathir"], "further": ["mubarakpuri", "ramadan-footsteps"] },
+  "themeIds": ["community", "justice"]
+}

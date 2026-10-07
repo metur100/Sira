@@ -1,0 +1,1045 @@
+[
+  {
+    "id": "muhammad",
+    "name": {
+      "en": "Muhammad",
+      "de": "Muhammad",
+      "bs": "Muhammed"
+    },
+    "arabicName": "محمد",
+    "honorific": "saw",
+    "kind": "prophet",
+    "role": {
+      "en": "The final Messenger of Allah",
+      "de": "Der letzte Gesandte Allahs",
+      "bs": "Posljednji Allahov Poslanik"
+    },
+    "relationship": {
+      "en": "Son of ʿAbdullah and Aminah, of the clan of Hashim of Quraysh",
+      "de": "Sohn von Abdullah und Amina, aus dem Clan Haschim der Quraisch",
+      "bs": "Sin Abdullaha i Amine, iz roda Hašim plemena Kurejš"
+    },
+    "bio": [
+      {
+        "kind": "fact",
+        "text": {
+          "en": "Born in Makkah and orphaned young, he became known for truthfulness and trustworthiness. At about forty he received the first revelation, and for some twenty-three years he called people to the worship of the One God, first in Makkah and then in Madinah.",
+          "de": "In Mekka geboren und früh verwaist, wurde er für Wahrhaftigkeit und Vertrauenswürdigkeit bekannt. Mit etwa vierzig Jahren empfing er die erste Offenbarung, und etwa dreiundzwanzig Jahre lang rief er die Menschen zur Anbetung des Einen Gottes auf, zuerst in Mekka, dann in Medina.",
+          "bs": "Rođen u Mekki i rano ostao siroče, postao je poznat po istinoljubivosti i povjerljivosti. S oko četrdeset godina primio je prvu Objavu, i oko dvadeset i tri godine pozivao je ljude u obožavanje Jednog Boga, najprije u Mekki, a zatim u Medini."
+        },
+        "sourceIds": [
+          "bukhari-3",
+          "ibn-hisham"
+        ]
+      },
+      {
+        "kind": "fact",
+        "text": {
+          "en": "The Quran describes him as a mercy to the worlds and as an excellent example.",
+          "de": "Der Koran beschreibt ihn als Barmherzigkeit für die Welten und als schönes Vorbild.",
+          "bs": "Kur'an ga opisuje kao milost svjetovima i kao lijep uzor."
+        },
+        "sourceIds": [
+          "q-21-107",
+          "q-33-21"
+        ]
+      },
+      {
+        "kind": "reflection",
+        "text": {
+          "en": "In this app he is never shown in any image. His life is told through places, events, people and the sources.",
+          "de": "In dieser App wird er nie bildlich dargestellt. Sein Leben wird über Orte, Ereignisse, Menschen und die Quellen erzählt.",
+          "bs": "U ovoj aplikaciji nikada nije prikazan slikom. Njegov život predstavljen je kroz mjesta, događaje, ljude i izvore."
+        },
+        "sourceIds": []
+      }
+    ],
+    "sourceIds": [
+      "q-33-21",
+      "q-21-107",
+      "ibn-hisham"
+    ]
+  },
+  {
+    "id": "khadijah",
+    "name": {
+      "en": "Khadijah bint Khuwaylid",
+      "de": "Chadidscha bint Chuwailid",
+      "bs": "Hatidža bint Huvejlid"
+    },
+    "arabicName": "خديجة بنت خويلد",
+    "honorific": "raha",
+    "kind": "family",
+    "role": {
+      "en": "First wife of the Prophet ﷺ and the first to believe in him",
+      "de": "Erste Ehefrau des Propheten ﷺ und die Erste, die an ihn glaubte",
+      "bs": "Prva supruga Poslanika ﷺ i prva koja je povjerovala u njega"
+    },
+    "relationship": {
+      "en": "Wife",
+      "de": "Ehefrau",
+      "bs": "Supruga"
+    },
+    "bio": [
+      {
+        "kind": "fact",
+        "text": {
+          "en": "A respected merchant of Makkah who employed the young Muhammad ﷺ in trade and later married him. When the first revelation came, she comforted him and took him to her cousin Waraqah.",
+          "de": "Eine angesehene Kauffrau Mekkas, die den jungen Muhammad ﷺ im Handel beschäftigte und ihn später heiratete. Als die erste Offenbarung kam, tröstete sie ihn und brachte ihn zu ihrem Cousin Waraqa.",
+          "bs": "Ugledna trgovkinja Mekke koja je mladog Muhammeda ﷺ uposlila u trgovini i kasnije se udala za njega. Kada je došla prva Objava, utješila ga je i odvela svom rođaku Varaki."
+        },
+        "sourceIds": [
+          "bukhari-3",
+          "ibn-hisham"
+        ]
+      },
+      {
+        "kind": "interpretation",
+        "text": {
+          "en": "Her age at the marriage is commonly given as forty; some reports give a younger age.",
+          "de": "Ihr Alter bei der Heirat wird meist mit vierzig angegeben; einige Berichte nennen ein jüngeres Alter.",
+          "bs": "Njena dob pri vjenčanju najčešće se navodi kao četrdeset godina; neke predaje navode mlađu dob."
+        },
+        "sourceIds": [
+          "ibn-sad",
+          "ibn-kathir"
+        ]
+      },
+      {
+        "kind": "fact",
+        "text": {
+          "en": "She died in Makkah about three years before the Hijrah, in the year later called the Year of Sorrow.",
+          "de": "Sie starb in Mekka etwa drei Jahre vor der Hidschra, im Jahr, das später Jahr der Trauer genannt wurde.",
+          "bs": "Umrla je u Mekki oko tri godine prije Hidžre, u godini koja je kasnije nazvana Godinom tuge."
+        },
+        "sourceIds": [
+          "ibn-hisham"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "bukhari-3",
+      "ibn-hisham",
+      "ibn-sad"
+    ]
+  },
+  {
+    "id": "abu-bakr",
+    "name": {
+      "en": "Abu Bakr al-Siddiq",
+      "de": "Abu Bakr as-Siddiq",
+      "bs": "Ebu Bekr es-Sidik"
+    },
+    "arabicName": "أبو بكر الصديق",
+    "honorific": "ra",
+    "kind": "companion",
+    "role": {
+      "en": "Closest companion, companion of the Hijrah, first caliph",
+      "de": "Engster Gefährte, Begleiter der Hidschra, erster Kalif",
+      "bs": "Najbliži ashab, saputnik u Hidžri, prvi halifa"
+    },
+    "relationship": {
+      "en": "Friend; father of ʿAʾishah",
+      "de": "Freund; Vater von Aischa",
+      "bs": "Prijatelj; otac Aiše"
+    },
+    "bio": [
+      {
+        "kind": "fact",
+        "text": {
+          "en": "One of the very first men to accept Islam. He spent his wealth freeing persecuted Muslims, accompanied the Prophet ﷺ on the Hijrah and in the Cave of Thawr, and led the community after the Prophet's death.",
+          "de": "Einer der allerersten Männer, die den Islam annahmen. Er setzte sein Vermögen ein, um verfolgte Muslime freizukaufen, begleitete den Propheten ﷺ auf der Hidschra und in der Höhle Thaur und führte die Gemeinschaft nach dem Tod des Propheten.",
+          "bs": "Jedan od prvih muškaraca koji su primili islam. Svoj imetak trošio je na oslobađanje progonjenih muslimana, pratio je Poslanika ﷺ na Hidžri i u pećini Sevr, a nakon Poslanikove smrti predvodio je zajednicu."
+        },
+        "sourceIds": [
+          "bukhari-3905",
+          "bukhari-3653",
+          "bukhari-1241"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "bukhari-3905",
+      "bukhari-1241",
+      "ibn-hisham"
+    ]
+  },
+  {
+    "id": "ali",
+    "name": {
+      "en": "ʿAli ibn Abi Talib",
+      "de": "Ali ibn Abi Talib",
+      "bs": "Alija ibn Ebi Talib"
+    },
+    "arabicName": "علي بن أبي طالب",
+    "honorific": "ra",
+    "kind": "companion",
+    "role": {
+      "en": "Among the first to believe; fourth caliph",
+      "de": "Unter den ersten Gläubigen; vierter Kalif",
+      "bs": "Među prvim vjernicima; četvrti halifa"
+    },
+    "relationship": {
+      "en": "Cousin, raised in his household; husband of Fatimah",
+      "de": "Cousin, in seinem Haushalt aufgewachsen; Ehemann von Fatima",
+      "bs": "Amidžić, odrastao u njegovoj kući; muž Fatime"
+    },
+    "bio": [
+      {
+        "kind": "fact",
+        "text": {
+          "en": "Son of Abu Talib, he grew up in the Prophet's household and accepted Islam as a boy. On the night of the Hijrah he stayed behind in Makkah to return items people had entrusted to the Prophet ﷺ.",
+          "de": "Als Sohn Abu Talibs wuchs er im Haushalt des Propheten auf und nahm den Islam als Junge an. In der Nacht der Hidschra blieb er in Mekka zurück, um Dinge zurückzugeben, die Menschen dem Propheten ﷺ anvertraut hatten.",
+          "bs": "Sin Ebu Taliba, odrastao je u Poslanikovoj kući i primio islam kao dječak. U noći Hidžre ostao je u Mekki da vrati stvari koje su ljudi bili povjerili Poslaniku ﷺ."
+        },
+        "sourceIds": [
+          "ibn-hisham"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "ibn-hisham"
+    ]
+  },
+  {
+    "id": "umar",
+    "name": {
+      "en": "ʿUmar ibn al-Khattab",
+      "de": "Umar ibn al-Chattab",
+      "bs": "Omer ibn el-Hattab"
+    },
+    "arabicName": "عمر بن الخطاب",
+    "honorific": "ra",
+    "kind": "companion",
+    "role": {
+      "en": "Senior companion; second caliph",
+      "de": "Bedeutender Gefährte; zweiter Kalif",
+      "bs": "Istaknuti ashab; drugi halifa"
+    },
+    "relationship": {
+      "en": "Companion; father of Hafsah",
+      "de": "Gefährte; Vater von Hafsa",
+      "bs": "Ashab; otac Hafse"
+    },
+    "bio": [
+      {
+        "kind": "fact",
+        "text": {
+          "en": "At first a strong opponent of Islam in Makkah, he became a Muslim in the Makkan period. At al-Hudaybiyyah he questioned the terms of the treaty, and later he was among those who understood it as a victory.",
+          "de": "Zunächst ein entschiedener Gegner des Islam in Mekka, wurde er in der mekkanischen Zeit Muslim. In al-Hudaibiya stellte er die Vertragsbedingungen infrage und gehörte später zu denen, die ihn als Sieg verstanden.",
+          "bs": "Isprva žestok protivnik islama u Mekki, postao je musliman u mekanskom periodu. Na Hudejbiji je dovodio u pitanje uslove ugovora, a kasnije je bio među onima koji su ga shvatili kao pobjedu."
+        },
+        "sourceIds": [
+          "bukhari-2731",
+          "ibn-hisham"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "bukhari-2731",
+      "bukhari-45",
+      "ibn-hisham"
+    ]
+  },
+  {
+    "id": "uthman",
+    "name": {
+      "en": "ʿUthman ibn ʿAffan",
+      "de": "Uthman ibn Affan",
+      "bs": "Osman ibn Affan"
+    },
+    "arabicName": "عثمان بن عفان",
+    "honorific": "ra",
+    "kind": "companion",
+    "role": {
+      "en": "Early Muslim; third caliph",
+      "de": "Früher Muslim; dritter Kalif",
+      "bs": "Rani musliman; treći halifa"
+    },
+    "relationship": {
+      "en": "Son-in-law of the Prophet ﷺ",
+      "de": "Schwiegersohn des Propheten ﷺ",
+      "bs": "Zet Poslanika ﷺ"
+    },
+    "bio": [
+      {
+        "kind": "fact",
+        "text": {
+          "en": "A wealthy merchant who accepted Islam early and migrated to Abyssinia. At al-Hudaybiyyah he was sent to Makkah as envoy; a rumour of his death led to the Pledge of Ridwan.",
+          "de": "Ein wohlhabender Kaufmann, der früh den Islam annahm und nach Abessinien auswanderte. In al-Hudaibiya wurde er als Gesandter nach Mekka geschickt; das Gerücht über seinen Tod führte zum Treueeid von Ridwan.",
+          "bs": "Imućni trgovac koji je rano primio islam i iselio u Abesiniju. Na Hudejbiji je poslan u Mekku kao izaslanik; glasina o njegovoj smrti dovela je do Prisege Ridvan."
+        },
+        "sourceIds": [
+          "ibn-hisham"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "ibn-hisham",
+      "q-48-18"
+    ]
+  },
+  {
+    "id": "bilal",
+    "name": {
+      "en": "Bilal ibn Rabah",
+      "de": "Bilal ibn Rabah",
+      "bs": "Bilal ibn Rebah"
+    },
+    "arabicName": "بلال بن رباح",
+    "honorific": "ra",
+    "kind": "companion",
+    "role": {
+      "en": "Early Muslim, persecuted for his faith; the first muʾadhdhin",
+      "de": "Früher Muslim, wegen seines Glaubens verfolgt; der erste Muezzin",
+      "bs": "Rani musliman, progonjen zbog vjere; prvi mujezin"
+    },
+    "relationship": {
+      "en": "Companion, freed by Abu Bakr",
+      "de": "Gefährte, von Abu Bakr freigekauft",
+      "bs": "Ashab, kojeg je oslobodio Ebu Bekr"
+    },
+    "bio": [
+      {
+        "kind": "fact",
+        "text": {
+          "en": "An enslaved man in Makkah who was among the first to make his Islam public and was tortured for it. Abu Bakr bought and freed him. In Madinah he became the caller to prayer.",
+          "de": "Ein versklavter Mann in Mekka, der zu den Ersten gehörte, die ihren Islam offen zeigten, und dafür gefoltert wurde. Abu Bakr kaufte ihn frei. In Medina wurde er der Gebetsrufer.",
+          "bs": "Rob u Mekki koji je bio među prvima koji su javno pokazali islam i zbog toga bio mučen. Ebu Bekr ga je otkupio i oslobodio. U Medini je postao mujezin."
+        },
+        "sourceIds": [
+          "ibnmajah-150",
+          "ibn-hisham"
+        ]
+      },
+      {
+        "kind": "interpretation",
+        "text": {
+          "en": "Seerah works report that under torture he kept repeating \"Ahad, Ahad\" (One, One).",
+          "de": "Sira-Werke berichten, dass er unter der Folter immer wieder „Ahad, Ahad“ (Einer, Einer) wiederholte.",
+          "bs": "Djela sire prenose da je pod mučenjem ponavljao „Ehad, Ehad“ (Jedan, Jedan)."
+        },
+        "sourceIds": [
+          "ibn-hisham"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "ibnmajah-150",
+      "ibn-hisham"
+    ]
+  },
+  {
+    "id": "aishah",
+    "name": {
+      "en": "ʿAʾishah bint Abi Bakr",
+      "de": "Aischa bint Abi Bakr",
+      "bs": "Aiša bint Ebi Bekr"
+    },
+    "arabicName": "عائشة بنت أبي بكر",
+    "honorific": "raha",
+    "kind": "family",
+    "role": {
+      "en": "Wife of the Prophet ﷺ and one of the greatest transmitters of hadith",
+      "de": "Ehefrau des Propheten ﷺ und eine der bedeutendsten Überliefererinnen von Hadithen",
+      "bs": "Supruga Poslanika ﷺ i jedna od najvećih prenositeljica hadisa"
+    },
+    "relationship": {
+      "en": "Wife; daughter of Abu Bakr",
+      "de": "Ehefrau; Tochter Abu Bakrs",
+      "bs": "Supruga; kćerka Ebu Bekra"
+    },
+    "bio": [
+      {
+        "kind": "fact",
+        "text": {
+          "en": "Many of the most detailed reports about the beginning of revelation, the Hijrah and the Prophet's last days come through her. The Prophet ﷺ spent his final days in her room, where he was buried.",
+          "de": "Viele der ausführlichsten Berichte über den Beginn der Offenbarung, die Hidschra und die letzten Tage des Propheten stammen von ihr. Der Prophet ﷺ verbrachte seine letzten Tage in ihrem Zimmer, wo er begraben wurde.",
+          "bs": "Mnoge od najdetaljnijih predaja o početku Objave, Hidžri i posljednjim danima Poslanika potječu od nje. Poslanik ﷺ je posljednje dane proveo u njenoj sobi, gdje je i ukopan."
+        },
+        "sourceIds": [
+          "bukhari-3",
+          "bukhari-3905",
+          "bukhari-1241",
+          "ibn-hisham"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "bukhari-3",
+      "bukhari-3905"
+    ]
+  },
+  {
+    "id": "abu-talib",
+    "name": {
+      "en": "Abu Talib",
+      "de": "Abu Talib",
+      "bs": "Ebu Talib"
+    },
+    "arabicName": "أبو طالب",
+    "honorific": "none",
+    "kind": "family",
+    "role": {
+      "en": "Uncle and protector of the Prophet ﷺ in Makkah",
+      "de": "Onkel und Beschützer des Propheten ﷺ in Mekka",
+      "bs": "Amidža i zaštitnik Poslanika ﷺ u Mekki"
+    },
+    "relationship": {
+      "en": "Paternal uncle; father of ʿAli and Jaʿfar",
+      "de": "Onkel väterlicherseits; Vater von Ali und Dschafar",
+      "bs": "Amidža; otac Alije i Džafera"
+    },
+    "bio": [
+      {
+        "kind": "fact",
+        "text": {
+          "en": "He raised the Prophet ﷺ after the death of ʿAbd al-Muttalib and protected him from Quraysh for years, enduring the boycott with the clan of Hashim. He died in the Year of Sorrow.",
+          "de": "Er zog den Propheten ﷺ nach dem Tod von Abd al-Muttalib auf und schützte ihn jahrelang vor den Quraisch; mit dem Clan Haschim ertrug er den Boykott. Er starb im Jahr der Trauer.",
+          "bs": "Odgojio je Poslanika ﷺ nakon smrti Abdul-Muttaliba i godinama ga štitio od Kurejšija, podnoseći bojkot zajedno s rodom Hašim. Umro je u Godini tuge."
+        },
+        "sourceIds": [
+          "ibn-hisham"
+        ]
+      },
+      {
+        "kind": "interpretation",
+        "text": {
+          "en": "Based on hadith in the Sahih collections, most scholars hold that he did not accept Islam before his death; for this reason no honorific is used for him.",
+          "de": "Gestützt auf Hadithe in den Sahih-Sammlungen sind die meisten Gelehrten der Ansicht, dass er den Islam vor seinem Tod nicht annahm; deshalb wird für ihn keine Ehrenformel verwendet.",
+          "bs": "Na osnovu hadisa u zbirkama Sahih, većina učenjaka smatra da nije primio islam prije smrti; zbog toga se uz njegovo ime ne koristi počasna formula."
+        },
+        "sourceIds": [
+          "ibn-kathir"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "ibn-hisham"
+    ]
+  },
+  {
+    "id": "abu-sufyan",
+    "name": {
+      "en": "Abu Sufyan ibn Harb",
+      "de": "Abu Sufyan ibn Harb",
+      "bs": "Ebu Sufjan ibn Harb"
+    },
+    "arabicName": "أبو سفيان بن حرب",
+    "honorific": "ra",
+    "kind": "quraysh",
+    "role": {
+      "en": "Leader of Quraysh who later accepted Islam",
+      "de": "Anführer der Quraisch, der später den Islam annahm",
+      "bs": "Vođa Kurejšija koji je kasnije primio islam"
+    },
+    "relationship": {
+      "en": "Opponent, then companion; father of Umm Habibah",
+      "de": "Gegner, dann Gefährte; Vater von Umm Habiba",
+      "bs": "Protivnik, zatim ashab; otac Ummu Habibe"
+    },
+    "bio": [
+      {
+        "kind": "fact",
+        "text": {
+          "en": "He led the Quraysh caravan before Badr and later led Quraysh against the Muslims. He accepted Islam at the time of the conquest of Makkah, when the Prophet ﷺ declared that whoever entered his house would be safe.",
+          "de": "Er führte die Karawane der Quraisch vor Badr und später die Quraisch gegen die Muslime an. Zur Zeit der Eroberung Mekkas nahm er den Islam an; der Prophet ﷺ erklärte damals, wer sein Haus betrete, sei sicher.",
+          "bs": "Predvodio je kurejšijski karavan prije Bedra, a kasnije Kurejšije protiv muslimana. Primio je islam u vrijeme oslobođenja Mekke, kada je Poslanik ﷺ objavio da je siguran svako ko uđe u njegovu kuću."
+        },
+        "sourceIds": [
+          "muslim-1780",
+          "ibn-hisham"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "muslim-1780",
+      "ibn-hisham"
+    ]
+  },
+  {
+    "id": "abd-al-muttalib",
+    "name": {
+      "en": "ʿAbd al-Muttalib",
+      "de": "Abd al-Muttalib",
+      "bs": "Abdul-Muttalib"
+    },
+    "arabicName": "عبد المطلب",
+    "honorific": "none",
+    "kind": "family",
+    "role": {
+      "en": "Grandfather and guardian of the young Muhammad ﷺ",
+      "de": "Großvater und Vormund des jungen Muhammad ﷺ",
+      "bs": "Djed i staratelj mladog Muhammeda ﷺ"
+    },
+    "relationship": {
+      "en": "Paternal grandfather",
+      "de": "Großvater väterlicherseits",
+      "bs": "Djed po ocu"
+    },
+    "bio": [
+      {
+        "kind": "fact",
+        "text": {
+          "en": "A leader of Quraysh and custodian of the well of Zamzam. He cared for his grandson after the death of Aminah and died when the boy was about eight.",
+          "de": "Ein Anführer der Quraisch und Hüter des Zamzam-Brunnens. Er sorgte nach Aminas Tod für seinen Enkel und starb, als der Junge etwa acht Jahre alt war.",
+          "bs": "Prvak Kurejšija i čuvar bunara Zemzem. Brinuo se o unuku nakon Aminine smrti i umro kada je dječak imao oko osam godina."
+        },
+        "sourceIds": [
+          "ibn-hisham"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "ibn-hisham"
+    ]
+  },
+  {
+    "id": "aminah",
+    "name": {
+      "en": "Aminah bint Wahb",
+      "de": "Amina bint Wahb",
+      "bs": "Amina bint Vehb"
+    },
+    "arabicName": "آمنة بنت وهب",
+    "honorific": "none",
+    "kind": "family",
+    "role": {
+      "en": "Mother of the Prophet ﷺ",
+      "de": "Mutter des Propheten ﷺ",
+      "bs": "Majka Poslanika ﷺ"
+    },
+    "relationship": {
+      "en": "Mother",
+      "de": "Mutter",
+      "bs": "Majka"
+    },
+    "bio": [
+      {
+        "kind": "fact",
+        "text": {
+          "en": "Her husband ʿAbdullah died before their son was born. She died at al-Abwaʾ, between Makkah and Madinah, when the Prophet ﷺ was about six.",
+          "de": "Ihr Mann Abdullah starb vor der Geburt ihres Sohnes. Sie starb in al-Abwa zwischen Mekka und Medina, als der Prophet ﷺ etwa sechs Jahre alt war.",
+          "bs": "Njen muž Abdullah umro je prije rođenja njihovog sina. Umrla je u el-Ebvi, između Mekke i Medine, kada je Poslanik ﷺ imao oko šest godina."
+        },
+        "sourceIds": [
+          "ibn-hisham"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "ibn-hisham"
+    ]
+  },
+  {
+    "id": "halimah",
+    "name": {
+      "en": "Halimah al-Saʿdiyyah",
+      "de": "Halima as-Saʿdiyya",
+      "bs": "Halima es-Sa'dijja"
+    },
+    "arabicName": "حليمة السعدية",
+    "honorific": "none",
+    "kind": "other",
+    "role": {
+      "en": "Wet-nurse of the infant Muhammad ﷺ",
+      "de": "Amme des kleinen Muhammad ﷺ",
+      "bs": "Dojilja malog Muhammeda ﷺ"
+    },
+    "relationship": {
+      "en": "Foster mother from the tribe of Banu Saʿd",
+      "de": "Pflegemutter aus dem Stamm Banu Saʿd",
+      "bs": "Pomajka iz plemena Benu Sa'd"
+    },
+    "bio": [
+      {
+        "kind": "fact",
+        "text": {
+          "en": "Following Makkan custom, the infant was sent to grow up in the desert with a Bedouin family. Halimah of Banu Saʿd nursed him during his early years.",
+          "de": "Nach mekkanischem Brauch wurde der Säugling zu einer Beduinenfamilie in die Wüste gegeben. Halima von den Banu Saʿd stillte ihn in seinen ersten Jahren.",
+          "bs": "Po mekanskom običaju, dojenče je poslano u pustinju kod beduinske porodice. Halima iz Benu Sa'da dojila ga je u prvim godinama."
+        },
+        "sourceIds": [
+          "ibn-hisham"
+        ]
+      },
+      {
+        "kind": "interpretation",
+        "text": {
+          "en": "Scholars differ on whether she lived to accept Islam, so this app uses no honorific for her.",
+          "de": "Die Gelehrten sind sich uneinig, ob sie den Islam noch annahm; daher verwendet diese App für sie keine Ehrenformel.",
+          "bs": "Učenjaci se razilaze o tome je li doživjela da primi islam, pa ova aplikacija uz njeno ime ne koristi počasnu formulu."
+        },
+        "sourceIds": [
+          "ibn-sad"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "ibn-hisham"
+    ]
+  },
+  {
+    "id": "waraqah",
+    "name": {
+      "en": "Waraqah ibn Nawfal",
+      "de": "Waraqa ibn Naufal",
+      "bs": "Varaka ibn Nevfel"
+    },
+    "arabicName": "ورقة بن نوفل",
+    "honorific": "none",
+    "kind": "other",
+    "role": {
+      "en": "Christian scholar who recognised the revelation",
+      "de": "Christlicher Gelehrter, der die Offenbarung erkannte",
+      "bs": "Kršćanski učenjak koji je prepoznao Objavu"
+    },
+    "relationship": {
+      "en": "Cousin of Khadijah",
+      "de": "Cousin von Chadidscha",
+      "bs": "Rođak Hatidže"
+    },
+    "bio": [
+      {
+        "kind": "fact",
+        "text": {
+          "en": "An elderly man of Makkah who had become a Christian and knew the earlier scriptures. When Khadijah brought the Prophet ﷺ to him after the first revelation, he said it was the same angel who had come to Moses and wished he could support him when his people drove him out. He died soon after.",
+          "de": "Ein älterer Mann aus Mekka, der Christ geworden war und die früheren Schriften kannte. Als Chadidscha den Propheten ﷺ nach der ersten Offenbarung zu ihm brachte, sagte er, es sei derselbe Engel, der zu Moses gekommen war, und wünschte, er könne ihn unterstützen, wenn sein Volk ihn vertreibe. Kurz darauf starb er.",
+          "bs": "Stariji čovjek iz Mekke koji je bio postao kršćanin i poznavao ranije Knjige. Kada mu je Hatidža dovela Poslanika ﷺ nakon prve Objave, rekao je da je to isti melek koji je dolazio Musau i poželio da ga može podržati kada ga njegov narod protjera. Ubrzo nakon toga umro je."
+        },
+        "sourceIds": [
+          "bukhari-3"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "bukhari-3"
+    ]
+  },
+  {
+    "id": "zayd",
+    "name": {
+      "en": "Zayd ibn Harithah",
+      "de": "Zaid ibn Haritha",
+      "bs": "Zejd ibn Harisa"
+    },
+    "arabicName": "زيد بن حارثة",
+    "honorific": "ra",
+    "kind": "companion",
+    "role": {
+      "en": "Among the first Muslims; accompanied the Prophet ﷺ to Taʾif",
+      "de": "Unter den ersten Muslimen; begleitete den Propheten ﷺ nach Taif",
+      "bs": "Među prvim muslimanima; pratio Poslanika ﷺ u Taif"
+    },
+    "relationship": {
+      "en": "Freed man raised in the Prophet's household",
+      "de": "Freigelassener, im Haushalt des Propheten aufgewachsen",
+      "bs": "Oslobođenik odrastao u Poslanikovoj kući"
+    },
+    "bio": [
+      {
+        "kind": "fact",
+        "text": {
+          "en": "Given to Khadijah as an enslaved youth, he was freed by the Prophet ﷺ and chose to stay with him rather than return to his family. He accepted Islam among the very first.",
+          "de": "Als versklavter Junge kam er zu Chadidscha, wurde vom Propheten ﷺ freigelassen und entschied sich, bei ihm zu bleiben, statt zu seiner Familie zurückzukehren. Er nahm den Islam unter den Allerersten an.",
+          "bs": "Kao mladić rob došao je Hatidži; Poslanik ﷺ ga je oslobodio, a on je odlučio ostati s njim umjesto da se vrati porodici. Primio je islam među prvima."
+        },
+        "sourceIds": [
+          "ibn-hisham"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "ibn-hisham"
+    ]
+  },
+  {
+    "id": "sumayyah",
+    "name": {
+      "en": "Sumayyah bint Khayyat",
+      "de": "Sumayya bint Chayyat",
+      "bs": "Sumejja bint Hajjat"
+    },
+    "arabicName": "سمية بنت خياط",
+    "honorific": "raha",
+    "kind": "companion",
+    "role": {
+      "en": "Early Muslim; reported as the first martyr of Islam",
+      "de": "Frühe Muslimin; gilt als erste Märtyrerin des Islam",
+      "bs": "Rana muslimanka; prenosi se da je prvi šehid islama"
+    },
+    "relationship": {
+      "en": "Mother of ʿAmmar ibn Yasir",
+      "de": "Mutter von Ammar ibn Yasir",
+      "bs": "Majka Ammara ibn Jasira"
+    },
+    "bio": [
+      {
+        "kind": "fact",
+        "text": {
+          "en": "She, her husband Yasir and her son ʿAmmar were among the first to declare Islam openly and suffered severe persecution in Makkah.",
+          "de": "Sie, ihr Mann Yasir und ihr Sohn Ammar gehörten zu den Ersten, die den Islam offen bekannten, und wurden in Mekka schwer verfolgt.",
+          "bs": "Ona, njen muž Jasir i sin Ammar bili su među prvima koji su javno ispovijedili islam i teško su progonjeni u Mekki."
+        },
+        "sourceIds": [
+          "ibnmajah-150",
+          "ibn-hisham"
+        ]
+      },
+      {
+        "kind": "interpretation",
+        "text": {
+          "en": "The biographical works report that she was killed for her faith, the first Muslim to die as a martyr.",
+          "de": "Die biografischen Werke berichten, dass sie wegen ihres Glaubens getötet wurde – als erste Muslimin, die als Märtyrerin starb.",
+          "bs": "Biografska djela prenose da je ubijena zbog vjere, kao prvi musliman koji je umro kao šehid."
+        },
+        "sourceIds": [
+          "ibn-sad"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "ibnmajah-150",
+      "ibn-sad"
+    ]
+  },
+  {
+    "id": "jafar",
+    "name": {
+      "en": "Jaʿfar ibn Abi Talib",
+      "de": "Dschafar ibn Abi Talib",
+      "bs": "Džafer ibn Ebi Talib"
+    },
+    "arabicName": "جعفر بن أبي طالب",
+    "honorific": "ra",
+    "kind": "companion",
+    "role": {
+      "en": "Spokesman of the Muslims in Abyssinia",
+      "de": "Sprecher der Muslime in Abessinien",
+      "bs": "Govornik muslimana u Abesiniji"
+    },
+    "relationship": {
+      "en": "Cousin; brother of ʿAli",
+      "de": "Cousin; Bruder von Ali",
+      "bs": "Amidžić; brat Alije"
+    },
+    "bio": [
+      {
+        "kind": "fact",
+        "text": {
+          "en": "He led the emigrants in Abyssinia and spoke for them before the king al-Najashi when Quraysh asked for their return.",
+          "de": "Er führte die Auswanderer in Abessinien an und sprach für sie vor König an-Nadschaschi, als die Quraisch ihre Auslieferung forderten.",
+          "bs": "Predvodio je iseljenike u Abesiniji i govorio u njihovo ime pred kraljem Nedžašijem kada su Kurejšije tražili njihovo izručenje."
+        },
+        "sourceIds": [
+          "ibn-hisham"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "ibn-hisham"
+    ]
+  },
+  {
+    "id": "najashi",
+    "name": {
+      "en": "al-Najashi (Ashamah)",
+      "de": "an-Nadschaschi (Ashama)",
+      "bs": "Nedžaši (Ashama)"
+    },
+    "arabicName": "النجاشي",
+    "honorific": "rh",
+    "kind": "other",
+    "role": {
+      "en": "King of Abyssinia who protected the Muslim emigrants",
+      "de": "König von Abessinien, der die muslimischen Auswanderer schützte",
+      "bs": "Kralj Abesinije koji je zaštitio muslimanske iseljenike"
+    },
+    "relationship": {
+      "en": "Protector of the emigrants",
+      "de": "Beschützer der Auswanderer",
+      "bs": "Zaštitnik iseljenika"
+    },
+    "bio": [
+      {
+        "kind": "fact",
+        "text": {
+          "en": "The Christian king of Aksum, known for his justice, refused to hand the Muslims over to Quraysh. When he died, the Prophet ﷺ announced his death in Madinah and led the funeral prayer in his absence.",
+          "de": "Der christliche König von Aksum, bekannt für seine Gerechtigkeit, weigerte sich, die Muslime an die Quraisch auszuliefern. Als er starb, verkündete der Prophet ﷺ seinen Tod in Medina und leitete das Totengebet in Abwesenheit.",
+          "bs": "Kršćanski kralj Aksuma, poznat po pravednosti, odbio je izručiti muslimane Kurejšijama. Kada je umro, Poslanik ﷺ je u Medini objavio njegovu smrt i predvodio dženazu u odsustvu."
+        },
+        "sourceIds": [
+          "ibn-hisham",
+          "bukhari-1245"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "bukhari-1245",
+      "ibn-hisham"
+    ]
+  },
+  {
+    "id": "hamzah",
+    "name": {
+      "en": "Hamzah ibn ʿAbd al-Muttalib",
+      "de": "Hamza ibn Abd al-Muttalib",
+      "bs": "Hamza ibn Abdul-Muttalib"
+    },
+    "arabicName": "حمزة بن عبد المطلب",
+    "honorific": "ra",
+    "kind": "companion",
+    "role": {
+      "en": "Uncle of the Prophet ﷺ, martyr of Uhud",
+      "de": "Onkel des Propheten ﷺ, Märtyrer von Uhud",
+      "bs": "Amidža Poslanika ﷺ, šehid Uhuda"
+    },
+    "relationship": {
+      "en": "Paternal uncle",
+      "de": "Onkel väterlicherseits",
+      "bs": "Amidža"
+    },
+    "bio": [
+      {
+        "kind": "fact",
+        "text": {
+          "en": "His acceptance of Islam in Makkah strengthened the small community. He fought at Badr and was killed at Uhud, where he is buried.",
+          "de": "Seine Annahme des Islam in Mekka stärkte die kleine Gemeinschaft. Er kämpfte bei Badr und fiel bei Uhud, wo er begraben ist.",
+          "bs": "Njegovo primanje islama u Mekki ojačalo je malu zajednicu. Borio se na Bedru i pao na Uhudu, gdje je ukopan."
+        },
+        "sourceIds": [
+          "ibn-hisham"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "ibn-hisham"
+    ]
+  },
+  {
+    "id": "musab",
+    "name": {
+      "en": "Musʿab ibn ʿUmayr",
+      "de": "Musʿab ibn Umair",
+      "bs": "Mus'ab ibn Umejr"
+    },
+    "arabicName": "مصعب بن عمير",
+    "honorific": "ra",
+    "kind": "companion",
+    "role": {
+      "en": "First teacher sent to Yathrib before the Hijrah",
+      "de": "Erster Lehrer, der vor der Hidschra nach Yathrib geschickt wurde",
+      "bs": "Prvi učitelj poslan u Jesrib prije Hidžre"
+    },
+    "relationship": {
+      "en": "Companion",
+      "de": "Gefährte",
+      "bs": "Ashab"
+    },
+    "bio": [
+      {
+        "kind": "fact",
+        "text": {
+          "en": "After the first pledge of al-ʿAqabah he was sent with the new Muslims to Yathrib to teach them the Quran and Islam. He was martyred at Uhud.",
+          "de": "Nach dem ersten Treueeid von al-Aqaba wurde er mit den neuen Muslimen nach Yathrib geschickt, um sie den Koran und den Islam zu lehren. Er fiel als Märtyrer bei Uhud.",
+          "bs": "Nakon prve prisege na Akabi poslan je s novim muslimanima u Jesrib da ih podučava Kur'anu i islamu. Pao je kao šehid na Uhudu."
+        },
+        "sourceIds": [
+          "ibn-hisham"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "ibn-hisham"
+    ]
+  },
+  {
+    "id": "suhayl",
+    "name": {
+      "en": "Suhayl ibn ʿAmr",
+      "de": "Suhail ibn Amr",
+      "bs": "Suhejl ibn Amr"
+    },
+    "arabicName": "سهيل بن عمرو",
+    "honorific": "ra",
+    "kind": "quraysh",
+    "role": {
+      "en": "Negotiator of Quraysh at al-Hudaybiyyah; later accepted Islam",
+      "de": "Unterhändler der Quraisch in al-Hudaibiya; nahm später den Islam an",
+      "bs": "Pregovarač Kurejšija na Hudejbiji; kasnije primio islam"
+    },
+    "relationship": {
+      "en": "Opponent, then companion",
+      "de": "Gegner, dann Gefährte",
+      "bs": "Protivnik, zatim ashab"
+    },
+    "bio": [
+      {
+        "kind": "fact",
+        "text": {
+          "en": "He negotiated the treaty for Quraysh and objected to the words \"Messenger of Allah\" in the document, so the Prophet ﷺ had it written as \"Muhammad ibn ʿAbdullah\".",
+          "de": "Er handelte den Vertrag für die Quraisch aus und widersprach den Worten „Gesandter Allahs“ im Dokument, sodass der Prophet ﷺ „Muhammad ibn Abdullah“ schreiben ließ.",
+          "bs": "Pregovarao je ugovor u ime Kurejšija i usprotivio se riječima „Allahov Poslanik“ u dokumentu, pa je Poslanik ﷺ naredio da se napiše „Muhammed ibn Abdullah“."
+        },
+        "sourceIds": [
+          "bukhari-2731"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "bukhari-2731"
+    ]
+  },
+  {
+    "id": "abdullah-ibn-jubayr",
+    "name": {
+      "en": "ʿAbdullah ibn Jubayr",
+      "de": "Abdullah ibn Dschubair",
+      "bs": "Abdullah ibn Džubejr"
+    },
+    "arabicName": "عبد الله بن جبير",
+    "honorific": "ra",
+    "kind": "companion",
+    "role": {
+      "en": "Commander of the archers at Uhud",
+      "de": "Befehlshaber der Bogenschützen bei Uhud",
+      "bs": "Zapovjednik strijelaca na Uhudu"
+    },
+    "relationship": {
+      "en": "Companion from the Ansar",
+      "de": "Gefährte von den Ansar",
+      "bs": "Ashab od ensarija"
+    },
+    "bio": [
+      {
+        "kind": "fact",
+        "text": {
+          "en": "The Prophet ﷺ placed him over the archers on a hill at Uhud and told them not to leave their position whatever happened. Most of the archers left when they thought the battle was won; he stayed.",
+          "de": "Der Prophet ﷺ setzte ihn über die Bogenschützen auf einem Hügel bei Uhud und befahl ihnen, ihre Stellung auf keinen Fall zu verlassen. Die meisten Bogenschützen verließen sie, als sie die Schlacht für gewonnen hielten; er blieb.",
+          "bs": "Poslanik ﷺ ga je postavio nad strijelcima na brežuljku kod Uhuda i naredio im da ni u kom slučaju ne napuštaju položaj. Većina strijelaca ga je napustila misleći da je bitka dobivena; on je ostao."
+        },
+        "sourceIds": [
+          "bukhari-3039"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "bukhari-3039"
+    ]
+  },
+  {
+    "id": "abu-jahl",
+    "name": {
+      "en": "Abu Jahl (ʿAmr ibn Hisham)",
+      "de": "Abu Dschahl (Amr ibn Hischam)",
+      "bs": "Ebu Džehl (Amr ibn Hišam)"
+    },
+    "arabicName": "أبو جهل",
+    "honorific": "none",
+    "kind": "quraysh",
+    "role": {
+      "en": "Leading opponent of Islam in Makkah",
+      "de": "Führender Gegner des Islam in Mekka",
+      "bs": "Vodeći protivnik islama u Mekki"
+    },
+    "relationship": {
+      "en": "Opponent from Quraysh",
+      "de": "Gegner aus den Quraisch",
+      "bs": "Protivnik iz Kurejša"
+    },
+    "bio": [
+      {
+        "kind": "fact",
+        "text": {
+          "en": "He was among the harshest persecutors of the early Muslims and led the Quraysh army at Badr, where he was killed.",
+          "de": "Er gehörte zu den härtesten Verfolgern der frühen Muslime und führte das Heer der Quraisch bei Badr an, wo er getötet wurde.",
+          "bs": "Bio je među najokrutnijim progoniteljima ranih muslimana i predvodio je kurejšijsku vojsku na Bedru, gdje je ubijen."
+        },
+        "sourceIds": [
+          "ibn-hisham"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "ibn-hisham"
+    ]
+  },
+  {
+    "id": "ansar",
+    "name": {
+      "en": "The Ansar",
+      "de": "Die Ansar",
+      "bs": "Ensarije"
+    },
+    "arabicName": "الأنصار",
+    "honorific": "none",
+    "kind": "group",
+    "role": {
+      "en": "\"The Helpers\": the Muslims of Madinah (Aws and Khazraj)",
+      "de": "„Die Helfer“: die Muslime Medinas (Aus und Chazradsch)",
+      "bs": "„Pomagači“: muslimani Medine (Evs i Hazredž)"
+    },
+    "relationship": {
+      "en": "Hosts of the Prophet ﷺ and the emigrants",
+      "de": "Gastgeber des Propheten ﷺ und der Auswanderer",
+      "bs": "Domaćini Poslanika ﷺ i muhadžira"
+    },
+    "bio": [
+      {
+        "kind": "fact",
+        "text": {
+          "en": "They pledged at al-ʿAqabah to protect the Prophet ﷺ, welcomed the emigrants and shared their homes and property with them. The Quran praises them for preferring others over themselves.",
+          "de": "Sie leisteten in al-Aqaba den Eid, den Propheten ﷺ zu schützen, nahmen die Auswanderer auf und teilten Häuser und Besitz mit ihnen. Der Koran lobt sie dafür, andere sich selbst vorzuziehen.",
+          "bs": "Na Akabi su se zakleli da će štititi Poslanika ﷺ, primili su muhadžire i s njima dijelili domove i imetak. Kur'an ih hvali što su druge pretpostavljali sebi."
+        },
+        "sourceIds": [
+          "q-59-9",
+          "q-9-100",
+          "ibn-hisham"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "q-59-9",
+      "q-9-100"
+    ]
+  },
+  {
+    "id": "muhajirun",
+    "name": {
+      "en": "The Muhajirun",
+      "de": "Die Muhadschirun",
+      "bs": "Muhadžiri"
+    },
+    "arabicName": "المهاجرون",
+    "honorific": "none",
+    "kind": "group",
+    "role": {
+      "en": "\"The Emigrants\": Muslims who left Makkah for Madinah",
+      "de": "„Die Auswanderer“: Muslime, die Mekka nach Medina verließen",
+      "bs": "„Iseljenici“: muslimani koji su iz Mekke otišli u Medinu"
+    },
+    "relationship": {
+      "en": "Fellow emigrants of the Prophet ﷺ",
+      "de": "Mitauswanderer des Propheten ﷺ",
+      "bs": "Saputnici Poslanika ﷺ u iseljenju"
+    },
+    "bio": [
+      {
+        "kind": "fact",
+        "text": {
+          "en": "They left homes, property and often family behind for the sake of their faith. The Quran mentions them together with the Ansar as the foremost of the believers.",
+          "de": "Sie ließen Häuser, Besitz und oft ihre Familien um ihres Glaubens willen zurück. Der Koran erwähnt sie zusammen mit den Ansar als die Vordersten der Gläubigen.",
+          "bs": "Napustili su domove, imetak, a često i porodice radi svoje vjere. Kur'an ih spominje zajedno s ensarijama kao prve među vjernicima."
+        },
+        "sourceIds": [
+          "q-9-100",
+          "ibn-hisham"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "q-9-100"
+    ]
+  }
+]

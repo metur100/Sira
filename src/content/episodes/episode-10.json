@@ -1,0 +1,52 @@
+{
+  "id": "episode-10",
+  "order": 10,
+  "era": "madinah",
+  "title": { "en": "The Farewell Pilgrimage and the final days", "de": "Die Abschiedspilgerfahrt und die letzten Tage", "bs": "Oprosni hadž i posljednji dani" },
+  "subtitle": { "en": "\"This day I have perfected your religion\"", "de": "„Heute habe Ich euch eure Religion vervollkommnet“", "bs": "„Danas sam vam vjeru vašu usavršio“" },
+  "period": { "en": "10–11 AH / 632 CE", "de": "10–11 n. H. / 632 n. Chr.", "bs": "10–11. g. po H. / 632. g." },
+  "scene": { "sky": "dusk", "elements": ["mountains", "tents", "kaaba", "lamp"] },
+  "introduction": { "en": "In his last year, the Prophet ﷺ performed the Hajj with a great number of believers and addressed them at ʿArafat. What did he leave them with?", "de": "In seinem letzten Jahr vollzog der Prophet ﷺ den Haddsch mit einer großen Zahl von Gläubigen und sprach in Arafat zu ihnen. Was gab er ihnen mit auf den Weg?", "bs": "U posljednjoj godini Poslanik ﷺ je obavio hadž s velikim brojem vjernika i obratio im se na Arefatu. Šta im je ostavio?" },
+  "context": [
+    { "kind": "fact", "text": { "en": "By 10 AH, most of Arabia had accepted Islam and delegations had come to Madinah from many tribes. The Prophet ﷺ announced that he would perform the Hajj, and people gathered from everywhere to accompany him.", "de": "Bis zum Jahr 10 n. H. hatte der größte Teil Arabiens den Islam angenommen, und Abordnungen vieler Stämme waren nach Medina gekommen. Der Prophet ﷺ kündigte an, den Haddsch zu vollziehen, und Menschen kamen von überall, um ihn zu begleiten.", "bs": "Do 10. godine po H. veći dio Arabije primio je islam, a u Medinu su dolazila izaslanstva mnogih plemena. Poslanik ﷺ je najavio da će obaviti hadž, i ljudi su se sa svih strana okupili da ga prate." }, "sourceIds": ["muslim-1218", "ibn-hisham"] }
+  ],
+  "mainEvent": [
+    { "kind": "fact", "text": { "en": "Jabir ibn ʿAbdillah described the Hajj step by step. At ʿArafat the Prophet ﷺ addressed the people: their blood and their property were sacred to one another; the blood feuds and usury of the time of ignorance were abolished; they should fear Allah regarding women; and he had left among them the Book of Allah – if they held fast to it, they would not go astray. He asked them to bear witness that he had conveyed the message.", "de": "Dschabir ibn Abdillah beschrieb den Haddsch Schritt für Schritt. In Arafat sprach der Prophet ﷺ zu den Menschen: Ihr Blut und ihr Besitz seien einander heilig; Blutrache und Wucher der Zeit der Unwissenheit seien abgeschafft; sie sollten Allah in Bezug auf die Frauen fürchten; und er habe ihnen das Buch Allahs hinterlassen – wenn sie daran festhielten, würden sie nicht in die Irre gehen. Er bat sie zu bezeugen, dass er die Botschaft übermittelt habe.", "bs": "Džabir ibn Abdullah opisao je hadž korak po korak. Na Arefatu se Poslanik ﷺ obratio ljudima: njihova krv i imetak su im međusobno sveti; krvna osveta i kamata iz doba neznanja su ukinuti; neka se boje Allaha kada je riječ o ženama; i ostavio im je Allahovu Knjigu – ako je se budu čvrsto držali, neće zalutati. Zamolio ih je da posvjedoče da je prenio poruku." }, "sourceIds": ["muslim-1218"] },
+    { "kind": "fact", "text": { "en": "On the day of ʿArafah, the verse was revealed: \"This day I have perfected for you your religion, completed My favour upon you and approved for you Islam as religion.\"", "de": "Am Tag von Arafa wurde der Vers offenbart: „Heute habe Ich euch eure Religion vervollkommnet, Meine Gnade an euch vollendet und euch den Islam als Religion erwählt.“", "bs": "Na Dan Arefata objavljen je ajet: „Danas sam vam vjeru vašu usavršio, blagodat Svoju prema vama upotpunio i zadovoljan sam da vam islam bude vjera.“" }, "sourceIds": ["bukhari-45", "q-5-3"] },
+    { "kind": "fact", "text": { "en": "A few months later, back in Madinah, he fell ill. He spent his last days in the room of ʿAʾishah and died there in Rabiʿ al-Awwal 11 AH, at about sixty-three years of age.", "de": "Einige Monate später erkrankte er in Medina. Seine letzten Tage verbrachte er im Zimmer von Aischa und starb dort im Rabiʿ al-Awwal 11 n. H., im Alter von etwa dreiundsechzig Jahren.", "bs": "Nekoliko mjeseci kasnije, nazad u Medini, razbolio se. Posljednje dane proveo je u Aišinoj sobi i tu umro u rebiul-evvelu 11. godine po H., u dobi od oko šezdeset i tri godine." }, "sourceIds": ["bukhari-1241", "ibn-hisham"] },
+    { "kind": "fact", "text": { "en": "Many could not believe the news. Abu Bakr spoke to the people: whoever worshipped Muhammad, Muhammad has died; whoever worships Allah, Allah is Ever-Living and does not die. Then he recited: \"Muhammad is no more than a messenger; messengers have passed away before him…\"", "de": "Viele konnten die Nachricht nicht glauben. Abu Bakr sprach zu den Menschen: Wer Muhammad anbetete – Muhammad ist gestorben; wer Allah anbetet – Allah ist lebendig und stirbt nicht. Dann rezitierte er: „Muhammad ist nur ein Gesandter; vor ihm sind schon Gesandte dahingegangen …“", "bs": "Mnogi nisu mogli povjerovati u vijest. Ebu Bekr se obratio ljudima: ko je obožavao Muhammeda – Muhammed je umro; a ko obožava Allaha – Allah je Živ i ne umire. Zatim je proučio: „Muhammed je samo poslanik, a i prije njega bilo je poslanika…“" }, "sourceIds": ["bukhari-1241", "q-3-144"] },
+    { "kind": "interpretation", "text": { "en": "The month, year and day of the week (Monday) of his death are established; the exact date within Rabiʿ al-Awwal differs between reports.", "de": "Monat, Jahr und Wochentag (Montag) seines Todes sind gesichert; das genaue Datum im Rabiʿ al-Awwal unterscheidet sich in den Berichten.", "bs": "Mjesec, godina i dan u sedmici (ponedjeljak) njegove smrti su potvrđeni; tačan datum u rebiul-evvelu razlikuje se u predajama." }, "sourceIds": ["ibn-kathir"] }
+  ],
+  "mainEventId": "farewell",
+  "events": ["farewell", "death"],
+  "people": ["muhammad", "abu-bakr", "aishah", "umar"],
+  "places": ["madinah", "makkah", "arafat"],
+  "routes": [],
+  "questions": ["e10-q1", "e10-q2", "e10-q3", "e10-q4", "e10-q5", "e10-q6"],
+  "lessons": [
+    { "title": { "en": "The sanctity of every person", "de": "Die Unantastbarkeit jedes Menschen", "bs": "Svetost svakog čovjeka" }, "text": { "en": "The Farewell Sermon emphasised life, property and honour, justice in dealings and kindness in the family.", "de": "Die Abschiedspredigt betonte Leben, Besitz und Ehre, Gerechtigkeit im Umgang und Güte in der Familie.", "bs": "Oprosna hutba naglasila je život, imetak i čast, pravednost u odnosima i dobrotu u porodici." }, "themeId": "justice" },
+    { "title": { "en": "Faith is in Allah, the Ever-Living", "de": "Der Glaube gilt Allah, dem Lebendigen", "bs": "Vjera je u Allaha, Živog" }, "text": { "en": "Abu Bakr's words reminded the believers that the message continues after the messenger. The Quran and the example of the Prophet ﷺ remain.", "de": "Abu Bakrs Worte erinnerten die Gläubigen daran, dass die Botschaft über den Gesandten hinaus besteht. Der Koran und das Vorbild des Propheten ﷺ bleiben.", "bs": "Ebu Bekrove riječi podsjetile su vjernike da poruka traje i nakon poslanika. Kur'an i primjer Poslanika ﷺ ostaju." }, "themeId": "trust" }
+  ],
+  "reflectionQuestions": [
+    {
+      "id": "e10-r1",
+      "prompt": { "en": "Which message of the Farewell Sermon speaks most to your life today?", "de": "Welche Botschaft der Abschiedspredigt spricht heute am meisten zu deinem Leben?", "bs": "Koja poruka Oprosne hutbe danas najviše govori tvom životu?" },
+      "options": [
+        { "en": "Respecting other people's life, property and honour.", "de": "Leben, Besitz und Ehre anderer zu achten.", "bs": "Poštovanje tuđeg života, imetka i časti." },
+        { "en": "Treating my family with kindness.", "de": "Meine Familie mit Güte zu behandeln.", "bs": "Lijepo postupanje prema porodici." },
+        { "en": "Holding fast to the Book of Allah.", "de": "Am Buch Allahs festzuhalten.", "bs": "Čvrsto se držati Allahove Knjige." }
+      ]
+    },
+    {
+      "id": "e10-r2",
+      "prompt": { "en": "Having explored ten episodes of the Seerah, what would you like to carry with you?", "de": "Nach zehn Episoden der Sira: Was möchtest du mitnehmen?", "bs": "Nakon deset epizoda sire, šta želiš ponijeti sa sobom?" },
+      "options": [
+        { "en": "His character in everyday life.", "de": "Seinen Charakter im Alltag.", "bs": "Njegov karakter u svakodnevnom životu." },
+        { "en": "His patience in hardship.", "de": "Seine Geduld in der Not.", "bs": "Njegovo strpljenje u teškoćama." },
+        { "en": "His mercy and forgiveness.", "de": "Seine Barmherzigkeit und Vergebung.", "bs": "Njegovu milost i oprost." }
+      ]
+    }
+  ],
+  "sources": { "primary": ["q-5-3", "q-3-144", "q-33-21", "muslim-1218", "bukhari-45", "bukhari-1241"], "secondary": ["ibn-hisham", "ibn-kathir", "zad"], "further": ["lings", "mubarakpuri", "salahi"] },
+  "themeIds": ["justice", "trust", "community"]
+}

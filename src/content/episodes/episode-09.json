@@ -1,0 +1,248 @@
+{
+  "id": "episode-09",
+  "order": 9,
+  "era": "madinah",
+  "title": {
+    "en": "The conquest of Makkah",
+    "de": "Die Einnahme Mekkas",
+    "bs": "Oslobođenje Mekke"
+  },
+  "subtitle": {
+    "en": "Returning to the city that drove him out",
+    "de": "Rückkehr in die Stadt, die ihn vertrieben hatte",
+    "bs": "Povratak u grad koji ga je protjerao"
+  },
+  "period": {
+    "en": "8 AH / 630 CE",
+    "de": "8 n. H. / 630 n. Chr.",
+    "bs": "8. g. po H. / 630. g."
+  },
+  "scene": {
+    "sky": "dawn",
+    "elements": [
+      "mountains",
+      "city",
+      "kaaba"
+    ]
+  },
+  "introduction": {
+    "en": "Eight years after leaving Makkah in secret, the Prophet ﷺ returned with an army. How did he treat the city and the people who had persecuted him for years?",
+    "de": "Acht Jahre nachdem er Mekka heimlich verlassen hatte, kehrte der Prophet ﷺ mit einem Heer zurück. Wie behandelte er die Stadt und die Menschen, die ihn jahrelang verfolgt hatten?",
+    "bs": "Osam godina nakon što je tajno napustio Mekku, Poslanik ﷺ se vratio s vojskom. Kako je postupio prema gradu i ljudima koji su ga godinama progonili?"
+  },
+  "context": [
+    {
+      "kind": "fact",
+      "text": {
+        "en": "The truce of al-Hudaybiyyah was broken when allies of Quraysh attacked a tribe allied with the Muslims. The Prophet ﷺ then set out for Makkah with a large army in Ramadan 8 AH.",
+        "de": "Der Waffenstillstand von al-Hudaibiya wurde gebrochen, als Verbündete der Quraisch einen mit den Muslimen verbündeten Stamm angriffen. Daraufhin brach der Prophet ﷺ im Ramadan 8 n. H. mit einem großen Heer nach Mekka auf.",
+        "bs": "Primirje s Hudejbije prekršeno je kada su saveznici Kurejšija napali pleme savezničko muslimanima. Poslanik ﷺ je tada u ramazanu 8. godine po H. krenuo na Mekku s velikom vojskom."
+      },
+      "sourceIds": [
+        "ibn-hisham"
+      ]
+    }
+  ],
+  "mainEvent": [
+    {
+      "kind": "fact",
+      "text": {
+        "en": "Abu Sufyan, the leader of Quraysh, came out, met the Prophet ﷺ and accepted Islam. It was announced that whoever entered Abu Sufyan's house would be safe, whoever laid down their weapons would be safe, and whoever closed their door would be safe.",
+        "de": "Abu Sufyan, der Anführer der Quraisch, kam heraus, traf den Propheten ﷺ und nahm den Islam an. Es wurde verkündet: Wer das Haus von Abu Sufyan betritt, ist sicher; wer seine Waffen niederlegt, ist sicher; und wer seine Tür schließt, ist sicher.",
+        "bs": "Ebu Sufjan, vođa Kurejšija, izašao je, sreo Poslanika ﷺ i primio islam. Objavljeno je: ko uđe u kuću Ebu Sufjana – siguran je; ko odloži oružje – siguran je; i ko zatvori svoja vrata – siguran je."
+      },
+      "sourceIds": [
+        "muslim-1780",
+        "ibn-hisham"
+      ]
+    },
+    {
+      "kind": "fact",
+      "text": {
+        "en": "The city was entered with very little fighting. At the Kaʿbah, the Prophet ﷺ struck down the idols around it while reciting: \"Truth has come and falsehood has vanished.\"",
+        "de": "Die Stadt wurde fast ohne Kampf betreten. An der Kaaba stieß der Prophet ﷺ die Götzen um sie herum um und rezitierte dabei: „Die Wahrheit ist gekommen, und das Falsche ist vergangen.“",
+        "bs": "U grad se ušlo gotovo bez borbe. Kod Kabe je Poslanik ﷺ obarao kipove oko nje učeći: „Došla je Istina, a nestala je laž.“"
+      },
+      "sourceIds": [
+        "bukhari-4287",
+        "q-17-81"
+      ]
+    },
+    {
+      "kind": "interpretation",
+      "text": {
+        "en": "The Seerah works report that he pardoned the people of Makkah in general, including many who had fought and harmed him. The often-quoted wording of this amnesty comes from Seerah collections, and scholars discuss the strength of its chains – while the forgiveness itself is widely accepted.",
+        "de": "Die Sira-Werke berichten, dass er den Menschen Mekkas allgemein vergab, auch vielen, die ihn bekämpft und ihm geschadet hatten. Der oft zitierte Wortlaut dieser Amnestie stammt aus Sira-Sammlungen, und Gelehrte diskutieren die Stärke seiner Überlieferungsketten – die Vergebung selbst ist weithin anerkannt.",
+        "bs": "Djela sire prenose da je općenito oprostio stanovnicima Mekke, uključujući mnoge koji su se borili protiv njega i nanosili mu zlo. Često citirana formulacija ove amnestije potječe iz zbirki sire, a učenjaci raspravljaju o jačini njenih lanaca – dok je sam oprost široko prihvaćen."
+      },
+      "sourceIds": [
+        "ibn-hisham",
+        "zad"
+      ]
+    },
+    {
+      "kind": "interpretation",
+      "text": {
+        "en": "The Seerah sources also report that Bilal called the adhan from the roof of the Kaʿbah.",
+        "de": "Die Sira-Quellen berichten auch, dass Bilal den Gebetsruf vom Dach der Kaaba rief.",
+        "bs": "Izvori sire također prenose da je Bilal proučio ezan s krova Kabe."
+      },
+      "sourceIds": [
+        "ibn-hisham"
+      ]
+    },
+    {
+      "kind": "fact",
+      "text": {
+        "en": "Surah al-Nasr speaks of the help of Allah and the victory, and of people entering the religion of Allah in crowds – and commands glorification and seeking forgiveness.",
+        "de": "Sure an-Nasr spricht von der Hilfe Allahs und dem Sieg und davon, dass die Menschen scharenweise in die Religion Allahs eintreten – und gebietet Lobpreis und Bitte um Vergebung.",
+        "bs": "Sura en-Nasr govori o Allahovoj pomoći i pobjedi te o ljudima koji u skupinama ulaze u Allahovu vjeru – i naređuje veličanje i traženje oprosta."
+      },
+      "sourceIds": [
+        "q-110"
+      ]
+    }
+  ],
+  "mainEventId": "conquest",
+  "events": [
+    "conquest"
+  ],
+  "people": [
+    "muhammad",
+    "abu-sufyan",
+    "bilal",
+    "ali",
+    "abu-bakr",
+    "umar"
+  ],
+  "places": [
+    "madinah",
+    "makkah"
+  ],
+  "routes": [
+    "route-conquest"
+  ],
+  "questions": [
+    "e09-q1",
+    "e09-q2",
+    "e09-q3",
+    "e09-q4",
+    "e09-q5",
+    "e09-q6"
+  ],
+  "lessons": [
+    {
+      "title": {
+        "en": "Forgiveness in strength",
+        "de": "Vergebung in der Stärke",
+        "bs": "Oprost iz pozicije snage"
+      },
+      "text": {
+        "en": "He returned to the city that persecuted him and chose to forgive rather than take revenge.",
+        "de": "Er kehrte in die Stadt zurück, die ihn verfolgt hatte, und entschied sich für Vergebung statt Rache.",
+        "bs": "Vratio se u grad koji ga je progonio i izabrao oprost umjesto osvete."
+      },
+      "themeId": "mercy"
+    },
+    {
+      "title": {
+        "en": "Humility in victory",
+        "de": "Demut im Sieg",
+        "bs": "Poniznost u pobjedi"
+      },
+      "text": {
+        "en": "Surah al-Nasr answers victory with glorifying Allah and seeking His forgiveness – not with pride.",
+        "de": "Sure an-Nasr antwortet auf den Sieg mit Lobpreis Allahs und der Bitte um Seine Vergebung – nicht mit Stolz.",
+        "bs": "Sura en-Nasr na pobjedu odgovara veličanjem Allaha i traženjem Njegovog oprosta – a ne ohološću."
+      },
+      "themeId": "character"
+    },
+    {
+      "title": {
+        "en": "Safety for everyone",
+        "de": "Sicherheit für alle",
+        "bs": "Sigurnost za sve"
+      },
+      "text": {
+        "en": "Safety was offered even in the house of the former leader of the opposition – leaving room for people to change.",
+        "de": "Sicherheit wurde sogar im Haus des früheren Anführers der Gegner angeboten – so blieb Raum, sich zu ändern.",
+        "bs": "Sigurnost je ponuđena čak i u kući bivšeg vođe protivnika – ostavljajući ljudima prostor da se promijene."
+      },
+      "themeId": "justice"
+    }
+  ],
+  "reflectionQuestions": [
+    {
+      "id": "e09-r1",
+      "prompt": {
+        "en": "What does the conquest of Makkah teach us about forgiveness?",
+        "de": "Was lehrt uns die Einnahme Mekkas über Vergebung?",
+        "bs": "Šta nas oslobođenje Mekke uči o oprostu?"
+      },
+      "options": [
+        {
+          "en": "That forgiving is strongest when we could take revenge.",
+          "de": "Dass Vergebung am stärksten ist, wenn wir uns rächen könnten.",
+          "bs": "Da je oprost najjači kada bismo se mogli osvetiti."
+        },
+        {
+          "en": "That forgiveness can turn enemies into brothers.",
+          "de": "Dass Vergebung Feinde zu Brüdern machen kann.",
+          "bs": "Da oprost može neprijatelje pretvoriti u braću."
+        },
+        {
+          "en": "That I should think of someone I need to forgive.",
+          "de": "Dass ich an jemanden denken sollte, dem ich vergeben muss.",
+          "bs": "Da trebam pomisliti na nekoga kome trebam oprostiti."
+        }
+      ]
+    },
+    {
+      "id": "e09-r2",
+      "prompt": {
+        "en": "How do you behave when you succeed?",
+        "de": "Wie verhältst du dich, wenn du Erfolg hast?",
+        "bs": "Kako se ponašaš kada uspiješ?"
+      },
+      "options": [
+        {
+          "en": "I want to thank Allah first.",
+          "de": "Ich möchte zuerst Allah danken.",
+          "bs": "Želim najprije zahvaliti Allahu."
+        },
+        {
+          "en": "I want to remember those who helped me.",
+          "de": "Ich möchte an die denken, die mir geholfen haben.",
+          "bs": "Želim se sjetiti onih koji su mi pomogli."
+        },
+        {
+          "en": "I want to stay humble and generous.",
+          "de": "Ich möchte bescheiden und großzügig bleiben.",
+          "bs": "Želim ostati skroman i velikodušan."
+        }
+      ]
+    }
+  ],
+  "sources": {
+    "primary": [
+      "q-17-81",
+      "q-110",
+      "bukhari-4287",
+      "muslim-1780"
+    ],
+    "secondary": [
+      "ibn-hisham",
+      "zad",
+      "tabari"
+    ],
+    "further": [
+      "lings",
+      "ramadan-footsteps"
+    ]
+  },
+  "themeIds": [
+    "mercy",
+    "justice",
+    "character"
+  ]
+}

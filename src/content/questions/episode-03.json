@@ -1,0 +1,68 @@
+[
+  {
+    "id": "e03-q1", "episodeId": "episode-03", "kind": "general", "type": "multipleChoice",
+    "prompt": { "en": "From which hill did the Prophet ﷺ call the clans of Quraysh?", "de": "Von welchem Hügel rief der Prophet ﷺ die Clans der Quraisch?", "bs": "S kojeg brda je Poslanik ﷺ pozvao kurejšijske rodove?" },
+    "options": [
+      { "id": "a", "text": { "en": "al-Safa", "de": "as-Safa", "bs": "Safa" } },
+      { "id": "b", "text": { "en": "Uhud", "de": "Uhud", "bs": "Uhud" } },
+      { "id": "c", "text": { "en": "ʿArafat", "de": "Arafat", "bs": "Arefat" } }
+    ],
+    "correctOptionId": "a",
+    "explanation": { "en": "When \"And warn your closest kinsmen\" was revealed, he climbed al-Safa and called out to the clans.", "de": "Als „Und warne deine nächsten Verwandten“ offenbart wurde, stieg er auf as-Safa und rief die Clans.", "bs": "Kada je objavljeno „I opominji rodbinu svoju najbližu“, popeo se na Safu i pozvao rodove." },
+    "sourceIds": ["bukhari-4770"]
+  },
+  {
+    "id": "e03-q2", "episodeId": "episode-03", "kind": "general", "type": "trueFalse",
+    "prompt": { "en": "From the very first day, the call to Islam was made publicly to all of Makkah.", "de": "Vom ersten Tag an wurde der Ruf zum Islam öffentlich an ganz Mekka gerichtet.", "bs": "Od prvog dana poziv u islam bio je javno upućen cijeloj Mekki." },
+    "correct": false,
+    "explanation": { "en": "For about the first three years the call was made quietly to family and close friends; then came the command to proclaim openly.", "de": "Etwa in den ersten drei Jahren geschah der Ruf im Stillen gegenüber Familie und engen Freunden; dann kam das Gebot, offen zu verkünden.", "bs": "Oko prve tri godine poziv je bio tih, prema porodici i bliskim prijateljima; zatim je došla naredba da se poziva javno." },
+    "sourceIds": ["ibn-hisham", "q-15-94"]
+  },
+  {
+    "id": "e03-q3", "episodeId": "episode-03", "kind": "timeline", "type": "ordering",
+    "prompt": { "en": "Put these in order.", "de": "Bringe diese in die richtige Reihenfolge.", "bs": "Poredaj ovo." },
+    "items": [
+      { "id": "1", "text": { "en": "First revelation in Hiraʾ", "de": "Erste Offenbarung in Hira", "bs": "Prva Objava u Hiri" } },
+      { "id": "2", "text": { "en": "Quiet call to family and friends", "de": "Stiller Ruf an Familie und Freunde", "bs": "Tihi poziv porodici i prijateljima" } },
+      { "id": "3", "text": { "en": "The call from al-Safa", "de": "Der Ruf von as-Safa", "bs": "Poziv sa Safe" } },
+      { "id": "4", "text": { "en": "Migration to Abyssinia", "de": "Auswanderung nach Abessinien", "bs": "Hidžra u Abesiniju" } }
+    ],
+    "explanation": { "en": "Revelation (c. 610), quiet call (c. 610–613), public call (c. 613), and then persecution led to the migration to Abyssinia (c. 615).", "de": "Offenbarung (um 610), stiller Ruf (um 610–613), öffentlicher Ruf (um 613), dann führte die Verfolgung zur Auswanderung nach Abessinien (um 615).", "bs": "Objava (oko 610), tihi poziv (oko 610–613), javni poziv (oko 613), a zatim je progon doveo do hidžre u Abesiniju (oko 615)." },
+    "sourceIds": ["ibn-hisham"]
+  },
+  {
+    "id": "e03-q4", "episodeId": "episode-03", "kind": "personEvent", "type": "matching",
+    "prompt": { "en": "Match each early Muslim with a description.", "de": "Ordne jedem frühen Muslim eine Beschreibung zu.", "bs": "Poveži svakog ranog muslimana s opisom." },
+    "pairs": [
+      { "id": "p1", "left": { "en": "Khadijah", "de": "Chadidscha", "bs": "Hatidža" }, "right": { "en": "First to believe", "de": "Die Erste, die glaubte", "bs": "Prva je povjerovala" } },
+      { "id": "p2", "left": { "en": "ʿAli", "de": "Ali", "bs": "Alija" }, "right": { "en": "A boy in the Prophet's household", "de": "Ein Junge im Haushalt des Propheten", "bs": "Dječak u Poslanikovoj kući" } },
+      { "id": "p3", "left": { "en": "Zayd ibn Harithah", "de": "Zaid ibn Haritha", "bs": "Zejd ibn Harisa" }, "right": { "en": "A freed man who chose to stay with him", "de": "Ein Freigelassener, der bei ihm bleiben wollte", "bs": "Oslobođenik koji je izabrao ostati s njim" } },
+      { "id": "p4", "left": { "en": "Abu Bakr", "de": "Abu Bakr", "bs": "Ebu Bekr" }, "right": { "en": "A merchant who brought others to Islam", "de": "Ein Kaufmann, der andere zum Islam brachte", "bs": "Trgovac koji je druge doveo u islam" } }
+    ],
+    "explanation": { "en": "These were among the very first Muslims.", "de": "Sie gehörten zu den allerersten Muslimen.", "bs": "Oni su bili među prvim muslimanima." },
+    "sourceIds": ["ibn-hisham"]
+  },
+  {
+    "id": "e03-q5", "episodeId": "episode-03", "kind": "eventLesson", "type": "matching",
+    "prompt": { "en": "Match each event with a lesson.", "de": "Ordne jedem Ereignis eine Lehre zu.", "bs": "Poveži svaki događaj s poukom." },
+    "pairs": [
+      { "id": "p1", "left": { "en": "Quraysh at al-Safa: \"We never knew you to lie\"", "de": "Die Quraisch auf as-Safa: „Wir haben dich nie lügen erlebt“", "bs": "Kurejšije na Safi: „Nikada te nismo čuli da lažeš“" }, "right": { "en": "A life of truth gives words weight", "de": "Ein wahrhaftiges Leben gibt Worten Gewicht", "bs": "Istinoljubiv život daje težinu riječima" } },
+      { "id": "p2", "left": { "en": "The first believers were family and friends", "de": "Die ersten Gläubigen waren Familie und Freunde", "bs": "Prvi vjernici bili su porodica i prijatelji" }, "right": { "en": "Change often begins at home", "de": "Veränderung beginnt oft zu Hause", "bs": "Promjena često počinje kod kuće" } },
+      { "id": "p3", "left": { "en": "Abu Lahab's rejection", "de": "Abu Lahabs Ablehnung", "bs": "Ebu Lehebovo odbijanje" }, "right": { "en": "Kinship alone does not bring guidance", "de": "Verwandtschaft allein bringt keine Rechtleitung", "bs": "Samo srodstvo ne donosi uputu" } }
+    ],
+    "explanation": { "en": "Each moment of the early call carries a lesson for today.", "de": "Jeder Moment des frühen Rufes enthält eine Lehre für heute.", "bs": "Svaki trenutak ranog poziva nosi pouku za danas." },
+    "sourceIds": ["bukhari-4770", "q-111"]
+  },
+  {
+    "id": "e03-q6", "episodeId": "episode-03", "kind": "connection", "type": "multipleChoice",
+    "prompt": { "en": "Which surah was revealed about the uncle who rejected him at al-Safa?", "de": "Welche Sure wurde über den Onkel offenbart, der ihn auf as-Safa zurückwies?", "bs": "Koja sura je objavljena o amidži koji ga je odbio na Safi?" },
+    "options": [
+      { "id": "a", "text": { "en": "Surah al-Masad", "de": "Sure al-Masad", "bs": "Sura el-Mesed" } },
+      { "id": "b", "text": { "en": "Surah al-Duha", "de": "Sure ad-Duha", "bs": "Sura ed-Duha" } },
+      { "id": "c", "text": { "en": "Surah Yusuf", "de": "Sure Yusuf", "bs": "Sura Jusuf" } }
+    ],
+    "correctOptionId": "a",
+    "explanation": { "en": "Surah al-Masad (111) was revealed about Abu Lahab.", "de": "Sure al-Masad (111) wurde über Abu Lahab offenbart.", "bs": "Sura el-Mesed (111) objavljena je o Ebu Lehebu." },
+    "sourceIds": ["bukhari-4770", "q-111"]
+  }
+]

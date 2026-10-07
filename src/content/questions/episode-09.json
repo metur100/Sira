@@ -1,0 +1,285 @@
+[
+  {
+    "id": "e09-q1",
+    "episodeId": "episode-09",
+    "kind": "general",
+    "type": "multipleChoice",
+    "prompt": {
+      "en": "What led to the march on Makkah in 8 AH?",
+      "de": "Was führte zum Zug nach Mekka im Jahr 8 n. H.?",
+      "bs": "Šta je dovelo do pohoda na Mekku 8. godine po H.?"
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": {
+          "en": "Allies of Quraysh broke the truce of al-Hudaybiyyah",
+          "de": "Verbündete der Quraisch brachen den Waffenstillstand von al-Hudaibiya",
+          "bs": "Saveznici Kurejšija prekršili su primirje s Hudejbije"
+        }
+      },
+      {
+        "id": "b",
+        "text": {
+          "en": "A drought in Madinah",
+          "de": "Eine Dürre in Medina",
+          "bs": "Suša u Medini"
+        }
+      },
+      {
+        "id": "c",
+        "text": {
+          "en": "The Battle of Uhud",
+          "de": "Die Schlacht von Uhud",
+          "bs": "Bitka na Uhudu"
+        }
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": {
+      "en": "An attack on a tribe allied with the Muslims ended the truce.",
+      "de": "Ein Angriff auf einen mit den Muslimen verbündeten Stamm beendete den Waffenstillstand.",
+      "bs": "Napad na pleme savezničko muslimanima okončao je primirje."
+    },
+    "sourceIds": [
+      "ibn-hisham"
+    ]
+  },
+  {
+    "id": "e09-q2",
+    "episodeId": "episode-09",
+    "kind": "general",
+    "type": "trueFalse",
+    "prompt": {
+      "en": "Whoever entered the house of Abu Sufyan was declared safe.",
+      "de": "Wer das Haus von Abu Sufyan betrat, wurde für sicher erklärt.",
+      "bs": "Ko uđe u kuću Ebu Sufjana proglašen je sigurnim."
+    },
+    "correct": true,
+    "explanation": {
+      "en": "So were those who laid down their weapons or closed their doors.",
+      "de": "Ebenso diejenigen, die ihre Waffen niederlegten oder ihre Türen schlossen.",
+      "bs": "Isto kao i oni koji su odložili oružje ili zatvorili svoja vrata."
+    },
+    "sourceIds": [
+      "muslim-1780"
+    ]
+  },
+  {
+    "id": "e09-q3",
+    "episodeId": "episode-09",
+    "kind": "timeline",
+    "type": "ordering",
+    "prompt": {
+      "en": "Put these Madinan events in order.",
+      "de": "Bringe diese Ereignisse der medinensischen Zeit in die richtige Reihenfolge.",
+      "bs": "Poredaj ove događaje medinskog perioda."
+    },
+    "items": [
+      {
+        "id": "1",
+        "text": {
+          "en": "Battle of Badr",
+          "de": "Schlacht von Badr",
+          "bs": "Bitka na Bedru"
+        }
+      },
+      {
+        "id": "2",
+        "text": {
+          "en": "Battle of Uhud",
+          "de": "Schlacht von Uhud",
+          "bs": "Bitka na Uhudu"
+        }
+      },
+      {
+        "id": "3",
+        "text": {
+          "en": "Treaty of al-Hudaybiyyah",
+          "de": "Vertrag von al-Hudaibiya",
+          "bs": "Ugovor na Hudejbiji"
+        }
+      },
+      {
+        "id": "4",
+        "text": {
+          "en": "Conquest of Makkah",
+          "de": "Einnahme Mekkas",
+          "bs": "Oslobođenje Mekke"
+        }
+      },
+      {
+        "id": "5",
+        "text": {
+          "en": "Farewell Pilgrimage",
+          "de": "Abschiedspilgerfahrt",
+          "bs": "Oprosni hadž"
+        }
+      }
+    ],
+    "explanation": {
+      "en": "2 AH, 3 AH, 6 AH, 8 AH and 10 AH.",
+      "de": "2, 3, 6, 8 und 10 n. H.",
+      "bs": "2, 3, 6, 8. i 10. godina po H."
+    },
+    "sourceIds": [
+      "ibn-hisham"
+    ]
+  },
+  {
+    "id": "e09-q4",
+    "episodeId": "episode-09",
+    "kind": "general",
+    "type": "multipleChoice",
+    "prompt": {
+      "en": "Which verse did the Prophet ﷺ recite while removing the idols around the Kaʿbah?",
+      "de": "Welchen Vers rezitierte der Prophet ﷺ, während er die Götzen um die Kaaba entfernte?",
+      "bs": "Koji ajet je Poslanik ﷺ učio dok je uklanjao kipove oko Kabe?"
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": {
+          "en": "\"Truth has come and falsehood has vanished\" (17:81)",
+          "de": "„Die Wahrheit ist gekommen, und das Falsche ist vergangen“ (17:81)",
+          "bs": "„Došla je Istina, a nestala je laž“ (17:81)"
+        }
+      },
+      {
+        "id": "b",
+        "text": {
+          "en": "\"Read in the name of your Lord\" (96:1)",
+          "de": "„Lies im Namen deines Herrn“ (96:1)",
+          "bs": "„Čitaj, u ime Gospodara tvoga“ (96:1)"
+        }
+      },
+      {
+        "id": "c",
+        "text": {
+          "en": "\"This day I have perfected your religion\" (5:3)",
+          "de": "„Heute habe Ich euch eure Religion vervollkommnet“ (5:3)",
+          "bs": "„Danas sam vam vjeru vašu usavršio“ (5:3)"
+        }
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": {
+      "en": "Ibn Masʿud reported that he struck the idols while reciting al-Israʾ 17:81.",
+      "de": "Ibn Masʿud berichtete, dass er die Götzen umstieß und dabei al-Isra 17:81 rezitierte.",
+      "bs": "Ibn Mes'ud je prenio da je obarao kipove učeći el-Isra 17:81."
+    },
+    "sourceIds": [
+      "bukhari-4287",
+      "q-17-81"
+    ]
+  },
+  {
+    "id": "e09-q5",
+    "episodeId": "episode-09",
+    "kind": "eventLesson",
+    "type": "matching",
+    "prompt": {
+      "en": "Match each event with a lesson.",
+      "de": "Ordne jedem Ereignis eine Lehre zu.",
+      "bs": "Poveži svaki događaj s poukom."
+    },
+    "pairs": [
+      {
+        "id": "p1",
+        "left": {
+          "en": "Conquest of Makkah",
+          "de": "Einnahme Mekkas",
+          "bs": "Oslobođenje Mekke"
+        },
+        "right": {
+          "en": "Forgiveness when one could take revenge",
+          "de": "Vergebung, wenn man sich rächen könnte",
+          "bs": "Oprost kada se moglo osvetiti"
+        }
+      },
+      {
+        "id": "p2",
+        "left": {
+          "en": "Journey to Taʾif",
+          "de": "Reise nach Taif",
+          "bs": "Putovanje u Taif"
+        },
+        "right": {
+          "en": "Mercy even after rejection",
+          "de": "Barmherzigkeit auch nach Ablehnung",
+          "bs": "Milost i nakon odbacivanja"
+        }
+      },
+      {
+        "id": "p3",
+        "left": {
+          "en": "The Hijrah",
+          "de": "Die Hidschra",
+          "bs": "Hidžra"
+        },
+        "right": {
+          "en": "Planning together with trust in Allah",
+          "de": "Planung zusammen mit Gottvertrauen",
+          "bs": "Planiranje uz oslanjanje na Allaha"
+        }
+      }
+    ],
+    "explanation": {
+      "en": "The mercy shown at the conquest echoes the mercy shown at Taʾif years earlier.",
+      "de": "Die Barmherzigkeit bei der Einnahme spiegelt die Barmherzigkeit von Taif Jahre zuvor wider.",
+      "bs": "Milost pokazana pri oslobođenju odražava milost pokazanu u Taifu godinama ranije."
+    },
+    "sourceIds": [
+      "bukhari-3231",
+      "bukhari-3905",
+      "ibn-hisham"
+    ]
+  },
+  {
+    "id": "e09-q6",
+    "episodeId": "episode-09",
+    "kind": "connection",
+    "type": "multipleChoice",
+    "prompt": {
+      "en": "Which companion connects the persecution in Makkah with the adhan at the Kaʿbah after the conquest?",
+      "de": "Welcher Gefährte verbindet die Verfolgung in Mekka mit dem Gebetsruf an der Kaaba nach der Einnahme?",
+      "bs": "Koji ashab povezuje progon u Mekki s ezanom na Kabi nakon oslobođenja?"
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": {
+          "en": "Bilal ibn Rabah",
+          "de": "Bilal ibn Rabah",
+          "bs": "Bilal ibn Rebah"
+        }
+      },
+      {
+        "id": "b",
+        "text": {
+          "en": "Suhayl ibn ʿAmr",
+          "de": "Suhail ibn Amr",
+          "bs": "Suhejl ibn Amr"
+        }
+      },
+      {
+        "id": "c",
+        "text": {
+          "en": "Musʿab ibn ʿUmayr",
+          "de": "Musʿab ibn Umair",
+          "bs": "Mus'ab ibn Umejr"
+        }
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": {
+      "en": "Bilal was tortured in Makkah for his faith; the Seerah sources report that after the conquest he called the adhan from the Kaʿbah.",
+      "de": "Bilal wurde in Mekka wegen seines Glaubens gefoltert; die Sira-Quellen berichten, dass er nach der Einnahme den Gebetsruf von der Kaaba rief.",
+      "bs": "Bilal je u Mekki mučen zbog vjere; izvori sire prenose da je nakon oslobođenja proučio ezan s Kabe."
+    },
+    "sourceIds": [
+      "ibn-hisham",
+      "ibnmajah-150"
+    ]
+  }
+]

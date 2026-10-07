@@ -1,0 +1,69 @@
+[
+  {
+    "id": "e01-q1", "episodeId": "episode-01", "kind": "general", "type": "multipleChoice",
+    "prompt": { "en": "Which surah recalls the army with the elephant that came to destroy the Kaʿbah?", "de": "Welche Sure erinnert an das Heer mit dem Elefanten, das die Kaaba zerstören wollte?", "bs": "Koja sura podsjeća na vojsku sa slonom koja je htjela uništiti Kabu?" },
+    "options": [
+      { "id": "a", "text": { "en": "Surah al-Fil", "de": "Sure al-Fil", "bs": "Sura el-Fil" } },
+      { "id": "b", "text": { "en": "Surah al-Kahf", "de": "Sure al-Kahf", "bs": "Sura el-Kehf" } },
+      { "id": "c", "text": { "en": "Surah al-Nasr", "de": "Sure an-Nasr", "bs": "Sura en-Nasr" } }
+    ],
+    "correctOptionId": "a",
+    "explanation": { "en": "Surah al-Fil (105) – \"The Elephant\" – recalls how the army was turned back.", "de": "Sure al-Fil (105) – „Der Elefant“ – erinnert daran, wie das Heer zurückgeschlagen wurde.", "bs": "Sura el-Fil (105) – „Slon“ – podsjeća kako je vojska odbijena." },
+    "sourceIds": ["q-105"]
+  },
+  {
+    "id": "e01-q2", "episodeId": "episode-01", "kind": "general", "type": "trueFalse",
+    "prompt": { "en": "The Prophet ﷺ said that he was born on a Monday.", "de": "Der Prophet ﷺ sagte, dass er an einem Montag geboren wurde.", "bs": "Poslanik ﷺ je rekao da je rođen u ponedjeljak." },
+    "correct": true,
+    "explanation": { "en": "Asked about fasting on Mondays, he said it was the day he was born and the day revelation came to him.", "de": "Nach dem Fasten am Montag gefragt, sagte er, es sei der Tag seiner Geburt und der Tag, an dem die Offenbarung zu ihm kam.", "bs": "Upitan o postu ponedjeljkom, rekao je da je to dan kada je rođen i dan kada mu je došla Objava." },
+    "sourceIds": ["muslim-1162"]
+  },
+  {
+    "id": "e01-q3", "episodeId": "episode-01", "kind": "timeline", "type": "ordering",
+    "prompt": { "en": "Put these events from his early life in order.", "de": "Bringe diese Ereignisse aus seinem frühen Leben in die richtige Reihenfolge.", "bs": "Poredaj ove događaje iz njegovog ranog života." },
+    "items": [
+      { "id": "1", "text": { "en": "The Year of the Elephant", "de": "Das Jahr des Elefanten", "bs": "Godina slona" } },
+      { "id": "2", "text": { "en": "Death of his mother Aminah", "de": "Tod seiner Mutter Amina", "bs": "Smrt majke Amine" } },
+      { "id": "3", "text": { "en": "Marriage to Khadijah", "de": "Heirat mit Chadidscha", "bs": "Brak s Hatidžom" } },
+      { "id": "4", "text": { "en": "Rebuilding of the Kaʿbah", "de": "Wiederaufbau der Kaaba", "bs": "Obnova Kabe" } }
+    ],
+    "explanation": { "en": "Birth around the Year of the Elephant (c. 570), his mother's death at about six, marriage at about 25 (c. 595) and the rebuilding of the Kaʿbah at about 35 (c. 605).", "de": "Geburt um das Jahr des Elefanten (um 570), Tod der Mutter mit etwa sechs, Heirat mit etwa 25 (um 595) und Wiederaufbau der Kaaba mit etwa 35 (um 605).", "bs": "Rođenje oko Godine slona (oko 570), smrt majke s oko šest godina, brak s oko 25 (oko 595) i obnova Kabe s oko 35 (oko 605)." },
+    "sourceIds": ["ibn-hisham"]
+  },
+  {
+    "id": "e01-q4", "episodeId": "episode-01", "kind": "personEvent", "type": "matching",
+    "prompt": { "en": "Match each person with their role in his early life.", "de": "Ordne jede Person ihrer Rolle in seinem frühen Leben zu.", "bs": "Poveži svaku osobu s njenom ulogom u njegovom ranom životu." },
+    "pairs": [
+      { "id": "p1", "left": { "en": "Halimah", "de": "Halima", "bs": "Halima" }, "right": { "en": "Wet-nurse in the desert", "de": "Amme in der Wüste", "bs": "Dojilja u pustinji" } },
+      { "id": "p2", "left": { "en": "ʿAbd al-Muttalib", "de": "Abd al-Muttalib", "bs": "Abdul-Muttalib" }, "right": { "en": "Grandfather and guardian", "de": "Großvater und Vormund", "bs": "Djed i staratelj" } },
+      { "id": "p3", "left": { "en": "Abu Talib", "de": "Abu Talib", "bs": "Ebu Talib" }, "right": { "en": "Uncle who raised him", "de": "Onkel, der ihn aufzog", "bs": "Amidža koji ga je odgojio" } },
+      { "id": "p4", "left": { "en": "Khadijah", "de": "Chadidscha", "bs": "Hatidža" }, "right": { "en": "Merchant he married", "de": "Kauffrau, die er heiratete", "bs": "Trgovkinja s kojom se oženio" } }
+    ],
+    "explanation": { "en": "These four people shaped his childhood and youth.", "de": "Diese vier Menschen prägten seine Kindheit und Jugend.", "bs": "Ove četiri osobe oblikovale su njegovo djetinjstvo i mladost." },
+    "sourceIds": ["ibn-hisham"]
+  },
+  {
+    "id": "e01-q5", "episodeId": "episode-01", "kind": "sequence", "type": "multipleChoice",
+    "prompt": { "en": "Which of these came first?", "de": "Was kam zuerst?", "bs": "Šta je bilo prvo?" },
+    "options": [
+      { "id": "a", "text": { "en": "Rebuilding of the Kaʿbah", "de": "Wiederaufbau der Kaaba", "bs": "Obnova Kabe" } },
+      { "id": "b", "text": { "en": "Marriage to Khadijah", "de": "Heirat mit Chadidscha", "bs": "Brak s Hatidžom" } },
+      { "id": "c", "text": { "en": "The first revelation", "de": "Die erste Offenbarung", "bs": "Prva Objava" } }
+    ],
+    "correctOptionId": "b",
+    "explanation": { "en": "The marriage (c. 595) came about ten years before the rebuilding of the Kaʿbah (c. 605), which was about five years before the first revelation (c. 610).", "de": "Die Heirat (um 595) lag etwa zehn Jahre vor dem Wiederaufbau der Kaaba (um 605), der etwa fünf Jahre vor der ersten Offenbarung (um 610) stattfand.", "bs": "Brak (oko 595) bio je oko deset godina prije obnove Kabe (oko 605), koja je bila oko pet godina prije prve Objave (oko 610)." },
+    "sourceIds": ["ibn-hisham"]
+  },
+  {
+    "id": "e01-q6", "episodeId": "episode-01", "kind": "connection", "type": "multipleChoice",
+    "prompt": { "en": "Which name did the people of Makkah use for him before the revelation?", "de": "Welchen Beinamen gaben ihm die Leute Mekkas vor der Offenbarung?", "bs": "Kako su ga stanovnici Mekke nazivali prije Objave?" },
+    "options": [
+      { "id": "a", "text": { "en": "al-Amin – the trustworthy", "de": "al-Amin – der Vertrauenswürdige", "bs": "el-Emin – povjerljivi" } },
+      { "id": "b", "text": { "en": "al-Faruq – the one who distinguishes", "de": "al-Faruq – der Unterscheidende", "bs": "el-Faruk – onaj koji razlučuje" } },
+      { "id": "c", "text": { "en": "al-Siddiq – the truthful confirmer", "de": "as-Siddiq – der Wahrhaftige", "bs": "es-Siddik – iskreni potvrđivač" } }
+    ],
+    "correctOptionId": "a",
+    "explanation": { "en": "He was known as al-Amin. Al-Faruq became a title of ʿUmar and al-Siddiq of Abu Bakr.", "de": "Er war als al-Amin bekannt. Al-Faruq wurde zum Beinamen Umars und as-Siddiq zu dem Abu Bakrs.", "bs": "Bio je poznat kao el-Emin. El-Faruk je postao nadimak Omera, a es-Siddik Ebu Bekra." },
+    "sourceIds": ["ibn-hisham"]
+  }
+]

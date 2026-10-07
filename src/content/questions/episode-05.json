@@ -1,0 +1,69 @@
+[
+  {
+    "id": "e05-q1", "episodeId": "episode-05", "kind": "general", "type": "multipleChoice",
+    "prompt": { "en": "Where did the Prophet ﷺ and Abu Bakr hide for three nights?", "de": "Wo versteckten sich der Prophet ﷺ und Abu Bakr drei Nächte lang?", "bs": "Gdje su se Poslanik ﷺ i Ebu Bekr skrivali tri noći?" },
+    "options": [
+      { "id": "a", "text": { "en": "The Cave of Thawr", "de": "In der Höhle Thaur", "bs": "U pećini Sevr" } },
+      { "id": "b", "text": { "en": "The Cave of Hiraʾ", "de": "In der Höhle Hira", "bs": "U pećini Hira" } },
+      { "id": "c", "text": { "en": "In Quba", "de": "In Quba", "bs": "U Kubi" } }
+    ],
+    "correctOptionId": "a",
+    "explanation": { "en": "They hid in the Cave of Thawr, south of Makkah – away from the direction of Madinah.", "de": "Sie versteckten sich in der Höhle Thaur südlich von Mekka – entgegen der Richtung Medinas.", "bs": "Skrivali su se u pećini Sevr, južno od Mekke – suprotno od smjera Medine." },
+    "sourceIds": ["bukhari-3905", "q-9-40"]
+  },
+  {
+    "id": "e05-q2", "episodeId": "episode-05", "kind": "general", "type": "trueFalse",
+    "prompt": { "en": "The Hijrah was carefully planned: camels were prepared and a guide was hired.", "de": "Die Hidschra war sorgfältig geplant: Kamele wurden vorbereitet und ein Führer angeheuert.", "bs": "Hidžra je bila pažljivo planirana: pripremljene su deve i unajmljen vodič." },
+    "correct": true,
+    "explanation": { "en": "ʿAʾishah's narration describes the camels Abu Bakr had prepared and the guide they hired.", "de": "Aischas Bericht beschreibt die von Abu Bakr vorbereiteten Kamele und den angeheuerten Führer.", "bs": "Aišina predaja opisuje deve koje je Ebu Bekr pripremio i vodiča kojeg su unajmili." },
+    "sourceIds": ["bukhari-3905"]
+  },
+  {
+    "id": "e05-q3", "episodeId": "episode-05", "kind": "timeline", "type": "ordering",
+    "prompt": { "en": "Put the stages of the Hijrah in order.", "de": "Bringe die Etappen der Hidschra in die richtige Reihenfolge.", "bs": "Poredaj etape Hidžre." },
+    "items": [
+      { "id": "1", "text": { "en": "Pledges of al-ʿAqabah", "de": "Treueeide von al-Aqaba", "bs": "Prisege na Akabi" } },
+      { "id": "2", "text": { "en": "Leaving Makkah secretly", "de": "Heimlicher Aufbruch aus Mekka", "bs": "Tajni odlazak iz Mekke" } },
+      { "id": "3", "text": { "en": "Three nights in the Cave of Thawr", "de": "Drei Nächte in der Höhle Thaur", "bs": "Tri noći u pećini Sevr" } },
+      { "id": "4", "text": { "en": "Arrival at Quba", "de": "Ankunft in Quba", "bs": "Dolazak u Kubu" } },
+      { "id": "5", "text": { "en": "Entering Madinah", "de": "Einzug in Medina", "bs": "Ulazak u Medinu" } }
+    ],
+    "explanation": { "en": "The pledges prepared the way; then the secret departure, the cave, Quba and finally Madinah.", "de": "Die Treueeide bereiteten den Weg; dann der heimliche Aufbruch, die Höhle, Quba und schließlich Medina.", "bs": "Prisege su pripremile put; zatim tajni odlazak, pećina, Kuba i na kraju Medina." },
+    "sourceIds": ["bukhari-3905", "ibn-hisham"]
+  },
+  {
+    "id": "e05-q4", "episodeId": "episode-05", "kind": "personEvent", "type": "matching",
+    "prompt": { "en": "Match each person with their role in the Hijrah.", "de": "Ordne jede Person ihrer Rolle bei der Hidschra zu.", "bs": "Poveži svaku osobu s njenom ulogom u Hidžri." },
+    "pairs": [
+      { "id": "p1", "left": { "en": "Abu Bakr", "de": "Abu Bakr", "bs": "Ebu Bekr" }, "right": { "en": "Companion in the cave", "de": "Begleiter in der Höhle", "bs": "Saputnik u pećini" } },
+      { "id": "p2", "left": { "en": "ʿAli", "de": "Ali", "bs": "Alija" }, "right": { "en": "Stayed behind to return what was entrusted", "de": "Blieb zurück, um Anvertrautes zurückzugeben", "bs": "Ostao da vrati povjerene stvari" } },
+      { "id": "p3", "left": { "en": "Musʿab ibn ʿUmayr", "de": "Musʿab ibn Umair", "bs": "Mus'ab ibn Umejr" }, "right": { "en": "Taught Islam in Yathrib beforehand", "de": "Lehrte zuvor den Islam in Yathrib", "bs": "Prethodno podučavao islam u Jesribu" } }
+    ],
+    "explanation": { "en": "Each of them had a part in making the Hijrah possible.", "de": "Jeder von ihnen trug dazu bei, die Hidschra möglich zu machen.", "bs": "Svako od njih imao je udio u tome da Hidžra bude moguća." },
+    "sourceIds": ["bukhari-3905", "ibn-hisham"]
+  },
+  {
+    "id": "e05-q5", "episodeId": "episode-05", "kind": "sequence", "type": "multipleChoice",
+    "prompt": { "en": "Which event came first?", "de": "Welches Ereignis kam zuerst?", "bs": "Koji događaj je bio prvi?" },
+    "options": [
+      { "id": "a", "text": { "en": "Treaty of al-Hudaybiyyah", "de": "Vertrag von al-Hudaibiya", "bs": "Ugovor na Hudejbiji" } },
+      { "id": "b", "text": { "en": "Hijrah", "de": "Hidschra", "bs": "Hidžra" } },
+      { "id": "c", "text": { "en": "Battle of Badr", "de": "Schlacht von Badr", "bs": "Bitka na Bedru" } }
+    ],
+    "correctOptionId": "b",
+    "explanation": { "en": "The Hijrah (622 CE) came first, then Badr (2 AH / 624) and al-Hudaybiyyah (6 AH / 628). The Hijri calendar itself counts from the Hijrah.", "de": "Die Hidschra (622) kam zuerst, dann Badr (2 n. H. / 624) und al-Hudaibiya (6 n. H. / 628). Der islamische Kalender zählt selbst ab der Hidschra.", "bs": "Hidžra (622) bila je prva, zatim Bedr (2. g. po H. / 624) i Hudejbija (6. g. po H. / 628). I sam hidžretski kalendar računa se od Hidžre." },
+    "sourceIds": ["bukhari-3905", "tabari"]
+  },
+  {
+    "id": "e05-q6", "episodeId": "episode-05", "kind": "connection", "type": "multipleChoice",
+    "prompt": { "en": "Which verse connects the Cave of Thawr with the words \"Allah is with us\"?", "de": "Welcher Vers verbindet die Höhle Thaur mit den Worten „Allah ist mit uns“?", "bs": "Koji ajet povezuje pećinu Sevr s riječima „Allah je s nama“?" },
+    "options": [
+      { "id": "a", "text": { "en": "al-Tawbah 9:40", "de": "at-Tauba 9:40", "bs": "et-Tevbe 9:40" } },
+      { "id": "b", "text": { "en": "al-ʿAlaq 96:1", "de": "al-Alaq 96:1", "bs": "el-Alek 96:1" } },
+      { "id": "c", "text": { "en": "al-Nasr 110:1", "de": "an-Nasr 110:1", "bs": "en-Nasr 110:1" } }
+    ],
+    "correctOptionId": "a",
+    "explanation": { "en": "Surah al-Tawbah 9:40 mentions the second of two in the cave, telling his companion: \"Do not grieve; Allah is with us.\"", "de": "Sure at-Tauba 9:40 erwähnt den Zweiten von zweien in der Höhle, der seinem Gefährten sagte: „Sei nicht traurig; Allah ist mit uns.“", "bs": "Sura et-Tevbe 9:40 spominje drugog od dvojice u pećini, koji je rekao svom drugu: „Ne brini, Allah je s nama.“" },
+    "sourceIds": ["q-9-40", "bukhari-3653"]
+  }
+]

@@ -1,0 +1,53 @@
+{
+  "id": "episode-05",
+  "order": 5,
+  "era": "madinah",
+  "title": { "en": "The Hijrah to Madinah", "de": "Die Hidschra nach Medina", "bs": "Hidžra u Medinu" },
+  "subtitle": { "en": "Planning, trust and a new beginning", "de": "Planung, Vertrauen und ein neuer Anfang", "bs": "Planiranje, oslanjanje i novi početak" },
+  "period": { "en": "621–622 CE", "de": "621–622 n. Chr.", "bs": "621–622. g." },
+  "scene": { "sky": "night", "elements": ["stars", "crescent", "mountains", "cave", "caravan"] },
+  "introduction": { "en": "Why did the Muslims leave Makkah – and how did the Prophet ﷺ and Abu Bakr reach Madinah when Quraysh were searching for them?", "de": "Warum verließen die Muslime Mekka – und wie erreichten der Prophet ﷺ und Abu Bakr Medina, obwohl die Quraisch nach ihnen suchten?", "bs": "Zašto su muslimani napustili Mekku – i kako su Poslanik ﷺ i Ebu Bekr stigli u Medinu dok su ih Kurejšije tražili?" },
+  "context": [
+    { "kind": "fact", "text": { "en": "At two pilgrimage seasons, people from Yathrib accepted Islam and pledged at al-ʿAqabah to protect the Prophet ﷺ. Musʿab ibn ʿUmayr was sent to teach them, and Islam spread among the Aws and Khazraj.", "de": "In zwei Pilgerzeiten nahmen Menschen aus Yathrib den Islam an und leisteten in al-Aqaba den Eid, den Propheten ﷺ zu schützen. Musʿab ibn Umair wurde geschickt, um sie zu unterrichten, und der Islam verbreitete sich unter den Aus und Chazradsch.", "bs": "Tokom dvije hadžske sezone ljudi iz Jesriba primili su islam i na Akabi se zakleli da će štititi Poslanika ﷺ. Mus'ab ibn Umejr poslan je da ih podučava, i islam se proširio među Evsom i Hazredžom." }, "sourceIds": ["ibn-hisham"] },
+    { "kind": "fact", "text": { "en": "The Muslims of Makkah then left for Yathrib in small groups. The Quran mentions that Quraysh plotted to imprison, kill or expel the Prophet ﷺ.", "de": "Die Muslime Mekkas zogen daraufhin in kleinen Gruppen nach Yathrib. Der Koran erwähnt, dass die Quraisch planten, den Propheten ﷺ einzusperren, zu töten oder zu vertreiben.", "bs": "Mekanski muslimani su potom u malim skupinama odlazili u Jesrib. Kur'an spominje da su Kurejšije kovali zavjeru da Poslanika ﷺ zatvore, ubiju ili protjeraju." }, "sourceIds": ["q-8-30", "ibn-hisham"] }
+  ],
+  "mainEvent": [
+    { "kind": "fact", "text": { "en": "ʿAʾishah reported that the Prophet ﷺ came to Abu Bakr's house at an unusual hour to tell him that permission to emigrate had come. Abu Bakr had prepared two camels. They hired a guide who knew the routes, and left Makkah secretly.", "de": "Aischa berichtete, dass der Prophet ﷺ zu ungewöhnlicher Stunde zu Abu Bakrs Haus kam, um ihm mitzuteilen, dass die Erlaubnis zur Auswanderung gekommen sei. Abu Bakr hatte zwei Kamele vorbereitet. Sie heuerten einen ortskundigen Führer an und verließen Mekka heimlich.", "bs": "Aiša je prenijela da je Poslanik ﷺ došao u Ebu Bekrovu kuću u neuobičajeno vrijeme da mu kaže da je stigla dozvola za iseljenje. Ebu Bekr je bio pripremio dvije deve. Unajmili su vodiča koji je poznavao puteve i tajno napustili Mekku." }, "sourceIds": ["bukhari-3905"] },
+    { "kind": "fact", "text": { "en": "They hid for three nights in the Cave of Thawr, south of Makkah. When the searchers came close, Abu Bakr was afraid, and the Prophet ﷺ reassured him: \"Do not grieve; Allah is with us.\" The Quran mentions this moment.", "de": "Sie versteckten sich drei Nächte in der Höhle Thaur südlich von Mekka. Als die Verfolger nahe kamen, hatte Abu Bakr Angst, und der Prophet ﷺ beruhigte ihn: „Sei nicht traurig; Allah ist mit uns.“ Der Koran erwähnt diesen Moment.", "bs": "Tri noći su se skrivali u pećini Sevr, južno od Mekke. Kada su se tragači približili, Ebu Bekr se uplašio, a Poslanik ﷺ ga je umirio: „Ne brini, Allah je s nama.“ Kur'an spominje taj trenutak." }, "sourceIds": ["q-9-40", "bukhari-3653"] },
+    { "kind": "fact", "text": { "en": "Abu Bakr's son ʿAbdullah brought them news from Makkah each night, and his freed man ʿAmir ibn Fuhayrah grazed sheep nearby and brought them milk. Then they travelled with their guide towards Madinah.", "de": "Abu Bakrs Sohn Abdullah brachte ihnen jede Nacht Neuigkeiten aus Mekka, und sein Freigelassener Amir ibn Fuhaira weidete in der Nähe Schafe und brachte ihnen Milch. Dann reisten sie mit ihrem Führer Richtung Medina.", "bs": "Ebu Bekrov sin Abdullah donosio im je svake noći vijesti iz Mekke, a njegov oslobođenik Amir ibn Fuhejra napasao je ovce u blizini i donosio im mlijeko. Zatim su s vodičem putovali prema Medini." }, "sourceIds": ["bukhari-3905"] },
+    { "kind": "fact", "text": { "en": "The Muslims of Madinah had gone out every morning to wait for him. He arrived at Quba, stayed there some days, and then entered the city. Yathrib became al-Madinah.", "de": "Die Muslime Medinas waren jeden Morgen hinausgegangen, um auf ihn zu warten. Er kam in Quba an, blieb dort einige Tage und zog dann in die Stadt ein. Aus Yathrib wurde al-Madina.", "bs": "Muslimani Medine izlazili su svako jutro da ga čekaju. Stigao je u Kubu, ostao tu nekoliko dana, a zatim ušao u grad. Jesrib je postao el-Medina." }, "sourceIds": ["bukhari-3905"] },
+    { "kind": "interpretation", "text": { "en": "The exact route is not fully known. The sources describe an unusual path towards the coast; any line on a map is an approximation.", "de": "Der genaue Weg ist nicht vollständig bekannt. Die Quellen beschreiben einen ungewöhnlichen Weg Richtung Küste; jede Linie auf einer Karte ist eine Annäherung.", "bs": "Tačan put nije u potpunosti poznat. Izvori opisuju neuobičajen put prema obali; svaka linija na mapi samo je približna." }, "sourceIds": ["ibn-hisham"] }
+  ],
+  "mainEventId": "hijrah",
+  "events": ["aqabah", "hijrah", "quba"],
+  "people": ["muhammad", "abu-bakr", "ali", "aishah", "musab", "ansar", "muhajirun"],
+  "places": ["makkah", "thawr", "quba", "madinah"],
+  "routes": ["route-hijrah"],
+  "questions": ["e05-q1", "e05-q2", "e05-q3", "e05-q4", "e05-q5", "e05-q6"],
+  "lessons": [
+    { "title": { "en": "Plan carefully, then trust Allah", "de": "Sorgfältig planen, dann Allah vertrauen", "bs": "Pažljivo planiraj, a zatim se osloni na Allaha" }, "text": { "en": "Camels, a guide, a hiding place, news and provisions: the Hijrah was carefully prepared – and in the cave, the Prophet ﷺ placed his trust in Allah.", "de": "Kamele, ein Führer, ein Versteck, Nachrichten und Verpflegung: Die Hidschra war sorgfältig vorbereitet – und in der Höhle setzte der Prophet ﷺ sein Vertrauen auf Allah.", "bs": "Deve, vodič, skrovište, vijesti i opskrba: Hidžra je bila pažljivo pripremljena – a u pećini se Poslanik ﷺ oslonio na Allaha." }, "themeId": "trust" },
+    { "title": { "en": "Everyone had a role", "de": "Jeder hatte eine Aufgabe", "bs": "Svako je imao ulogu" }, "text": { "en": "ʿAli, Abu Bakr's children, a freed man and a hired guide all contributed. Great events are carried by many people.", "de": "Ali, Abu Bakrs Kinder, ein Freigelassener und ein angeheuerter Führer trugen alle bei. Große Ereignisse werden von vielen Menschen getragen.", "bs": "Alija, Ebu Bekrova djeca, oslobođenik i unajmljeni vodič – svi su doprinijeli. Velike događaje nose mnogi ljudi." }, "themeId": "planning" }
+  ],
+  "reflectionQuestions": [
+    {
+      "id": "e05-r1",
+      "prompt": { "en": "What can we learn from the Hijrah about patience, planning and trust in Allah?", "de": "Was können wir aus der Hidschra über Geduld, Planung und Gottvertrauen lernen?", "bs": "Šta možemo naučiti iz Hidžre o strpljenju, planiranju i oslanjanju na Allaha?" },
+      "options": [
+        { "en": "Trust in Allah does not replace preparation – it completes it.", "de": "Gottvertrauen ersetzt keine Vorbereitung – es vollendet sie.", "bs": "Oslanjanje na Allaha ne zamjenjuje pripremu – ono je upotpunjuje." },
+        { "en": "Sometimes leaving is the beginning of something better.", "de": "Manchmal ist das Weggehen der Anfang von etwas Besserem.", "bs": "Ponekad je odlazak početak nečeg boljeg." },
+        { "en": "Fear is natural; what matters is where we turn in it.", "de": "Angst ist natürlich; wichtig ist, wohin wir uns in ihr wenden.", "bs": "Strah je prirodan; važno je kome se u njemu okrećemo." }
+      ]
+    },
+    {
+      "id": "e05-r2",
+      "prompt": { "en": "Is there a \"Hijrah\" in your life – a change you need to make for something better?", "de": "Gibt es eine „Hidschra“ in deinem Leben – eine Veränderung zum Besseren, die du vollziehen solltest?", "bs": "Postoji li „hidžra“ u tvom životu – promjena nabolje koju trebaš napraviti?" },
+      "options": [
+        { "en": "Leaving a bad habit behind.", "de": "Eine schlechte Gewohnheit hinter mir lassen.", "bs": "Ostaviti lošu naviku." },
+        { "en": "Changing the company I keep.", "de": "Mein Umfeld verändern.", "bs": "Promijeniti društvo u kojem sam." },
+        { "en": "Making more time for what matters.", "de": "Mehr Zeit für das Wesentliche schaffen.", "bs": "Odvojiti više vremena za ono što je važno." }
+      ]
+    }
+  ],
+  "sources": { "primary": ["q-8-30", "q-9-40", "bukhari-3905", "bukhari-3653"], "secondary": ["ibn-hisham", "tabari", "zad"], "further": ["lings", "ramadan-footsteps"] },
+  "themeIds": ["trust", "planning", "community"]
+}

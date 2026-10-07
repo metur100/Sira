@@ -1,0 +1,67 @@
+[
+  {
+    "id": "e07-q1", "episodeId": "episode-07", "kind": "general", "type": "multipleChoice",
+    "prompt": { "en": "What does the Quran call the day of Badr?", "de": "Wie nennt der Koran den Tag von Badr?", "bs": "Kako Kur'an naziva dan Bedra?" },
+    "options": [
+      { "id": "a", "text": { "en": "The Day of the Criterion", "de": "Den Tag der Unterscheidung", "bs": "Dan razlučivanja" } },
+      { "id": "b", "text": { "en": "The Day of the Trench", "de": "Den Tag des Grabens", "bs": "Dan hendeka" } },
+      { "id": "c", "text": { "en": "The Day of Sorrow", "de": "Den Tag der Trauer", "bs": "Dan tuge" } }
+    ],
+    "correctOptionId": "a",
+    "explanation": { "en": "Surah al-Anfal 8:41 refers to \"the Day of the Criterion, the day the two groups met\".", "de": "Sure al-Anfal 8:41 spricht vom „Tag der Unterscheidung, dem Tag, an dem die beiden Scharen aufeinandertrafen“.", "bs": "Sura el-Enfal 8:41 spominje „Dan razlučivanja, dan kada su se sukobile dvije vojske“." },
+    "sourceIds": ["q-8-41"]
+  },
+  {
+    "id": "e07-q2", "episodeId": "episode-07", "kind": "general", "type": "trueFalse",
+    "prompt": { "en": "At Badr the Muslims outnumbered the army of Quraysh.", "de": "Bei Badr waren die Muslime dem Heer der Quraisch zahlenmäßig überlegen.", "bs": "Na Bedru je muslimana bilo više nego kurejšijske vojske." },
+    "correct": false,
+    "explanation": { "en": "A little over three hundred Muslims faced about a thousand. The Quran reminds them that they were few.", "de": "Etwas über dreihundert Muslime standen etwa tausend gegenüber. Der Koran erinnert sie daran, dass sie wenige waren.", "bs": "Nešto više od tri stotine muslimana stajalo je naspram oko hiljadu. Kur'an ih podsjeća da ih je bilo malo." },
+    "sourceIds": ["muslim-1763", "q-3-123"]
+  },
+  {
+    "id": "e07-q3", "episodeId": "episode-07", "kind": "sequence", "type": "multipleChoice",
+    "prompt": { "en": "Which battle came first?", "de": "Welche Schlacht kam zuerst?", "bs": "Koja bitka je bila prva?" },
+    "options": [
+      { "id": "a", "text": { "en": "Uhud", "de": "Uhud", "bs": "Uhud" } },
+      { "id": "b", "text": { "en": "Badr", "de": "Badr", "bs": "Bedr" } },
+      { "id": "c", "text": { "en": "The Trench", "de": "Der Graben", "bs": "Hendek" } }
+    ],
+    "correctOptionId": "b",
+    "explanation": { "en": "Badr (2 AH), Uhud (3 AH), the Trench (5 AH by most accounts).", "de": "Badr (2 n. H.), Uhud (3 n. H.), der Graben (nach den meisten Berichten 5 n. H.).", "bs": "Bedr (2. g. po H.), Uhud (3. g. po H.), Hendek (prema većini predaja 5. g. po H.)." },
+    "sourceIds": ["ibn-hisham"]
+  },
+  {
+    "id": "e07-q4", "episodeId": "episode-07", "kind": "placeEvent", "type": "matching",
+    "prompt": { "en": "Match each place with its event.", "de": "Ordne jedem Ort sein Ereignis zu.", "bs": "Poveži svako mjesto s njegovim događajem." },
+    "pairs": [
+      { "id": "p1", "left": { "en": "Badr", "de": "Badr", "bs": "Bedr" }, "right": { "en": "Victory of the few, 2 AH", "de": "Sieg der Wenigen, 2 n. H.", "bs": "Pobjeda malobrojnih, 2. g. po H." } },
+      { "id": "p2", "left": { "en": "Uhud", "de": "Uhud", "bs": "Uhud" }, "right": { "en": "Archers left their hill, 3 AH", "de": "Bogenschützen verließen ihren Hügel, 3 n. H.", "bs": "Strijelci napustili brežuljak, 3. g. po H." } },
+      { "id": "p3", "left": { "en": "Madinah", "de": "Medina", "bs": "Medina" }, "right": { "en": "Defended by a trench, 5 AH", "de": "Durch einen Graben verteidigt, 5 n. H.", "bs": "Odbranjena hendekom, 5. g. po H." } }
+    ],
+    "explanation": { "en": "Three defining confrontations of the Madinan years.", "de": "Drei prägende Auseinandersetzungen der medinensischen Jahre.", "bs": "Tri ključna sukoba medinskih godina." },
+    "sourceIds": ["ibn-hisham", "bukhari-3039", "q-33-9"]
+  },
+  {
+    "id": "e07-q5", "episodeId": "episode-07", "kind": "personEvent", "type": "matching",
+    "prompt": { "en": "Match each person with Badr or Uhud.", "de": "Ordne jede Person Badr oder Uhud zu.", "bs": "Poveži svaku osobu s Bedrom ili Uhudom." },
+    "pairs": [
+      { "id": "p1", "left": { "en": "Abu Jahl", "de": "Abu Dschahl", "bs": "Ebu Džehl" }, "right": { "en": "Quraysh leader killed at Badr", "de": "Bei Badr getöteter Anführer der Quraisch", "bs": "Kurejšijski vođa ubijen na Bedru" } },
+      { "id": "p2", "left": { "en": "ʿAbdullah ibn Jubayr", "de": "Abdullah ibn Dschubair", "bs": "Abdullah ibn Džubejr" }, "right": { "en": "Commander of the archers at Uhud", "de": "Befehlshaber der Bogenschützen bei Uhud", "bs": "Zapovjednik strijelaca na Uhudu" } },
+      { "id": "p3", "left": { "en": "Hamzah", "de": "Hamza", "bs": "Hamza" }, "right": { "en": "Martyred at Uhud", "de": "Als Märtyrer bei Uhud gefallen", "bs": "Pao kao šehid na Uhudu" } }
+    ],
+    "explanation": { "en": "Badr and Uhud are connected by the same opponents, a year apart.", "de": "Badr und Uhud sind durch dieselben Gegner verbunden, ein Jahr auseinander.", "bs": "Bedr i Uhud povezuju isti protivnici, s razmakom od godinu dana." },
+    "sourceIds": ["ibn-hisham", "bukhari-3039"]
+  },
+  {
+    "id": "e07-q6", "episodeId": "episode-07", "kind": "connection", "type": "multipleChoice",
+    "prompt": { "en": "Which person connects the caravan before Badr with the conquest of Makkah years later?", "de": "Welche Person verbindet die Karawane vor Badr mit der Einnahme Mekkas Jahre später?", "bs": "Koja osoba povezuje karavan prije Bedra s oslobođenjem Mekke godinama kasnije?" },
+    "options": [
+      { "id": "a", "text": { "en": "Abu Sufyan", "de": "Abu Sufyan", "bs": "Ebu Sufjan" } },
+      { "id": "b", "text": { "en": "Waraqah ibn Nawfal", "de": "Waraqa ibn Naufal", "bs": "Varaka ibn Nevfel" } },
+      { "id": "c", "text": { "en": "al-Najashi", "de": "an-Nadschaschi", "bs": "Nedžaši" } }
+    ],
+    "correctOptionId": "a",
+    "explanation": { "en": "Abu Sufyan led the caravan before Badr and accepted Islam at the time of the conquest of Makkah.", "de": "Abu Sufyan führte die Karawane vor Badr und nahm zur Zeit der Einnahme Mekkas den Islam an.", "bs": "Ebu Sufjan je predvodio karavan prije Bedra i primio islam u vrijeme oslobođenja Mekke." },
+    "sourceIds": ["ibn-hisham", "muslim-1780"]
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "id": "e08-q1", "episodeId": "episode-08", "kind": "general", "type": "multipleChoice",
+    "prompt": { "en": "Why did the Muslims travel towards Makkah in 6 AH?", "de": "Warum reisten die Muslime im Jahr 6 n. H. Richtung Mekka?", "bs": "Zašto su muslimani 6. godine po H. putovali prema Mekki?" },
+    "options": [
+      { "id": "a", "text": { "en": "To perform ʿUmrah", "de": "Um die Umra zu vollziehen", "bs": "Da obave umru" } },
+      { "id": "b", "text": { "en": "To fight Quraysh", "de": "Um gegen die Quraisch zu kämpfen", "bs": "Da se bore protiv Kurejšija" } },
+      { "id": "c", "text": { "en": "To trade at the market", "de": "Um auf dem Markt zu handeln", "bs": "Da trguju na pijaci" } }
+    ],
+    "correctOptionId": "a",
+    "explanation": { "en": "They came as pilgrims with sacrificial animals, intending to visit the Kaʿbah.", "de": "Sie kamen als Pilger mit Opfertieren, um die Kaaba zu besuchen.", "bs": "Došli su kao hodočasnici s kurbanima, s namjerom da posjete Kabu." },
+    "sourceIds": ["bukhari-2731"]
+  },
+  {
+    "id": "e08-q2", "episodeId": "episode-08", "kind": "general", "type": "trueFalse",
+    "prompt": { "en": "The Quran calls the Treaty of al-Hudaybiyyah a clear victory.", "de": "Der Koran nennt den Vertrag von al-Hudaibiya einen deutlichen Sieg.", "bs": "Kur'an Ugovor na Hudejbiji naziva jasnom pobjedom." },
+    "correct": true,
+    "explanation": { "en": "Surah al-Fath, revealed on the way back, begins: \"Indeed, We have given you a clear victory.\"", "de": "Sure al-Fath, auf dem Rückweg offenbart, beginnt: „Wir haben dir einen deutlichen Sieg gegeben.“", "bs": "Sura el-Feth, objavljena na povratku, počinje: „Mi smo ti, zaista, jasnu pobjedu dali.“" },
+    "sourceIds": ["q-48-1"]
+  },
+  {
+    "id": "e08-q3", "episodeId": "episode-08", "kind": "timeline", "type": "ordering",
+    "prompt": { "en": "Put the events at al-Hudaybiyyah in order.", "de": "Bringe die Ereignisse in al-Hudaibiya in die richtige Reihenfolge.", "bs": "Poredaj događaje na Hudejbiji." },
+    "items": [
+      { "id": "1", "text": { "en": "Setting out for ʿUmrah", "de": "Aufbruch zur Umra", "bs": "Polazak na umru" } },
+      { "id": "2", "text": { "en": "The Pledge of Ridwan under the tree", "de": "Der Treueeid von Ridwan unter dem Baum", "bs": "Prisega Ridvan ispod drveta" } },
+      { "id": "3", "text": { "en": "Writing the treaty with Suhayl", "de": "Abfassung des Vertrags mit Suhail", "bs": "Pisanje ugovora sa Suhejlom" } },
+      { "id": "4", "text": { "en": "Revelation of Surah al-Fath", "de": "Offenbarung der Sure al-Fath", "bs": "Objava sure el-Feth" } }
+    ],
+    "explanation": { "en": "The pledge followed the rumour about ʿUthman; then the treaty was written; al-Fath was revealed on the way home.", "de": "Der Treueeid folgte auf das Gerücht über Uthman; dann wurde der Vertrag geschrieben; al-Fath wurde auf dem Heimweg offenbart.", "bs": "Prisega je uslijedila nakon glasine o Osmanu; zatim je napisan ugovor; el-Feth je objavljena na povratku." },
+    "sourceIds": ["bukhari-2731", "ibn-hisham", "q-48-1"]
+  },
+  {
+    "id": "e08-q4", "episodeId": "episode-08", "kind": "personEvent", "type": "matching",
+    "prompt": { "en": "Match each person with their role at al-Hudaybiyyah.", "de": "Ordne jede Person ihrer Rolle in al-Hudaibiya zu.", "bs": "Poveži svaku osobu s njenom ulogom na Hudejbiji." },
+    "pairs": [
+      { "id": "p1", "left": { "en": "ʿUthman ibn ʿAffan", "de": "Uthman ibn Affan", "bs": "Osman ibn Affan" }, "right": { "en": "Envoy sent to Makkah", "de": "Gesandter nach Mekka", "bs": "Izaslanik poslan u Mekku" } },
+      { "id": "p2", "left": { "en": "Suhayl ibn ʿAmr", "de": "Suhail ibn Amr", "bs": "Suhejl ibn Amr" }, "right": { "en": "Negotiator for Quraysh", "de": "Unterhändler der Quraisch", "bs": "Pregovarač Kurejšija" } },
+      { "id": "p3", "left": { "en": "ʿUmar ibn al-Khattab", "de": "Umar ibn al-Chattab", "bs": "Omer ibn el-Hattab" }, "right": { "en": "Found the terms very hard", "de": "Empfand die Bedingungen als sehr hart", "bs": "Uslovi su mu bili veoma teški" } }
+    ],
+    "explanation": { "en": "These three appear in the long narration of the treaty and in the Seerah.", "de": "Diese drei erscheinen im ausführlichen Bericht über den Vertrag und in der Sira.", "bs": "Ova trojica se pojavljuju u dugoj predaji o ugovoru i u siri." },
+    "sourceIds": ["bukhari-2731", "ibn-hisham"]
+  },
+  {
+    "id": "e08-q5", "episodeId": "episode-08", "kind": "eventLesson", "type": "matching",
+    "prompt": { "en": "Match each moment with its lesson.", "de": "Ordne jedem Moment seine Lehre zu.", "bs": "Poveži svaki trenutak s njegovom poukom." },
+    "pairs": [
+      { "id": "p1", "left": { "en": "Accepting \"Muhammad ibn ʿAbdullah\" in the text", "de": "„Muhammad ibn Abdullah“ im Text akzeptieren", "bs": "Prihvatanje „Muhammed ibn Abdullah“ u tekstu" }, "right": { "en": "Flexibility for the sake of peace", "de": "Nachgiebigkeit um des Friedens willen", "bs": "Fleksibilnost radi mira" } },
+      { "id": "p2", "left": { "en": "Sacrificing first on Umm Salamah's advice", "de": "Auf Umm Salamas Rat zuerst opfern", "bs": "Prvi klanje kurbana po savjetu Ummu Seleme" }, "right": { "en": "Leading by example", "de": "Mit gutem Beispiel vorangehen", "bs": "Predvoditi primjerom" } },
+      { "id": "p3", "left": { "en": "\"A clear victory\"", "de": "„Ein deutlicher Sieg“", "bs": "„Jasna pobjeda“" }, "right": { "en": "Not every victory looks like one at first", "de": "Nicht jeder Sieg sieht zunächst wie einer aus", "bs": "Svaka pobjeda isprva ne izgleda kao pobjeda" } }
+    ],
+    "explanation": { "en": "Al-Hudaybiyyah is rich in lessons about patience, wisdom and leadership.", "de": "Al-Hudaibiya ist reich an Lehren über Geduld, Weisheit und Führung.", "bs": "Hudejbija je bogata poukama o strpljenju, mudrosti i vodstvu." },
+    "sourceIds": ["bukhari-2731", "q-48-1"]
+  },
+  {
+    "id": "e08-q6", "episodeId": "episode-08", "kind": "connection", "type": "multipleChoice",
+    "prompt": { "en": "What connects the Pledge of Ridwan with the Quran?", "de": "Was verbindet den Treueeid von Ridwan mit dem Koran?", "bs": "Šta povezuje Prisegu Ridvan s Kur'anom?" },
+    "options": [
+      { "id": "a", "text": { "en": "al-Fath 48:18 – Allah was pleased with the believers who pledged under the tree", "de": "al-Fath 48:18 – Allah war mit den Gläubigen zufrieden, die unter dem Baum den Eid leisteten", "bs": "el-Feth 48:18 – Allah je bio zadovoljan vjernicima koji su se zakleli ispod drveta" } },
+      { "id": "b", "text": { "en": "al-Masad 111:1", "de": "al-Masad 111:1", "bs": "el-Mesed 111:1" } },
+      { "id": "c", "text": { "en": "al-Duha 93:6", "de": "ad-Duha 93:6", "bs": "ed-Duha 93:6" } }
+    ],
+    "correctOptionId": "a",
+    "explanation": { "en": "The pledge is named after this verse: ridwan means \"good pleasure\".", "de": "Der Eid ist nach diesem Vers benannt: Ridwan bedeutet „Wohlgefallen“.", "bs": "Prisega je nazvana po ovom ajetu: ridvan znači „zadovoljstvo“." },
+    "sourceIds": ["q-48-18"]
+  }
+]

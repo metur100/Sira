@@ -1,0 +1,170 @@
+[
+  {
+    "id": "makkah",
+    "name": { "en": "Makkah", "de": "Mekka", "bs": "Mekka" },
+    "arabicName": "مكة",
+    "kind": "city",
+    "precision": "historical",
+    "coords": { "lat": 21.4225, "lon": 39.8262 },
+    "whyItMatters": { "en": "Birthplace of the Prophet ﷺ, home of the Kaʿbah and the city where the revelation began.", "de": "Geburtsort des Propheten ﷺ, Ort der Kaaba und Stadt, in der die Offenbarung begann.", "bs": "Rodno mjesto Poslanika ﷺ, mjesto Kabe i grad u kojem je započela Objava." },
+    "description": [
+      { "kind": "fact", "text": { "en": "Makkah lies in a dry valley of the Hijaz. The Kaʿbah stood at its centre, and the tribe of Quraysh, to which the Prophet ﷺ belonged, held authority over the city and its sanctuary.", "de": "Mekka liegt in einem trockenen Tal des Hidschas. Im Zentrum stand die Kaaba, und der Stamm der Quraisch, dem der Prophet ﷺ angehörte, hatte die Führung über die Stadt und ihr Heiligtum.", "bs": "Mekka leži u sušnoj dolini Hidžaza. U njenom središtu nalazila se Kaba, a pleme Kurejš, kojem je pripadao Poslanik ﷺ, imalo je vlast nad gradom i svetištem." }, "sourceIds": ["ibn-hisham"] }
+    ],
+    "locationNote": { "en": "The city and the Kaʿbah have been continuously inhabited and identified since the Prophet's time ﷺ.", "de": "Die Stadt und die Kaaba sind seit der Zeit des Propheten ﷺ durchgehend bewohnt und eindeutig bekannt.", "bs": "Grad i Kaba su od vremena Poslanika ﷺ neprekidno naseljeni i jasno poznati." },
+    "sourceIds": ["ibn-hisham"]
+  },
+  {
+    "id": "hira",
+    "name": { "en": "Cave of Hiraʾ", "de": "Höhle Hira", "bs": "Pećina Hira" },
+    "arabicName": "غار حراء",
+    "kind": "cave",
+    "precision": "historical",
+    "coords": { "lat": 21.4575, "lon": 39.8583 },
+    "whyItMatters": { "en": "The place where the first verses of the Quran were revealed.", "de": "Der Ort, an dem die ersten Verse des Korans offenbart wurden.", "bs": "Mjesto gdje su objavljeni prvi ajeti Kur'ana." },
+    "description": [
+      { "kind": "fact", "text": { "en": "A small cave near the top of the mountain known today as Jabal al-Nur, north-east of the Kaʿbah. Before the revelation, the Prophet ﷺ used to spend nights there in worship.", "de": "Eine kleine Höhle nahe dem Gipfel des Berges, der heute Dschabal an-Nur heißt, nordöstlich der Kaaba. Vor der Offenbarung verbrachte der Prophet ﷺ dort Nächte in Andacht.", "bs": "Mala pećina blizu vrha brda koje se danas zove Džebel en-Nur, sjeveroistočno od Kabe. Prije Objave Poslanik ﷺ je tu provodio noći u ibadetu." }, "sourceIds": ["bukhari-3"] }
+    ],
+    "locationNote": { "en": "The cave on Jabal al-Nur is identified by continuous tradition.", "de": "Die Höhle auf dem Dschabal an-Nur ist durch durchgehende Überlieferung bekannt.", "bs": "Pećina na Džebel en-Nuru poznata je neprekinutom predajom." },
+    "sourceIds": ["bukhari-3"]
+  },
+  {
+    "id": "thawr",
+    "name": { "en": "Cave of Thawr", "de": "Höhle Thaur", "bs": "Pećina Sevr" },
+    "arabicName": "غار ثور",
+    "kind": "cave",
+    "precision": "historical",
+    "coords": { "lat": 21.3775, "lon": 39.8497 },
+    "whyItMatters": { "en": "The Prophet ﷺ and Abu Bakr hid here for three nights at the start of the Hijrah.", "de": "Der Prophet ﷺ und Abu Bakr versteckten sich hier zu Beginn der Hidschra drei Nächte lang.", "bs": "Poslanik ﷺ i Ebu Bekr su se ovdje skrivali tri noći na početku Hidžre." },
+    "description": [
+      { "kind": "fact", "text": { "en": "A cave in a mountain south of Makkah – in the opposite direction from Madinah. The Quran refers to the two in the cave in Surah al-Tawbah 9:40.", "de": "Eine Höhle in einem Berg südlich von Mekka – in der Gegenrichtung zu Medina. Der Koran erwähnt die zwei in der Höhle in Sure at-Tauba 9:40.", "bs": "Pećina u brdu južno od Mekke – u suprotnom smjeru od Medine. Kur'an spominje dvojicu u pećini u suri et-Tevbe 9:40." }, "sourceIds": ["q-9-40", "bukhari-3905"] }
+    ],
+    "locationNote": { "en": "Identified with the cave on Jabal Thawr by long tradition.", "de": "Durch lange Überlieferung mit der Höhle auf dem Dschabal Thaur gleichgesetzt.", "bs": "Dugom predajom poistovjećena s pećinom na Džebel Sevru." },
+    "sourceIds": ["bukhari-3905"]
+  },
+  {
+    "id": "taif",
+    "name": { "en": "Taʾif", "de": "Taif", "bs": "Taif" },
+    "arabicName": "الطائف",
+    "kind": "city",
+    "precision": "historical",
+    "coords": { "lat": 21.2703, "lon": 40.4158 },
+    "whyItMatters": { "en": "The Prophet ﷺ went here seeking support after the Year of Sorrow and was rejected – and still responded with mercy.", "de": "Der Prophet ﷺ suchte hier nach dem Jahr der Trauer Unterstützung und wurde abgewiesen – und antwortete dennoch mit Barmherzigkeit.", "bs": "Poslanik ﷺ je ovdje tražio podršku nakon Godine tuge i bio odbijen – a ipak je odgovorio milošću." },
+    "description": [
+      { "kind": "fact", "text": { "en": "A town in the mountains south-east of Makkah, home of the tribe of Thaqif.", "de": "Eine Stadt in den Bergen südöstlich von Mekka, Heimat des Stammes Thaqif.", "bs": "Grad u planinama jugoistočno od Mekke, dom plemena Sekif." }, "sourceIds": ["ibn-hisham"] }
+    ],
+    "locationNote": { "en": "The town of Taʾif has existed continuously at the same location.", "de": "Die Stadt Taif besteht durchgehend am selben Ort.", "bs": "Grad Taif neprekidno postoji na istom mjestu." },
+    "sourceIds": ["ibn-hisham", "bukhari-3231"]
+  },
+  {
+    "id": "abyssinia",
+    "name": { "en": "Abyssinia (al-Habashah)", "de": "Abessinien (al-Habascha)", "bs": "Abesinija (el-Habeša)" },
+    "arabicName": "الحبشة",
+    "kind": "region",
+    "precision": "approximate",
+    "coords": null,
+    "whyItMatters": { "en": "The first refuge of persecuted Muslims, under a just Christian king, al-Najashi.", "de": "Die erste Zuflucht der verfolgten Muslime, unter einem gerechten christlichen König, an-Nadschaschi.", "bs": "Prvo utočište progonjenih muslimana, pod pravednim kršćanskim kraljem, Nedžašijem." },
+    "description": [
+      { "kind": "fact", "text": { "en": "The kingdom of Aksum across the Red Sea, in the region of present-day Ethiopia and Eritrea.", "de": "Das Königreich Aksum jenseits des Roten Meeres, in der Region des heutigen Äthiopien und Eritrea.", "bs": "Kraljevstvo Aksum preko Crvenog mora, na području današnje Etiopije i Eritreje." }, "sourceIds": ["ibn-hisham"] }
+    ],
+    "locationNote": { "en": "A region rather than a single site; it lies outside this map.", "de": "Eine Region und kein einzelner Ort; sie liegt außerhalb dieser Karte.", "bs": "Područje, a ne jedno mjesto; nalazi se izvan ove mape." },
+    "sourceIds": ["ibn-hisham"]
+  },
+  {
+    "id": "quba",
+    "name": { "en": "Quba", "de": "Quba", "bs": "Kuba" },
+    "arabicName": "قباء",
+    "kind": "site",
+    "precision": "historical",
+    "coords": { "lat": 24.4393, "lon": 39.6172 },
+    "whyItMatters": { "en": "The Prophet's first stop at the edge of Madinah during the Hijrah, where a mosque was founded.", "de": "Die erste Station des Propheten am Rand von Medina während der Hidschra, wo eine Moschee gegründet wurde.", "bs": "Prva postaja Poslanika na rubu Medine tokom Hidžre, gdje je osnovan mesdžid." },
+    "description": [
+      { "kind": "fact", "text": { "en": "A settlement on the southern outskirts of Madinah. The Prophet ﷺ stayed there for some days before entering the town itself.", "de": "Eine Siedlung am südlichen Stadtrand von Medina. Der Prophet ﷺ blieb dort einige Tage, bevor er in die Stadt selbst einzog.", "bs": "Naselje na južnoj periferiji Medine. Poslanik ﷺ je tu ostao nekoliko dana prije nego što je ušao u sam grad." }, "sourceIds": ["bukhari-3905", "ibn-hisham"] }
+    ],
+    "locationNote": { "en": "The site of the Quba mosque is known by continuous tradition.", "de": "Der Ort der Quba-Moschee ist durch durchgehende Überlieferung bekannt.", "bs": "Mjesto Kuba mesdžida poznato je neprekinutom predajom." },
+    "sourceIds": ["bukhari-3905"]
+  },
+  {
+    "id": "madinah",
+    "name": { "en": "Madinah", "de": "Medina", "bs": "Medina" },
+    "arabicName": "المدينة",
+    "kind": "city",
+    "precision": "historical",
+    "coords": { "lat": 24.4672, "lon": 39.6112 },
+    "whyItMatters": { "en": "Formerly Yathrib – the city that welcomed the Prophet ﷺ and became the centre of the first Muslim community.", "de": "Früher Yathrib – die Stadt, die den Propheten ﷺ aufnahm und zum Zentrum der ersten muslimischen Gemeinschaft wurde.", "bs": "Ranije Jesrib – grad koji je primio Poslanika ﷺ i postao središte prve muslimanske zajednice." },
+    "description": [
+      { "kind": "fact", "text": { "en": "An oasis town about 400 km north of Makkah, home of the Aws and Khazraj and of several Jewish tribes. After the Hijrah it became known as al-Madinah, \"the City\".", "de": "Eine Oasenstadt etwa 400 km nördlich von Mekka, Heimat der Aus und Chazradsch sowie mehrerer jüdischer Stämme. Nach der Hidschra wurde sie als al-Madina, „die Stadt“, bekannt.", "bs": "Oazni grad oko 400 km sjeverno od Mekke, dom Evsa i Hazredža te nekoliko jevrejskih plemena. Nakon Hidžre postao je poznat kao el-Medina, „Grad“." }, "sourceIds": ["ibn-hisham"] }
+    ],
+    "locationNote": { "en": "The city and the Prophet's Mosque have been continuously identified. Distances are given as modern approximations.", "de": "Die Stadt und die Prophetenmoschee sind durchgehend bekannt. Entfernungen sind moderne Näherungswerte.", "bs": "Grad i Poslanikov mesdžid neprekidno su poznati. Udaljenosti su savremene procjene." },
+    "sourceIds": ["ibn-hisham", "bukhari-428"]
+  },
+  {
+    "id": "badr",
+    "name": { "en": "Badr", "de": "Badr", "bs": "Bedr" },
+    "arabicName": "بدر",
+    "kind": "battlefield",
+    "precision": "historical",
+    "coords": { "lat": 23.7333, "lon": 38.7667 },
+    "whyItMatters": { "en": "Site of the first major battle between the Muslims and Quraysh in 2 AH, called in the Quran the Day of the Criterion.", "de": "Ort der ersten großen Schlacht zwischen den Muslimen und den Quraisch im Jahr 2 n. H., im Koran „Tag der Unterscheidung“ genannt.", "bs": "Mjesto prve velike bitke između muslimana i Kurejšija 2. godine po H., koju Kur'an naziva Danom razlučivanja." },
+    "description": [
+      { "kind": "fact", "text": { "en": "Wells on the caravan route between Syria and Makkah, south-west of Madinah near the Red Sea coast.", "de": "Brunnen an der Karawanenroute zwischen Syrien und Mekka, südwestlich von Medina nahe der Küste des Roten Meeres.", "bs": "Bunari na karavanskom putu između Šama i Mekke, jugozapadno od Medine, blizu obale Crvenog mora." }, "sourceIds": ["ibn-hisham"] }
+    ],
+    "locationNote": { "en": "The area of Badr is well known (the modern town of Badr). The exact positions of the wells and camps on the day of the battle are approximate.", "de": "Das Gebiet von Badr ist gut bekannt (die heutige Stadt Badr). Die genauen Positionen der Brunnen und Lager am Tag der Schlacht sind ungefähr.", "bs": "Područje Bedra je dobro poznato (današnji grad Bedr). Tačni položaji bunara i logora na dan bitke su približni." },
+    "sourceIds": ["ibn-hisham"]
+  },
+  {
+    "id": "uhud",
+    "name": { "en": "Mount Uhud", "de": "Berg Uhud", "bs": "Brdo Uhud" },
+    "arabicName": "أحد",
+    "kind": "mountain",
+    "precision": "historical",
+    "coords": { "lat": 24.5014, "lon": 39.6119 },
+    "whyItMatters": { "en": "Site of the battle of 3 AH – a lesson in obedience and steadfastness after a setback.", "de": "Ort der Schlacht des Jahres 3 n. H. – eine Lehre über Gehorsam und Standhaftigkeit nach einem Rückschlag.", "bs": "Mjesto bitke 3. godine po H. – pouka o pokornosti i postojanosti nakon poraza." },
+    "description": [
+      { "kind": "fact", "text": { "en": "A mountain just north of Madinah. The martyrs of the battle, including Hamzah, were buried at its foot.", "de": "Ein Berg direkt nördlich von Medina. Die Märtyrer der Schlacht, darunter Hamza, wurden an seinem Fuß begraben.", "bs": "Brdo neposredno sjeverno od Medine. Šehidi bitke, među njima i Hamza, ukopani su u njegovom podnožju." }, "sourceIds": ["ibn-hisham"] }
+    ],
+    "locationNote": { "en": "The mountain and the martyrs' burial ground are clearly identified.", "de": "Der Berg und die Grabstätte der Märtyrer sind eindeutig bekannt.", "bs": "Brdo i mezarje šehida jasno su poznati." },
+    "sourceIds": ["ibn-hisham", "bukhari-3039"]
+  },
+  {
+    "id": "hudaybiyyah",
+    "name": { "en": "al-Hudaybiyyah", "de": "al-Hudaibiya", "bs": "Hudejbija" },
+    "arabicName": "الحديبية",
+    "kind": "site",
+    "precision": "approximate",
+    "coords": { "lat": 21.44, "lon": 39.615 },
+    "whyItMatters": { "en": "Where the treaty of 6 AH was concluded – a peace the Quran calls a clear victory.", "de": "Wo der Vertrag des Jahres 6 n. H. geschlossen wurde – ein Frieden, den der Koran einen deutlichen Sieg nennt.", "bs": "Gdje je sklopljen ugovor 6. godine po H. – mir koji Kur'an naziva jasnom pobjedom." },
+    "description": [
+      { "kind": "fact", "text": { "en": "A place at the edge of the sacred area on the road from Madinah, west of Makkah.", "de": "Ein Ort am Rand des heiligen Bezirks an der Straße von Medina, westlich von Mekka.", "bs": "Mjesto na rubu harema na putu iz Medine, zapadno od Mekke." }, "sourceIds": ["bukhari-2731"] }
+    ],
+    "locationNote": { "en": "Generally identified with the area of present-day al-Shumaysi, about 20 km west of Makkah. The exact spot of the camp and of the tree of the pledge is not known.", "de": "Meist mit dem Gebiet des heutigen asch-Schumaisi etwa 20 km westlich von Mekka gleichgesetzt. Der genaue Ort des Lagers und des Baumes des Treueeids ist nicht bekannt.", "bs": "Uglavnom se poistovjećuje s područjem današnjeg eš-Šumejsija, oko 20 km zapadno od Mekke. Tačno mjesto logora i drveta prisege nije poznato." },
+    "sourceIds": ["bukhari-2731", "ibn-hisham"]
+  },
+  {
+    "id": "arafat",
+    "name": { "en": "ʿArafat", "de": "Arafat", "bs": "Arefat" },
+    "arabicName": "عرفات",
+    "kind": "site",
+    "precision": "historical",
+    "coords": { "lat": 21.3549, "lon": 39.9841 },
+    "whyItMatters": { "en": "Where the Prophet ﷺ delivered his sermon during the Farewell Pilgrimage.", "de": "Wo der Prophet ﷺ während der Abschiedspilgerfahrt seine Ansprache hielt.", "bs": "Gdje je Poslanik ﷺ održao hutbu tokom Oprosnog hadža." },
+    "description": [
+      { "kind": "fact", "text": { "en": "A plain east of Makkah. Standing at ʿArafat on the 9th of Dhu al-Hijjah is the central rite of the Hajj.", "de": "Eine Ebene östlich von Mekka. Das Stehen auf Arafat am 9. Dhu al-Hiddscha ist der zentrale Ritus des Haddsch.", "bs": "Ravnica istočno od Mekke. Stajanje na Arefatu 9. zul-hidžeta središnji je obred hadža." }, "sourceIds": ["muslim-1218"] }
+    ],
+    "locationNote": { "en": "The plain of ʿArafat is clearly identified and used for the Hajj every year.", "de": "Die Ebene von Arafat ist eindeutig bekannt und wird jedes Jahr für den Haddsch genutzt.", "bs": "Ravnica Arefat jasno je poznata i svake godine se koristi za hadž." },
+    "sourceIds": ["muslim-1218"]
+  },
+  {
+    "id": "jeddah",
+    "name": { "en": "Jeddah (modern city)", "de": "Dschidda (heutige Stadt)", "bs": "Džida (današnji grad)" },
+    "arabicName": "جدة",
+    "kind": "city",
+    "precision": "modern",
+    "coords": { "lat": 21.4858, "lon": 39.1925 },
+    "whyItMatters": { "en": "Shown only for orientation: today's port city on the Red Sea coast.", "de": "Nur zur Orientierung gezeigt: die heutige Hafenstadt am Roten Meer.", "bs": "Prikazano samo radi orijentacije: današnji lučki grad na obali Crvenog mora." },
+    "description": [
+      { "kind": "fact", "text": { "en": "A modern reference point; it plays no role in the episodes of this app.", "de": "Ein moderner Bezugspunkt; in den Episoden dieser App spielt die Stadt keine Rolle.", "bs": "Savremena orijentacijska tačka; u epizodama ove aplikacije nema ulogu." }, "sourceIds": [] }
+    ],
+    "locationNote": { "en": "Modern geography.", "de": "Heutige Geografie.", "bs": "Savremena geografija." },
+    "sourceIds": []
+  }
+]

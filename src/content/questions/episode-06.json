@@ -1,0 +1,68 @@
+[
+  {
+    "id": "e06-q1", "episodeId": "episode-06", "kind": "general", "type": "multipleChoice",
+    "prompt": { "en": "What was the first major project after the Prophet ﷺ arrived in Madinah?", "de": "Was war das erste große Vorhaben nach der Ankunft des Propheten ﷺ in Medina?", "bs": "Šta je bio prvi veliki projekat nakon dolaska Poslanika ﷺ u Medinu?" },
+    "options": [
+      { "id": "a", "text": { "en": "Building the mosque", "de": "Der Bau der Moschee", "bs": "Gradnja mesdžida" } },
+      { "id": "b", "text": { "en": "Building a city wall", "de": "Der Bau einer Stadtmauer", "bs": "Gradnja gradskog zida" } },
+      { "id": "c", "text": { "en": "Digging the trench", "de": "Das Ausheben des Grabens", "bs": "Kopanje hendeka" } }
+    ],
+    "correctOptionId": "a",
+    "explanation": { "en": "The land was bought from two orphans and the mosque was built, with the Prophet ﷺ working alongside his companions.", "de": "Das Land wurde von zwei Waisen gekauft und die Moschee gebaut, wobei der Prophet ﷺ mit seinen Gefährten arbeitete.", "bs": "Zemljište je kupljeno od dvoje siročadi i sagrađen je mesdžid, a Poslanik ﷺ je radio zajedno s ashabima." },
+    "sourceIds": ["bukhari-428"]
+  },
+  {
+    "id": "e06-q2", "episodeId": "episode-06", "kind": "general", "type": "trueFalse",
+    "prompt": { "en": "The Muslims in Madinah first prayed towards Jerusalem before the qiblah was changed to the Kaʿbah.", "de": "Die Muslime in Medina beteten zuerst in Richtung Jerusalem, bevor die Gebetsrichtung zur Kaaba geändert wurde.", "bs": "Muslimani u Medini su najprije klanjali prema Jerusalemu prije nego što je kibla promijenjena prema Kabi." },
+    "correct": true,
+    "explanation": { "en": "For sixteen or seventeen months they faced Jerusalem; then the command in al-Baqarah 2:144 came.", "de": "Sechzehn oder siebzehn Monate lang wandten sie sich nach Jerusalem; dann kam das Gebot in al-Baqara 2:144.", "bs": "Šesnaest ili sedamnaest mjeseci okretali su se prema Jerusalemu; zatim je došla naredba u el-Bekare 2:144." },
+    "sourceIds": ["bukhari-40", "q-2-144"]
+  },
+  {
+    "id": "e06-q3", "episodeId": "episode-06", "kind": "timeline", "type": "ordering",
+    "prompt": { "en": "Put these early Madinan events in order.", "de": "Bringe diese frühen Ereignisse in Medina in die richtige Reihenfolge.", "bs": "Poredaj ove rane medinske događaje." },
+    "items": [
+      { "id": "1", "text": { "en": "Arrival at Quba", "de": "Ankunft in Quba", "bs": "Dolazak u Kubu" } },
+      { "id": "2", "text": { "en": "Building the Prophet's Mosque", "de": "Bau der Prophetenmoschee", "bs": "Gradnja Poslanikovog mesdžida" } },
+      { "id": "3", "text": { "en": "Change of the qiblah", "de": "Änderung der Gebetsrichtung", "bs": "Promjena kible" } },
+      { "id": "4", "text": { "en": "Battle of Badr", "de": "Schlacht von Badr", "bs": "Bitka na Bedru" } }
+    ],
+    "explanation": { "en": "Quba and the mosque in 1 AH, the qiblah change in 2 AH and Badr in Ramadan 2 AH.", "de": "Quba und die Moschee im Jahr 1 n. H., die Änderung der Gebetsrichtung im Jahr 2 n. H. und Badr im Ramadan 2 n. H.", "bs": "Kuba i mesdžid 1. godine po H., promjena kible 2. godine po H. i Bedr u ramazanu 2. godine po H." },
+    "sourceIds": ["bukhari-3905", "bukhari-40", "ibn-hisham"]
+  },
+  {
+    "id": "e06-q4", "episodeId": "episode-06", "kind": "eventLesson", "type": "matching",
+    "prompt": { "en": "Match each event with its lesson.", "de": "Ordne jedem Ereignis seine Lehre zu.", "bs": "Poveži svaki događaj s njegovom poukom." },
+    "pairs": [
+      { "id": "p1", "left": { "en": "Building the mosque", "de": "Bau der Moschee", "bs": "Gradnja mesdžida" }, "right": { "en": "A community needs a shared centre", "de": "Eine Gemeinschaft braucht ein gemeinsames Zentrum", "bs": "Zajednici treba zajedničko središte" } },
+      { "id": "p2", "left": { "en": "Brotherhood of Muhajirun and Ansar", "de": "Verbrüderung von Muhadschirun und Ansar", "bs": "Bratimljenje muhadžira i ensarija" }, "right": { "en": "Sharing turns strangers into family", "de": "Teilen macht Fremde zur Familie", "bs": "Dijeljenje stranca pretvara u porodicu" } },
+      { "id": "p3", "left": { "en": "The written agreement", "de": "Die schriftliche Vereinbarung", "bs": "Pisani sporazum" }, "right": { "en": "Clear rights build trust", "de": "Klare Rechte schaffen Vertrauen", "bs": "Jasna prava grade povjerenje" } }
+    ],
+    "explanation": { "en": "These three steps laid the foundation of the Madinan community.", "de": "Diese drei Schritte legten das Fundament der Gemeinschaft in Medina.", "bs": "Ova tri koraka postavila su temelj medinske zajednice." },
+    "sourceIds": ["bukhari-428", "q-59-9", "ibn-hisham"]
+  },
+  {
+    "id": "e06-q5", "episodeId": "episode-06", "kind": "general", "type": "multipleChoice",
+    "prompt": { "en": "What does \"Ansar\" mean?", "de": "Was bedeutet „Ansar“?", "bs": "Šta znači „ensarije“?" },
+    "options": [
+      { "id": "a", "text": { "en": "The Helpers", "de": "Die Helfer", "bs": "Pomagači" } },
+      { "id": "b", "text": { "en": "The Emigrants", "de": "Die Auswanderer", "bs": "Iseljenici" } },
+      { "id": "c", "text": { "en": "The Scholars", "de": "Die Gelehrten", "bs": "Učenjaci" } }
+    ],
+    "correctOptionId": "a",
+    "explanation": { "en": "The Ansar (\"Helpers\") were the Muslims of Madinah; the Muhajirun (\"Emigrants\") came from Makkah.", "de": "Die Ansar („Helfer“) waren die Muslime Medinas; die Muhadschirun („Auswanderer“) kamen aus Mekka.", "bs": "Ensarije („pomagači“) bili su muslimani Medine; muhadžiri („iseljenici“) došli su iz Mekke." },
+    "sourceIds": ["q-9-100"]
+  },
+  {
+    "id": "e06-q6", "episodeId": "episode-06", "kind": "connection", "type": "multipleChoice",
+    "prompt": { "en": "Which verse praises the Ansar for preferring others over themselves?", "de": "Welcher Vers lobt die Ansar dafür, andere sich selbst vorzuziehen?", "bs": "Koji ajet hvali ensarije što su druge pretpostavljali sebi?" },
+    "options": [
+      { "id": "a", "text": { "en": "al-Hashr 59:9", "de": "al-Haschr 59:9", "bs": "el-Hašr 59:9" } },
+      { "id": "b", "text": { "en": "al-Fil 105:1", "de": "al-Fil 105:1", "bs": "el-Fil 105:1" } },
+      { "id": "c", "text": { "en": "al-Israʾ 17:1", "de": "al-Isra 17:1", "bs": "el-Isra 17:1" } }
+    ],
+    "correctOptionId": "a",
+    "explanation": { "en": "Surah al-Hashr 59:9 describes those who welcomed the emigrants and gave them preference even when they themselves were in need.", "de": "Sure al-Haschr 59:9 beschreibt diejenigen, die die Auswanderer aufnahmen und ihnen den Vorzug gaben, auch wenn sie selbst bedürftig waren.", "bs": "Sura el-Hašr 59:9 opisuje one koji su primili muhadžire i davali im prednost čak i kada su sami bili u potrebi." },
+    "sourceIds": ["q-59-9"]
+  }
+]

@@ -1,0 +1,53 @@
+{
+  "id": "episode-01",
+  "order": 1,
+  "era": "before",
+  "title": { "en": "Birth and early life", "de": "Geburt und frühes Leben", "bs": "Rođenje i rani život" },
+  "subtitle": { "en": "An orphan of Makkah known as trustworthy", "de": "Ein Waisenkind aus Mekka, bekannt als vertrauenswürdig", "bs": "Siroče iz Mekke poznato kao povjerljivo" },
+  "period": { "en": "c. 570–610 CE", "de": "um 570–610 n. Chr.", "bs": "oko 570–610. g." },
+  "scene": { "sky": "night", "elements": ["stars", "crescent", "mountains", "city", "kaaba"] },
+  "introduction": { "en": "Before he was a prophet, Muhammad ﷺ grew up as an orphan in Makkah. How did the people around him come to call him trustworthy?", "de": "Bevor er Prophet war, wuchs Muhammad ﷺ als Waise in Mekka auf. Wie kam es, dass die Menschen um ihn herum ihn vertrauenswürdig nannten?", "bs": "Prije nego što je postao poslanik, Muhammed ﷺ je odrastao kao siroče u Mekki. Kako su ga ljudi oko njega počeli nazivati povjerljivim?" },
+  "context": [
+    { "kind": "fact", "text": { "en": "Makkah was a trading town in a dry valley of the Hijaz, built around the Kaʿbah. The tribe of Quraysh guarded the sanctuary and organised caravans to Yemen and Syria. Most Arabs worshipped idols, although some remembered the faith of Ibrahim.", "de": "Mekka war eine Handelsstadt in einem trockenen Tal des Hidschas, um die Kaaba herum gebaut. Der Stamm der Quraisch hütete das Heiligtum und organisierte Karawanen nach Jemen und Syrien. Die meisten Araber beteten Götzen an, doch einige erinnerten sich an den Glauben Abrahams.", "bs": "Mekka je bila trgovački grad u sušnoj dolini Hidžaza, izgrađen oko Kabe. Pleme Kurejš čuvalo je svetište i organizovalo karavane prema Jemenu i Šamu. Većina Arapa obožavala je kipove, iako su se neki sjećali vjere Ibrahima." }, "sourceIds": ["ibn-hisham"] },
+    { "kind": "fact", "text": { "en": "Surah al-Fil recalls how an army with an elephant came to destroy the Kaʿbah and was turned back – the event that gave the \"Year of the Elephant\" its name.", "de": "Sure al-Fil erinnert daran, wie ein Heer mit einem Elefanten kam, um die Kaaba zu zerstören, und zurückgeschlagen wurde – das Ereignis, das dem „Jahr des Elefanten“ seinen Namen gab.", "bs": "Sura el-Fil podsjeća kako je vojska sa slonom došla da uništi Kabu i bila odbijena – događaj po kojem je „Godina slona“ dobila ime." }, "sourceIds": ["q-105"] }
+  ],
+  "mainEvent": [
+    { "kind": "fact", "text": { "en": "Muhammad ﷺ was born in Makkah into the clan of Hashim. His father ʿAbdullah had died before he was born. He himself said that he was born on a Monday.", "de": "Muhammad ﷺ wurde in Mekka im Clan Haschim geboren. Sein Vater Abdullah war vor seiner Geburt gestorben. Er selbst sagte, dass er an einem Montag geboren wurde.", "bs": "Muhammed ﷺ je rođen u Mekki u rodu Hašim. Njegov otac Abdullah umro je prije njegovog rođenja. On sam je rekao da je rođen u ponedjeljak." }, "sourceIds": ["muslim-1162", "ibn-hisham"] },
+    { "kind": "interpretation", "text": { "en": "The year is commonly given as about 570 CE, the Year of the Elephant. The exact day of the month is disputed among scholars.", "de": "Als Jahr wird meist etwa 570 n. Chr. angegeben, das Jahr des Elefanten. Der genaue Tag des Monats ist unter Gelehrten umstritten.", "bs": "Kao godina obično se navodi oko 570. godina, Godina slona. Tačan dan u mjesecu sporan je među učenjacima." }, "sourceIds": ["ibn-hisham", "ibn-kathir"] },
+    { "kind": "fact", "text": { "en": "He spent his first years with Halimah in the desert of Banu Saʿd. He lost his mother at about six and his grandfather ʿAbd al-Muttalib about two years later. His uncle Abu Talib then raised him.", "de": "Seine ersten Jahre verbrachte er bei Halima in der Wüste der Banu Saʿd. Mit etwa sechs verlor er seine Mutter, etwa zwei Jahre später seinen Großvater Abd al-Muttalib. Danach zog ihn sein Onkel Abu Talib auf.", "bs": "Prve godine proveo je kod Halime u pustinji Benu Sa'da. S oko šest godina izgubio je majku, a oko dvije godine kasnije djeda Abdul-Muttaliba. Zatim ga je odgojio amidža Ebu Talib." }, "sourceIds": ["ibn-hisham", "q-93-6"] },
+    { "kind": "fact", "text": { "en": "As a young man he tended sheep for the people of Makkah and later worked in trade, among others for Khadijah, whom he married.", "de": "Als junger Mann hütete er Schafe für die Leute Mekkas und arbeitete später im Handel, unter anderem für Chadidscha, die er heiratete.", "bs": "Kao mladić čuvao je ovce za stanovnike Mekke, a kasnije radio u trgovini, između ostalog za Hatidžu, s kojom se oženio." }, "sourceIds": ["bukhari-2262", "ibn-hisham"] },
+    { "kind": "interpretation", "text": { "en": "The Seerah reports describe how, when the Kaʿbah was rebuilt, he settled a dispute over the Black Stone by letting every clan carry it together on a cloak. People already called him al-Amin, \"the trustworthy\".", "de": "Die Sira-Berichte schildern, wie er beim Wiederaufbau der Kaaba einen Streit um den Schwarzen Stein schlichtete, indem er alle Clans ihn gemeinsam auf einem Tuch tragen ließ. Die Menschen nannten ihn schon al-Amin, „den Vertrauenswürdigen“.", "bs": "Predaje sire opisuju kako je pri obnovi Kabe riješio spor oko Crnog kamena tako što je dao da ga svi rodovi zajedno nose na ogrtaču. Ljudi su ga već nazivali el-Emin, „povjerljivi“." }, "sourceIds": ["ibn-hisham"] }
+  ],
+  "mainEventId": "birth",
+  "events": ["elephant", "birth", "childhood", "marriage", "kaaba-rebuild"],
+  "people": ["muhammad", "aminah", "abd-al-muttalib", "halimah", "abu-talib", "khadijah"],
+  "places": ["makkah"],
+  "routes": [],
+  "questions": ["e01-q1", "e01-q2", "e01-q3", "e01-q4", "e01-q5", "e01-q6"],
+  "lessons": [
+    { "title": { "en": "Character comes first", "de": "Charakter zuerst", "bs": "Karakter na prvom mjestu" }, "text": { "en": "Long before the revelation, Muhammad ﷺ was known for honesty. The Quran later praised his \"great character\". Trust is built through years of small, honest actions.", "de": "Lange vor der Offenbarung war Muhammad ﷺ für seine Ehrlichkeit bekannt. Der Koran lobte später seinen „großartigen Charakter“. Vertrauen entsteht durch Jahre kleiner, ehrlicher Taten.", "bs": "Mnogo prije Objave Muhammed ﷺ bio je poznat po poštenju. Kur'an je kasnije pohvalio njegov „uzvišeni karakter“. Povjerenje se gradi godinama malih, poštenih djela." }, "themeId": "character" },
+    { "title": { "en": "Hardship is not the end", "de": "Not ist nicht das Ende", "bs": "Teškoća nije kraj" }, "text": { "en": "He lost his father, his mother and his grandfather as a child. The Quran reminds him that Allah found him an orphan and gave him shelter.", "de": "Als Kind verlor er Vater, Mutter und Großvater. Der Koran erinnert ihn daran, dass Allah ihn als Waise fand und ihm Zuflucht gab.", "bs": "Kao dijete izgubio je oca, majku i djeda. Kur'an ga podsjeća da ga je Allah našao siročetom i dao mu utočište." }, "themeId": "patience" }
+  ],
+  "reflectionQuestions": [
+    {
+      "id": "e01-r1",
+      "prompt": { "en": "What do people around you know you for – and what would you like them to know you for?", "de": "Wofür kennen dich die Menschen in deiner Umgebung – und wofür möchtest du bekannt sein?", "bs": "Po čemu te ljudi oko tebe poznaju – i po čemu bi volio da te poznaju?" },
+      "options": [
+        { "en": "I want to be known as someone who keeps their word.", "de": "Ich möchte als jemand bekannt sein, der sein Wort hält.", "bs": "Želim biti poznat kao neko ko drži riječ." },
+        { "en": "I want to be someone people can trust with what matters to them.", "de": "Ich möchte jemand sein, dem man anvertrauen kann, was einem wichtig ist.", "bs": "Želim biti neko kome ljudi mogu povjeriti ono što im je važno." },
+        { "en": "I want my character to speak before my words do.", "de": "Ich möchte, dass mein Charakter spricht, bevor meine Worte es tun.", "bs": "Želim da moj karakter govori prije mojih riječi." }
+      ]
+    },
+    {
+      "id": "e01-r2",
+      "prompt": { "en": "The Prophet ﷺ grew up without his parents. How can you support someone who is going through loss?", "de": "Der Prophet ﷺ wuchs ohne seine Eltern auf. Wie kannst du jemanden unterstützen, der einen Verlust erlebt?", "bs": "Poslanik ﷺ je odrastao bez roditelja. Kako možeš podržati nekoga ko prolazi kroz gubitak?" },
+      "options": [
+        { "en": "By being present and listening.", "de": "Indem ich da bin und zuhöre.", "bs": "Tako što sam uz njega i slušam." },
+        { "en": "By helping with practical things.", "de": "Indem ich bei praktischen Dingen helfe.", "bs": "Tako što pomažem u praktičnim stvarima." },
+        { "en": "By remembering them in my duʿaʾ.", "de": "Indem ich in meinem Bittgebet an sie denke.", "bs": "Tako što ih spominjem u dovi." }
+      ]
+    }
+  ],
+  "sources": { "primary": ["q-105", "q-93-6", "q-68-4", "muslim-1162", "bukhari-2262"], "secondary": ["ibn-hisham", "ibn-sad", "ibn-kathir"], "further": ["lings", "mubarakpuri"] },
+  "themeIds": ["character", "patience"]
+}

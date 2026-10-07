@@ -1,0 +1,68 @@
+[
+  {
+    "id": "e02-q1", "episodeId": "episode-02", "kind": "general", "type": "multipleChoice",
+    "prompt": { "en": "Which verses were the first to be revealed?", "de": "Welche Verse wurden als Erste offenbart?", "bs": "Koji su ajeti prvi objavljeni?" },
+    "options": [
+      { "id": "a", "text": { "en": "The beginning of Surah al-ʿAlaq", "de": "Der Anfang der Sure al-Alaq", "bs": "Početak sure el-Alek" } },
+      { "id": "b", "text": { "en": "Surah al-Fatihah", "de": "Sure al-Fatiha", "bs": "Sura el-Fatiha" } },
+      { "id": "c", "text": { "en": "Ayat al-Kursi", "de": "Der Thronvers", "bs": "Ajetul-kursija" } }
+    ],
+    "correctOptionId": "a",
+    "explanation": { "en": "According to ʿAʾishah's report in Sahih al-Bukhari, the first revelation was \"Read in the name of your Lord…\" (96:1–5).", "de": "Nach Aischas Bericht in Sahih al-Bukhari war die erste Offenbarung „Lies im Namen deines Herrn …“ (96:1–5).", "bs": "Prema Aišinoj predaji u Sahihu el-Buharija, prva Objava bila je „Čitaj, u ime Gospodara tvoga…“ (96:1–5)." },
+    "sourceIds": ["bukhari-3", "q-96-1"]
+  },
+  {
+    "id": "e02-q2", "episodeId": "episode-02", "kind": "general", "type": "trueFalse",
+    "prompt": { "en": "After the first revelation, Khadijah told him that Allah would never disgrace him.", "de": "Nach der ersten Offenbarung sagte Chadidscha ihm, dass Allah ihn niemals zuschanden machen werde.", "bs": "Nakon prve Objave Hatidža mu je rekla da ga Allah nikada neće poniziti." },
+    "correct": true,
+    "explanation": { "en": "She pointed to his good deeds: keeping family ties, helping the weak, honouring guests and supporting people in hardship.", "de": "Sie verwies auf seine guten Taten: Verwandtschaftsbande pflegen, den Schwachen helfen, Gäste ehren und Menschen in Not beistehen.", "bs": "Ukazala je na njegova dobra djela: održavanje rodbinskih veza, pomaganje slabima, čašćenje gostiju i pomaganje ljudima u nevolji." },
+    "sourceIds": ["bukhari-3"]
+  },
+  {
+    "id": "e02-q3", "episodeId": "episode-02", "kind": "timeline", "type": "ordering",
+    "prompt": { "en": "Put the events of the first revelation in order.", "de": "Bringe die Ereignisse der ersten Offenbarung in die richtige Reihenfolge.", "bs": "Poredaj događaje prve Objave." },
+    "items": [
+      { "id": "1", "text": { "en": "Worship in the Cave of Hiraʾ", "de": "Andacht in der Höhle Hira", "bs": "Ibadet u pećini Hira" } },
+      { "id": "2", "text": { "en": "The angel says: \"Read!\"", "de": "Der Engel sagt: „Lies!“", "bs": "Melek kaže: „Čitaj!“" } },
+      { "id": "3", "text": { "en": "Khadijah comforts him", "de": "Chadidscha tröstet ihn", "bs": "Hatidža ga tješi" } },
+      { "id": "4", "text": { "en": "Visit to Waraqah ibn Nawfal", "de": "Besuch bei Waraqa ibn Naufal", "bs": "Posjeta Varaki ibn Nevfelu" } }
+    ],
+    "explanation": { "en": "This is the order narrated by ʿAʾishah in Sahih al-Bukhari.", "de": "So berichtet es Aischa in Sahih al-Bukhari.", "bs": "Tim redom to prenosi Aiša u Sahihu el-Buharija." },
+    "sourceIds": ["bukhari-3"]
+  },
+  {
+    "id": "e02-q4", "episodeId": "episode-02", "kind": "placeEvent", "type": "matching",
+    "prompt": { "en": "Match each place or person with what happened there.", "de": "Ordne jeden Ort bzw. jede Person dem Geschehen zu.", "bs": "Poveži mjesto ili osobu s onim što se desilo." },
+    "pairs": [
+      { "id": "p1", "left": { "en": "Cave of Hiraʾ", "de": "Höhle Hira", "bs": "Pećina Hira" }, "right": { "en": "The first verses were revealed", "de": "Die ersten Verse wurden offenbart", "bs": "Objavljeni su prvi ajeti" } },
+      { "id": "p2", "left": { "en": "Khadijah's home", "de": "Chadidschas Haus", "bs": "Hatidžin dom" }, "right": { "en": "\"Cover me\" – he was comforted", "de": "„Bedeckt mich“ – er wurde getröstet", "bs": "„Pokrijte me“ – bio je utješen" } },
+      { "id": "p3", "left": { "en": "Waraqah ibn Nawfal", "de": "Waraqa ibn Naufal", "bs": "Varaka ibn Nevfel" }, "right": { "en": "Recognised the angel who came to Moses", "de": "Erkannte den Engel, der zu Moses kam", "bs": "Prepoznao meleka koji je dolazio Musau" } }
+    ],
+    "explanation": { "en": "All three are part of ʿAʾishah's narration of how the revelation began.", "de": "Alle drei sind Teil von Aischas Bericht über den Beginn der Offenbarung.", "bs": "Sve troje je dio Aišine predaje o početku Objave." },
+    "sourceIds": ["bukhari-3"]
+  },
+  {
+    "id": "e02-q5", "episodeId": "episode-02", "kind": "sequence", "type": "multipleChoice",
+    "prompt": { "en": "What came after the pause in revelation?", "de": "Was kam nach der Pause der Offenbarung?", "bs": "Šta je došlo nakon prekida Objave?" },
+    "options": [
+      { "id": "a", "text": { "en": "The beginning of Surah al-Muddaththir", "de": "Der Anfang der Sure al-Muddaththir", "bs": "Početak sure el-Muddessir" } },
+      { "id": "b", "text": { "en": "The change of the qiblah", "de": "Die Änderung der Gebetsrichtung", "bs": "Promjena kible" } },
+      { "id": "c", "text": { "en": "Surah al-Fath", "de": "Sure al-Fath", "bs": "Sura el-Feth" } }
+    ],
+    "correctOptionId": "a",
+    "explanation": { "en": "Jabir reported that after the pause the angel appeared again and \"O you who covers himself, arise and warn\" was revealed.", "de": "Dschabir berichtete, dass nach der Pause der Engel erneut erschien und „O du Zugedeckter, steh auf und warne“ offenbart wurde.", "bs": "Džabir je prenio da se nakon prekida melek ponovo pojavio i objavljeno je „O ti, pokriveni, ustani i opominji“." },
+    "sourceIds": ["bukhari-4", "q-74-1"]
+  },
+  {
+    "id": "e02-q6", "episodeId": "episode-02", "kind": "connection", "type": "multipleChoice",
+    "prompt": { "en": "Who connects the Cave of Hiraʾ and Waraqah ibn Nawfal in this story?", "de": "Wer verbindet in dieser Geschichte die Höhle Hira mit Waraqa ibn Naufal?", "bs": "Ko u ovoj priči povezuje pećinu Hira i Varaku ibn Nevfela?" },
+    "options": [
+      { "id": "a", "text": { "en": "Khadijah", "de": "Chadidscha", "bs": "Hatidža" } },
+      { "id": "b", "text": { "en": "Abu Talib", "de": "Abu Talib", "bs": "Ebu Talib" } },
+      { "id": "c", "text": { "en": "ʿUmar", "de": "Umar", "bs": "Omer" } }
+    ],
+    "correctOptionId": "a",
+    "explanation": { "en": "Khadijah, his wife, was Waraqah's cousin and took him to Waraqah after he returned from the cave.", "de": "Chadidscha, seine Frau, war Waraqas Cousine und brachte ihn nach seiner Rückkehr aus der Höhle zu Waraqa.", "bs": "Hatidža, njegova supruga, bila je Varakina rođaka i odvela ga je Varaki nakon povratka iz pećine." },
+    "sourceIds": ["bukhari-3"]
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "id": "e04-q1", "episodeId": "episode-04", "kind": "general", "type": "multipleChoice",
+    "prompt": { "en": "Who gave the first Muslim emigrants protection in Abyssinia?", "de": "Wer gewährte den ersten muslimischen Auswanderern in Abessinien Schutz?", "bs": "Ko je prvim muslimanskim iseljenicima pružio zaštitu u Abesiniji?" },
+    "options": [
+      { "id": "a", "text": { "en": "al-Najashi, the Christian king", "de": "an-Nadschaschi, der christliche König", "bs": "Nedžaši, kršćanski kralj" } },
+      { "id": "b", "text": { "en": "Abu Sufyan", "de": "Abu Sufyan", "bs": "Ebu Sufjan" } },
+      { "id": "c", "text": { "en": "The tribe of Thaqif", "de": "Der Stamm Thaqif", "bs": "Pleme Sekif" } }
+    ],
+    "correctOptionId": "a",
+    "explanation": { "en": "The just king al-Najashi refused to hand the Muslims over to Quraysh.", "de": "Der gerechte König an-Nadschaschi weigerte sich, die Muslime an die Quraisch auszuliefern.", "bs": "Pravedni kralj Nedžaši odbio je izručiti muslimane Kurejšijama." },
+    "sourceIds": ["ibn-hisham"]
+  },
+  {
+    "id": "e04-q2", "episodeId": "episode-04", "kind": "general", "type": "trueFalse",
+    "prompt": { "en": "At Taʾif, when the angel of the mountains offered to destroy the people, the Prophet ﷺ accepted.", "de": "Als in Taif der Engel der Berge anbot, die Leute zu vernichten, nahm der Prophet ﷺ an.", "bs": "U Taifu, kada je melek planina ponudio da uništi te ljude, Poslanik ﷺ je prihvatio." },
+    "correct": false,
+    "explanation": { "en": "He refused and hoped that their descendants would worship Allah alone.", "de": "Er lehnte ab und hoffte, dass ihre Nachkommen Allah allein anbeten würden.", "bs": "Odbio je i nadao se da će njihovi potomci obožavati samo Allaha." },
+    "sourceIds": ["bukhari-3231"]
+  },
+  {
+    "id": "e04-q3", "episodeId": "episode-04", "kind": "timeline", "type": "ordering",
+    "prompt": { "en": "Put the events of the Makkan hardship in order.", "de": "Bringe die Ereignisse der mekkanischen Not in die richtige Reihenfolge.", "bs": "Poredaj događaje mekanskih teškoća." },
+    "items": [
+      { "id": "1", "text": { "en": "Migration to Abyssinia", "de": "Auswanderung nach Abessinien", "bs": "Hidžra u Abesiniju" } },
+      { "id": "2", "text": { "en": "The boycott of Banu Hashim", "de": "Der Boykott der Banu Haschim", "bs": "Bojkot Benu Hašima" } },
+      { "id": "3", "text": { "en": "The Year of Sorrow", "de": "Das Jahr der Trauer", "bs": "Godina tuge" } },
+      { "id": "4", "text": { "en": "The journey to Taʾif", "de": "Die Reise nach Taif", "bs": "Putovanje u Taif" } }
+    ],
+    "explanation": { "en": "Abyssinia (c. 615), the boycott (c. 616–619), the deaths of Abu Talib and Khadijah (c. 619) and then Taʾif.", "de": "Abessinien (um 615), der Boykott (um 616–619), der Tod von Abu Talib und Chadidscha (um 619) und dann Taif.", "bs": "Abesinija (oko 615), bojkot (oko 616–619), smrt Ebu Taliba i Hatidže (oko 619), a zatim Taif." },
+    "sourceIds": ["ibn-hisham"]
+  },
+  {
+    "id": "e04-q4", "episodeId": "episode-04", "kind": "placeEvent", "type": "matching",
+    "prompt": { "en": "Match each place with what happened there.", "de": "Ordne jedem Ort das Geschehen zu.", "bs": "Poveži svako mjesto s onim što se tu desilo." },
+    "pairs": [
+      { "id": "p1", "left": { "en": "Abyssinia", "de": "Abessinien", "bs": "Abesinija" }, "right": { "en": "Refuge under a just king", "de": "Zuflucht bei einem gerechten König", "bs": "Utočište kod pravednog kralja" } },
+      { "id": "p2", "left": { "en": "Taʾif", "de": "Taif", "bs": "Taif" }, "right": { "en": "Rejected, he answered with mercy", "de": "Abgewiesen, antwortete er mit Barmherzigkeit", "bs": "Odbijen, odgovorio je milošću" } },
+      { "id": "p3", "left": { "en": "Shiʿb Abi Talib in Makkah", "de": "Schiʿb Abi Talib in Mekka", "bs": "Ši'b Ebi Talib u Mekki" }, "right": { "en": "Years of boycott and hunger", "de": "Jahre des Boykotts und Hungers", "bs": "Godine bojkota i gladi" } }
+    ],
+    "explanation": { "en": "Three places, three different forms of hardship.", "de": "Drei Orte, drei verschiedene Formen der Not.", "bs": "Tri mjesta, tri različita oblika teškoće." },
+    "sourceIds": ["ibn-hisham", "bukhari-3231"]
+  },
+  {
+    "id": "e04-q5", "episodeId": "episode-04", "kind": "sequence", "type": "multipleChoice",
+    "prompt": { "en": "Which came first?", "de": "Was kam zuerst?", "bs": "Šta je bilo prvo?" },
+    "options": [
+      { "id": "a", "text": { "en": "The Year of Sorrow", "de": "Das Jahr der Trauer", "bs": "Godina tuge" } },
+      { "id": "b", "text": { "en": "The migration to Abyssinia", "de": "Die Auswanderung nach Abessinien", "bs": "Hidžra u Abesiniju" } },
+      { "id": "c", "text": { "en": "The pledges of al-ʿAqabah", "de": "Die Treueeide von al-Aqaba", "bs": "Prisege na Akabi" } }
+    ],
+    "correctOptionId": "b",
+    "explanation": { "en": "Abyssinia (c. 615) came before the Year of Sorrow (c. 619) and the pledges of al-ʿAqabah (621–622).", "de": "Abessinien (um 615) kam vor dem Jahr der Trauer (um 619) und den Treueeiden von al-Aqaba (621–622).", "bs": "Abesinija (oko 615) bila je prije Godine tuge (oko 619) i prisega na Akabi (621–622)." },
+    "sourceIds": ["ibn-hisham"]
+  },
+  {
+    "id": "e04-q6", "episodeId": "episode-04", "kind": "connection", "type": "multipleChoice",
+    "prompt": { "en": "Which companion connects the persecuted Bilal with his freedom?", "de": "Welcher Gefährte verbindet den verfolgten Bilal mit seiner Freiheit?", "bs": "Koji ashab povezuje progonjenog Bilala s njegovom slobodom?" },
+    "options": [
+      { "id": "a", "text": { "en": "Abu Bakr", "de": "Abu Bakr", "bs": "Ebu Bekr" } },
+      { "id": "b", "text": { "en": "Jaʿfar ibn Abi Talib", "de": "Dschafar ibn Abi Talib", "bs": "Džafer ibn Ebi Talib" } },
+      { "id": "c", "text": { "en": "Suhayl ibn ʿAmr", "de": "Suhail ibn Amr", "bs": "Suhejl ibn Amr" } }
+    ],
+    "correctOptionId": "a",
+    "explanation": { "en": "Abu Bakr bought and freed Bilal and other enslaved believers.", "de": "Abu Bakr kaufte Bilal und andere versklavte Gläubige frei.", "bs": "Ebu Bekr je otkupio i oslobodio Bilala i druge robove vjernike." },
+    "sourceIds": ["ibn-hisham"]
+  }
+]

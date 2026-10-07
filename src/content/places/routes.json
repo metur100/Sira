@@ -1,0 +1,64 @@
+[
+  {
+    "id": "route-taif",
+    "name": { "en": "Journey to Taʾif", "de": "Reise nach Taif", "bs": "Putovanje u Taif" },
+    "eventId": "taif",
+    "points": [
+      { "lat": 21.4225, "lon": 39.8262 },
+      { "lat": 21.36, "lon": 40.1 },
+      { "lat": 21.2703, "lon": 40.4158 }
+    ],
+    "note": { "en": "Drawn as a direct line; the exact path through the mountains is not recorded.", "de": "Als direkte Linie gezeichnet; der genaue Weg durch die Berge ist nicht überliefert.", "bs": "Prikazano kao prava linija; tačan put kroz planine nije zabilježen." }
+  },
+  {
+    "id": "route-hijrah",
+    "name": { "en": "The Hijrah", "de": "Die Hidschra", "bs": "Hidžra" },
+    "eventId": "hijrah",
+    "points": [
+      { "lat": 21.4225, "lon": 39.8262 },
+      { "lat": 21.3775, "lon": 39.8497 },
+      { "lat": 21.75, "lon": 39.3 },
+      { "lat": 22.5, "lon": 39.1 },
+      { "lat": 23.3, "lon": 38.95 },
+      { "lat": 24.0, "lon": 39.3 },
+      { "lat": 24.4393, "lon": 39.6172 },
+      { "lat": 24.4672, "lon": 39.6112 }
+    ],
+    "note": { "en": "The sources describe a southward start to the Cave of Thawr and then an unusual route towards the coast guided by ʿAbdullah ibn Urayqit. The line shows this general direction only; the stations in between are approximate.", "de": "Die Quellen beschreiben einen Aufbruch nach Süden zur Höhle Thaur und dann einen ungewöhnlichen Weg Richtung Küste unter der Führung von Abdullah ibn Uraiqit. Die Linie zeigt nur diese allgemeine Richtung; die Zwischenstationen sind ungefähr.", "bs": "Izvori opisuju polazak prema jugu do pećine Sevr, a zatim neuobičajen put prema obali uz vodiča Abdullaha ibn Urejkita. Linija pokazuje samo taj opći smjer; usputne stanice su približne." }
+  },
+  {
+    "id": "route-badr",
+    "name": { "en": "March to Badr", "de": "Zug nach Badr", "bs": "Pohod na Bedr" },
+    "eventId": "badr",
+    "points": [
+      { "lat": 24.4672, "lon": 39.6112 },
+      { "lat": 24.1, "lon": 39.2 },
+      { "lat": 23.7333, "lon": 38.7667 }
+    ],
+    "note": { "en": "Approximate line between Madinah and Badr.", "de": "Ungefähre Linie zwischen Medina und Badr.", "bs": "Približna linija između Medine i Bedra." }
+  },
+  {
+    "id": "route-hudaybiyyah",
+    "name": { "en": "Journey for ʿUmrah, 6 AH", "de": "Reise zur Umra, 6 n. H.", "bs": "Putovanje radi umre, 6. g. po H." },
+    "eventId": "hudaybiyyah",
+    "points": [
+      { "lat": 24.4672, "lon": 39.6112 },
+      { "lat": 23.4, "lon": 39.25 },
+      { "lat": 22.3, "lon": 39.3 },
+      { "lat": 21.44, "lon": 39.615 }
+    ],
+    "note": { "en": "Approximate line; the Muslims avoided the usual road near the end of the journey, and the details are not mapped here.", "de": "Ungefähre Linie; gegen Ende der Reise mieden die Muslime die übliche Straße, die Einzelheiten sind hier nicht dargestellt.", "bs": "Približna linija; pred kraj putovanja muslimani su izbjegli uobičajeni put, a pojedinosti ovdje nisu ucrtane." }
+  },
+  {
+    "id": "route-conquest",
+    "name": { "en": "March to Makkah, 8 AH", "de": "Zug nach Mekka, 8 n. H.", "bs": "Pohod na Mekku, 8. g. po H." },
+    "eventId": "conquest",
+    "points": [
+      { "lat": 24.4672, "lon": 39.6112 },
+      { "lat": 23.2, "lon": 39.45 },
+      { "lat": 22.0, "lon": 39.6 },
+      { "lat": 21.4225, "lon": 39.8262 }
+    ],
+    "note": { "en": "Approximate line between Madinah and Makkah.", "de": "Ungefähre Linie zwischen Medina und Mekka.", "bs": "Približna linija između Medine i Mekke." }
+  }
+]

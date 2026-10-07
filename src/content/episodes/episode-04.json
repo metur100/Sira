@@ -1,0 +1,54 @@
+{
+  "id": "episode-04",
+  "order": 4,
+  "era": "makkah",
+  "title": { "en": "Persecution in Makkah", "de": "Verfolgung in Mekka", "bs": "Progon u Mekki" },
+  "subtitle": { "en": "Steadfastness, refuge and the road to Taʾif", "de": "Standhaftigkeit, Zuflucht und der Weg nach Taif", "bs": "Postojanost, utočište i put u Taif" },
+  "period": { "en": "c. 613–621 CE", "de": "um 613–621 n. Chr.", "bs": "oko 613–621. g." },
+  "scene": { "sky": "dusk", "elements": ["mountains", "dunes", "city"] },
+  "introduction": { "en": "As Islam spread, opposition grew into persecution. How did the early Muslims endure years of pressure, a boycott and painful losses?", "de": "Als sich der Islam ausbreitete, wurde aus Ablehnung Verfolgung. Wie ertrugen die frühen Muslime jahrelangen Druck, einen Boykott und schmerzhafte Verluste?", "bs": "Kako se islam širio, protivljenje je preraslo u progon. Kako su rani muslimani podnosili godine pritiska, bojkot i bolne gubitke?" },
+  "context": [
+    { "kind": "fact", "text": { "en": "In Makkah, a person's safety depended on their clan. Muslims with powerful protectors were insulted and pressured; those without protection – especially the enslaved and the poor – were tortured.", "de": "In Mekka hing die Sicherheit eines Menschen von seinem Clan ab. Muslime mit mächtigen Beschützern wurden beschimpft und unter Druck gesetzt; Schutzlose – besonders Versklavte und Arme – wurden gefoltert.", "bs": "U Mekki je sigurnost čovjeka zavisila od njegovog roda. Muslimani s moćnim zaštitnicima bili su vrijeđani i pritiskani; oni bez zaštite – posebno robovi i siromasi – bili su mučeni." }, "sourceIds": ["ibn-hisham", "ibnmajah-150"] }
+  ],
+  "mainEvent": [
+    { "kind": "fact", "text": { "en": "Bilal ibn Rabah and the family of Yasir – Yasir, Sumayyah and their son ʿAmmar – were among the first to declare Islam openly and suffered terribly for it. Abu Bakr bought and freed Bilal and other enslaved believers.", "de": "Bilal ibn Rabah und die Familie von Yasir – Yasir, Sumayya und ihr Sohn Ammar – gehörten zu den Ersten, die den Islam offen bekannten, und litten schrecklich dafür. Abu Bakr kaufte Bilal und andere versklavte Gläubige frei.", "bs": "Bilal ibn Rebah i porodica Jasira – Jasir, Sumejja i njihov sin Ammar – bili su među prvima koji su javno ispovijedili islam i strašno su zbog toga patili. Ebu Bekr je otkupio i oslobodio Bilala i druge robove vjernike." }, "sourceIds": ["ibnmajah-150", "ibn-hisham"] },
+    { "kind": "interpretation", "text": { "en": "The biographical works report that Sumayyah was killed for her faith – the first martyr of Islam.", "de": "Die biografischen Werke berichten, dass Sumayya wegen ihres Glaubens getötet wurde – die erste Märtyrerin des Islam.", "bs": "Biografska djela prenose da je Sumejja ubijena zbog vjere – prvi šehid islama." }, "sourceIds": ["ibn-sad"] },
+    { "kind": "fact", "text": { "en": "Around 615 CE a group of Muslims migrated to Abyssinia, where the Christian king al-Najashi gave them protection and refused to hand them back to Quraysh.", "de": "Um 615 n. Chr. wanderte eine Gruppe von Muslimen nach Abessinien aus, wo der christliche König an-Nadschaschi ihnen Schutz gewährte und sich weigerte, sie an die Quraisch auszuliefern.", "bs": "Oko 615. godine skupina muslimana iselila je u Abesiniju, gdje im je kršćanski kralj Nedžaši pružio zaštitu i odbio ih izručiti Kurejšijama." }, "sourceIds": ["ibn-hisham"] },
+    { "kind": "fact", "text": { "en": "Quraysh then boycotted the clans of Hashim and al-Muttalib for about three years. Soon after it ended, Abu Talib and Khadijah died. Seeking support, the Prophet ﷺ went to Taʾif and was rejected harshly – yet when offered the destruction of its people, he hoped instead that their descendants would worship Allah.", "de": "Danach boykottierten die Quraisch die Clans Haschim und al-Muttalib etwa drei Jahre lang. Kurz nach dem Ende starben Abu Talib und Chadidscha. Auf der Suche nach Unterstützung ging der Prophet ﷺ nach Taif und wurde hart abgewiesen – doch als man ihm die Vernichtung der Leute anbot, hoffte er stattdessen, dass ihre Nachkommen Allah anbeten würden.", "bs": "Kurejšije su zatim oko tri godine bojkotovali rodove Hašim i el-Muttalib. Ubrzo nakon kraja bojkota umrli su Ebu Talib i Hatidža. Tražeći podršku, Poslanik ﷺ je otišao u Taif i bio grubo odbijen – a kada mu je ponuđeno uništenje tih ljudi, nadao se da će njihovi potomci obožavati Allaha." }, "sourceIds": ["ibn-hisham", "bukhari-3231"] },
+    { "kind": "fact", "text": { "en": "In this difficult period took place the Night Journey (al-Israʾ), mentioned in the Quran, and the Ascension, in which the five daily prayers were prescribed.", "de": "In diese schwere Zeit fiel die Nachtreise (al-Isra), die im Koran erwähnt wird, und die Himmelfahrt, bei der die fünf täglichen Gebete vorgeschrieben wurden.", "bs": "U ovom teškom periodu desilo se Noćno putovanje (Isra), spomenuto u Kur'anu, i Uzašašće, na kojem je propisano pet dnevnih namaza." }, "sourceIds": ["q-17-1", "ibn-hisham"] },
+    { "kind": "interpretation", "text": { "en": "The exact date of al-Israʾ and al-Miʿraj is disputed; the sources place it before the Hijrah but give different years.", "de": "Das genaue Datum von al-Isra und al-Miʿradsch ist umstritten; die Quellen setzen es vor die Hidschra, nennen aber unterschiedliche Jahre.", "bs": "Tačan datum Isra i Miradža je sporan; izvori ga smještaju prije Hidžre, ali navode različite godine." }, "sourceIds": ["ibn-kathir"] }
+  ],
+  "mainEventId": "persecution",
+  "events": ["persecution", "abyssinia", "boycott", "year-of-sorrow", "taif", "isra-miraj"],
+  "people": ["bilal", "sumayyah", "abu-bakr", "abu-jahl", "jafar", "najashi", "abu-talib", "khadijah", "zayd"],
+  "places": ["makkah", "abyssinia", "taif"],
+  "routes": ["route-taif"],
+  "questions": ["e04-q1", "e04-q2", "e04-q3", "e04-q4", "e04-q5", "e04-q6"],
+  "lessons": [
+    { "title": { "en": "Steadfastness under pressure", "de": "Standhaftigkeit unter Druck", "bs": "Postojanost pod pritiskom" }, "text": { "en": "Bilal, Sumayyah and others held on to their faith when they had nothing else. The Quran promises: with hardship comes ease.", "de": "Bilal, Sumayya und andere hielten an ihrem Glauben fest, als sie nichts anderes hatten. Der Koran verspricht: Mit der Erschwernis kommt Erleichterung.", "bs": "Bilal, Sumejja i drugi ustrajali su u vjeri kada nisu imali ništa drugo. Kur'an obećava: s teškoćom dolazi olakšanje." }, "themeId": "patience" },
+    { "title": { "en": "Justice can come from unexpected places", "de": "Gerechtigkeit kann von unerwarteter Seite kommen", "bs": "Pravda može doći s neočekivane strane" }, "text": { "en": "A Christian king protected the persecuted Muslims because he was just. Fairness deserves recognition wherever it is found.", "de": "Ein christlicher König schützte die verfolgten Muslime, weil er gerecht war. Gerechtigkeit verdient Anerkennung, wo immer man sie findet.", "bs": "Kršćanski kralj zaštitio je progonjene muslimane jer je bio pravedan. Pravednost zaslužuje priznanje gdje god se nađe." }, "themeId": "justice" },
+    { "title": { "en": "Mercy after rejection", "de": "Barmherzigkeit nach Ablehnung", "bs": "Milost nakon odbacivanja" }, "text": { "en": "At Taʾif the Prophet ﷺ chose hope and mercy over revenge.", "de": "In Taif wählte der Prophet ﷺ Hoffnung und Barmherzigkeit statt Rache.", "bs": "U Taifu je Poslanik ﷺ izabrao nadu i milost umjesto osvete." }, "themeId": "mercy" }
+  ],
+  "reflectionQuestions": [
+    {
+      "id": "e04-r1",
+      "prompt": { "en": "What can we learn from the patience of the early Muslims?", "de": "Was können wir von der Geduld der frühen Muslime lernen?", "bs": "Šta možemo naučiti iz strpljenja ranih muslimana?" },
+      "options": [
+        { "en": "That faith can give strength when everything else is taken away.", "de": "Dass der Glaube Kraft geben kann, wenn alles andere genommen wird.", "bs": "Da vjera može dati snagu kada je sve ostalo oduzeto." },
+        { "en": "That standing together matters in hard times.", "de": "Dass Zusammenhalt in schweren Zeiten wichtig ist.", "bs": "Da je zajedništvo važno u teškim vremenima." },
+        { "en": "That my own difficulties are smaller than I sometimes think.", "de": "Dass meine eigenen Schwierigkeiten kleiner sind, als ich manchmal denke.", "bs": "Da su moje teškoće manje nego što ponekad mislim." }
+      ]
+    },
+    {
+      "id": "e04-r2",
+      "prompt": { "en": "After Taʾif, the Prophet ﷺ responded to cruelty with hope. How do you respond when someone treats you badly?", "de": "Nach Taif antwortete der Prophet ﷺ auf Grausamkeit mit Hoffnung. Wie reagierst du, wenn dich jemand schlecht behandelt?", "bs": "Nakon Taifa Poslanik ﷺ je na okrutnost odgovorio nadom. Kako ti reaguješ kada se neko loše ponaša prema tebi?" },
+      "options": [
+        { "en": "I want to pause before I react.", "de": "Ich möchte innehalten, bevor ich reagiere.", "bs": "Želim zastati prije nego što reagujem." },
+        { "en": "I want to make duʿaʾ for them instead of against them.", "de": "Ich möchte für sie bitten statt gegen sie.", "bs": "Želim učiti dovu za njih, a ne protiv njih." },
+        { "en": "I find it hard – and that is worth working on.", "de": "Es fällt mir schwer – und daran lohnt es sich zu arbeiten.", "bs": "Teško mi je – i vrijedi raditi na tome." }
+      ]
+    }
+  ],
+  "sources": { "primary": ["q-17-1", "q-94-5", "ibnmajah-150", "bukhari-3231", "bukhari-1245"], "secondary": ["ibn-hisham", "ibn-sad", "ibn-kathir"], "further": ["guillaume", "lings"] },
+  "themeIds": ["patience", "justice", "mercy"]
+}

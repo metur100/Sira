@@ -1,0 +1,53 @@
+{
+  "id": "episode-07",
+  "order": 7,
+  "era": "madinah",
+  "title": { "en": "The Battle of Badr", "de": "Die Schlacht von Badr", "bs": "Bitka na Bedru" },
+  "subtitle": { "en": "The Day of the Criterion – and the lesson of Uhud", "de": "Der Tag der Unterscheidung – und die Lehre von Uhud", "bs": "Dan razlučivanja – i pouka Uhuda" },
+  "period": { "en": "2–3 AH / 624–625 CE", "de": "2–3 n. H. / 624–625 n. Chr.", "bs": "2–3. g. po H. / 624–625. g." },
+  "scene": { "sky": "dawn", "elements": ["dunes", "tents", "mountains"] },
+  "introduction": { "en": "A small group of Muslims set out to intercept a caravan and instead faced an army three times their size. Why is Badr remembered as a turning point?", "de": "Eine kleine Gruppe von Muslimen zog aus, um eine Karawane abzufangen, und stand stattdessen einem dreimal so großen Heer gegenüber. Warum gilt Badr als Wendepunkt?", "bs": "Mala skupina muslimana krenula je da presretne karavan, a umjesto toga suočila se s vojskom tri puta većom. Zašto se Bedr pamti kao prekretnica?" },
+  "context": [
+    { "kind": "fact", "text": { "en": "The emigrants had lost their homes and property in Makkah, and Quraysh remained hostile. In Ramadan 2 AH, news came of a large Quraysh caravan returning from Syria under Abu Sufyan.", "de": "Die Auswanderer hatten ihre Häuser und ihren Besitz in Mekka verloren, und die Quraisch blieben feindlich. Im Ramadan 2 n. H. kam die Nachricht von einer großen Karawane der Quraisch, die unter Abu Sufyan aus Syrien zurückkehrte.", "bs": "Muhadžiri su u Mekki izgubili domove i imetak, a Kurejšije su ostali neprijateljski raspoloženi. U ramazanu 2. godine po H. stigla je vijest o velikom kurejšijskom karavanu koji se pod vodstvom Ebu Sufjana vraćao iz Šama." }, "sourceIds": ["ibn-hisham"] }
+  ],
+  "mainEvent": [
+    { "kind": "fact", "text": { "en": "The caravan escaped along the coast, but Quraysh had already sent out an army. At the wells of Badr, about a thousand Quraysh fighters faced a little over three hundred Muslims.", "de": "Die Karawane entkam entlang der Küste, doch die Quraisch hatten bereits ein Heer ausgesandt. An den Brunnen von Badr standen etwa tausend Kämpfer der Quraisch etwas über dreihundert Muslimen gegenüber.", "bs": "Karavan je umakao uz obalu, ali Kurejšije su već bili poslali vojsku. Kod bunara Bedra oko hiljadu kurejšijskih boraca stajalo je naspram nešto više od tri stotine muslimana." }, "sourceIds": ["muslim-1763", "ibn-hisham"] },
+    { "kind": "interpretation", "text": { "en": "The Seerah works report that the Prophet ﷺ consulted his companions before the battle, and that the Ansar declared they would stand with him.", "de": "Die Sira-Werke berichten, dass der Prophet ﷺ sich vor der Schlacht mit seinen Gefährten beriet und die Ansar erklärten, an seiner Seite zu stehen.", "bs": "Djela sire prenose da se Poslanik ﷺ prije bitke savjetovao s ashabima i da su ensarije izjavili da će stati uz njega." }, "sourceIds": ["ibn-hisham"] },
+    { "kind": "fact", "text": { "en": "ʿUmar reported that the Prophet ﷺ faced the qiblah and called on his Lord at length, asking Him to fulfil His promise. The Quran mentions that Allah answered by sending the angels in support.", "de": "Umar berichtete, dass der Prophet ﷺ sich zur Qibla wandte und lange zu seinem Herrn flehte, Er möge Sein Versprechen erfüllen. Der Koran erwähnt, dass Allah darauf antwortete, indem Er die Engel zur Unterstützung sandte.", "bs": "Omer je prenio da se Poslanik ﷺ okrenuo prema kibli i dugo molio Gospodara da ispuni Svoje obećanje. Kur'an spominje da mu je Allah odgovorio poslavši meleke u pomoć." }, "sourceIds": ["muslim-1763", "q-8-9"] },
+    { "kind": "fact", "text": { "en": "The Muslims won. Among the Quraysh leaders killed was Abu Jahl. The Quran calls the day the \"Day of the Criterion\" and reminds the believers that they were few when Allah gave them victory.", "de": "Die Muslime siegten. Unter den getöteten Anführern der Quraisch war Abu Dschahl. Der Koran nennt den Tag „Tag der Unterscheidung“ und erinnert die Gläubigen daran, dass sie wenige waren, als Allah ihnen den Sieg gab.", "bs": "Muslimani su pobijedili. Među ubijenim kurejšijskim prvacima bio je Ebu Džehl. Kur'an taj dan naziva „Danom razlučivanja“ i podsjeća vjernike da ih je bilo malo kada im je Allah dao pobjedu." }, "sourceIds": ["q-8-41", "q-3-123", "ibn-hisham"] },
+    { "kind": "fact", "text": { "en": "A year later, at Uhud, Quraysh returned with a larger army. Archers left the hill they had been ordered to hold, and the Muslims suffered heavy losses, among them Hamzah. The Quran reflects on that day as a test.", "de": "Ein Jahr später, bei Uhud, kehrten die Quraisch mit einem größeren Heer zurück. Bogenschützen verließen den Hügel, den sie halten sollten, und die Muslime erlitten schwere Verluste, darunter Hamza. Der Koran deutet jenen Tag als Prüfung.", "bs": "Godinu kasnije, na Uhudu, Kurejšije su se vratili s većom vojskom. Strijelci su napustili brežuljak koji su trebali čuvati, a muslimani su pretrpjeli teške gubitke, među njima i Hamzu. Kur'an o tom danu govori kao o iskušenju." }, "sourceIds": ["bukhari-3039", "q-3-152"] }
+  ],
+  "mainEventId": "badr",
+  "events": ["badr", "uhud"],
+  "people": ["muhammad", "abu-bakr", "umar", "hamzah", "ali", "abu-jahl", "abu-sufyan", "abdullah-ibn-jubayr", "ansar", "muhajirun"],
+  "places": ["madinah", "badr", "uhud"],
+  "routes": ["route-badr"],
+  "questions": ["e07-q1", "e07-q2", "e07-q3", "e07-q4", "e07-q5", "e07-q6"],
+  "lessons": [
+    { "title": { "en": "Numbers are not everything", "de": "Zahlen sind nicht alles", "bs": "Brojevi nisu sve" }, "text": { "en": "The Quran reminds the believers that they were few at Badr. Sincerity, unity and reliance on Allah mattered more than size.", "de": "Der Koran erinnert die Gläubigen daran, dass sie bei Badr wenige waren. Aufrichtigkeit, Einheit und Vertrauen auf Allah zählten mehr als Größe.", "bs": "Kur'an podsjeća vjernike da ih je na Bedru bilo malo. Iskrenost, jedinstvo i oslanjanje na Allaha značili su više od brojnosti." }, "themeId": "trust" },
+    { "title": { "en": "Consultation and duʿaʾ together", "de": "Beratung und Bittgebet zusammen", "bs": "Dogovor i dova zajedno" }, "text": { "en": "Before the battle there was both consultation with the companions and long prayer to Allah – planning and trust side by side.", "de": "Vor der Schlacht gab es sowohl Beratung mit den Gefährten als auch langes Gebet zu Allah – Planung und Vertrauen Seite an Seite.", "bs": "Prije bitke bilo je i dogovaranja s ashabima i duge dove Allahu – planiranje i oslanjanje jedno uz drugo." }, "themeId": "planning" },
+    { "title": { "en": "Victory is a responsibility", "de": "Sieg ist eine Verantwortung", "bs": "Pobjeda je odgovornost" }, "text": { "en": "Uhud showed that disobeying a clear instruction can turn success into loss. Discipline matters most when things seem to be going well.", "de": "Uhud zeigte, dass das Missachten einer klaren Anweisung Erfolg in Verlust verwandeln kann. Disziplin zählt am meisten, wenn alles gut zu laufen scheint.", "bs": "Uhud je pokazao da neposlušnost jasnoj uputi može uspjeh pretvoriti u gubitak. Disciplina je najvažnija kada se čini da sve ide dobro." }, "themeId": "patience" }
+  ],
+  "reflectionQuestions": [
+    {
+      "id": "e07-r1",
+      "prompt": { "en": "At Badr the Muslims were few but united. What gives a group real strength?", "de": "Bei Badr waren die Muslime wenige, aber geeint. Was gibt einer Gruppe echte Stärke?", "bs": "Na Bedru je muslimana bilo malo, ali su bili jedinstveni. Šta skupini daje pravu snagu?" },
+      "options": [
+        { "en": "Shared purpose and sincerity.", "de": "Ein gemeinsames Ziel und Aufrichtigkeit.", "bs": "Zajednički cilj i iskrenost." },
+        { "en": "Trust between its members.", "de": "Vertrauen zwischen ihren Mitgliedern.", "bs": "Povjerenje među njenim članovima." },
+        { "en": "Listening to each other before acting.", "de": "Einander zuhören, bevor man handelt.", "bs": "Slušanje jednih drugih prije djelovanja." }
+      ]
+    },
+    {
+      "id": "e07-r2",
+      "prompt": { "en": "The archers at Uhud left their post too early. When is it hardest for you to stay disciplined?", "de": "Die Bogenschützen bei Uhud verließen ihren Posten zu früh. Wann fällt es dir am schwersten, diszipliniert zu bleiben?", "bs": "Strijelci na Uhudu prerano su napustili položaj. Kada ti je najteže ostati discipliniran?" },
+      "options": [
+        { "en": "When I think the work is already done.", "de": "Wenn ich denke, die Arbeit ist schon getan.", "bs": "Kada mislim da je posao već završen." },
+        { "en": "When others around me stop.", "de": "Wenn andere um mich herum aufhören.", "bs": "Kada drugi oko mene prestanu." },
+        { "en": "When the reward is not visible yet.", "de": "Wenn die Belohnung noch nicht sichtbar ist.", "bs": "Kada nagrada još nije vidljiva." }
+      ]
+    }
+  ],
+  "sources": { "primary": ["q-3-123", "q-8-9", "q-8-41", "q-3-152", "muslim-1763", "bukhari-3039"], "secondary": ["ibn-hisham", "zad", "tabari"], "further": ["lings", "mubarakpuri"] },
+  "themeIds": ["trust", "planning", "patience"]
+}

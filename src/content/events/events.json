@@ -1,0 +1,1725 @@
+[
+  {
+    "id": "elephant",
+    "title": {
+      "en": "The Year of the Elephant",
+      "de": "Das Jahr des Elefanten",
+      "bs": "Godina slona"
+    },
+    "date": {
+      "sortKey": 570,
+      "label": {
+        "en": "c. 570 CE",
+        "de": "um 570 n. Chr.",
+        "bs": "oko 570. g."
+      },
+      "certainty": "approximate",
+      "note": {
+        "en": "Commonly dated to around 570 CE; modern estimates vary by a few years.",
+        "de": "Meist um 570 n. Chr. datiert; moderne Schätzungen weichen um einige Jahre ab.",
+        "bs": "Najčešće se datira oko 570. godine; savremene procjene razlikuju se za nekoliko godina."
+      }
+    },
+    "era": "before",
+    "summary": [
+      {
+        "kind": "fact",
+        "text": {
+          "en": "An army with an elephant marched on Makkah to destroy the Kaʿbah and was turned back. Surah al-Fil recalls the event.",
+          "de": "Ein Heer mit einem Elefanten zog gegen Mekka, um die Kaaba zu zerstören, und wurde zurückgeschlagen. Sure al-Fil erinnert an das Ereignis.",
+          "bs": "Vojska sa slonom krenula je na Mekku da uništi Kabu i bila je odbijena. Sura el-Fil podsjeća na taj događaj."
+        },
+        "sourceIds": [
+          "q-105"
+        ]
+      },
+      {
+        "kind": "interpretation",
+        "text": {
+          "en": "The Seerah sources name the leader as Abrahah, the Abyssinian ruler of Yemen, and place the Prophet's birth in the same year.",
+          "de": "Die Sira-Quellen nennen als Anführer Abraha, den abessinischen Herrscher des Jemen, und setzen die Geburt des Propheten in dasselbe Jahr.",
+          "bs": "Izvori sire navode da je vođa bio Ebreha, abesinijski vladar Jemena, i smještaju rođenje Poslanika u istu godinu."
+        },
+        "sourceIds": [
+          "ibn-hisham"
+        ]
+      }
+    ],
+    "placeIds": [
+      "makkah"
+    ],
+    "peopleIds": [
+      "abd-al-muttalib"
+    ],
+    "episodeId": "episode-01",
+    "relatedEventIds": [
+      "birth"
+    ],
+    "themeIds": [
+      "trust"
+    ],
+    "sourceIds": [
+      "q-105",
+      "ibn-hisham"
+    ]
+  },
+  {
+    "id": "birth",
+    "title": {
+      "en": "Birth of Muhammad ﷺ",
+      "de": "Geburt Muhammads ﷺ",
+      "bs": "Rođenje Muhammeda ﷺ"
+    },
+    "date": {
+      "sortKey": 570.5,
+      "label": {
+        "en": "c. 570 CE",
+        "de": "um 570 n. Chr.",
+        "bs": "oko 570. g."
+      },
+      "certainty": "approximate",
+      "note": {
+        "en": "That he was born on a Monday is established in Sahih Muslim. The month is usually given as Rabiʿ al-Awwal; the exact day is disputed – the 12th is the most widely known view.",
+        "de": "Dass er an einem Montag geboren wurde, ist in Sahih Muslim belegt. Als Monat wird meist Rabiʿ al-Awwal genannt; der genaue Tag ist umstritten – der 12. ist die bekannteste Ansicht.",
+        "bs": "Da je rođen u ponedjeljak potvrđeno je u Sahihu Muslima. Kao mjesec se obično navodi rebiul-evvel; tačan dan je sporan – 12. je najpoznatije mišljenje."
+      }
+    },
+    "era": "before",
+    "summary": [
+      {
+        "kind": "fact",
+        "text": {
+          "en": "Muhammad ﷺ was born in Makkah into the clan of Hashim of Quraysh. His father ʿAbdullah had died before his birth.",
+          "de": "Muhammad ﷺ wurde in Mekka im Clan Haschim der Quraisch geboren. Sein Vater Abdullah war vor seiner Geburt gestorben.",
+          "bs": "Muhammed ﷺ je rođen u Mekki, u rodu Hašim plemena Kurejš. Njegov otac Abdullah umro je prije njegovog rođenja."
+        },
+        "sourceIds": [
+          "ibn-hisham",
+          "muslim-1162"
+        ]
+      }
+    ],
+    "placeIds": [
+      "makkah"
+    ],
+    "peopleIds": [
+      "muhammad",
+      "aminah",
+      "abd-al-muttalib"
+    ],
+    "episodeId": "episode-01",
+    "relatedEventIds": [
+      "elephant",
+      "childhood"
+    ],
+    "themeIds": [
+      "character"
+    ],
+    "sourceIds": [
+      "muslim-1162",
+      "ibn-hisham"
+    ]
+  },
+  {
+    "id": "childhood",
+    "title": {
+      "en": "Childhood and orphanhood",
+      "de": "Kindheit und Verwaisung",
+      "bs": "Djetinjstvo i siročad"
+    },
+    "date": {
+      "sortKey": 571,
+      "label": {
+        "en": "c. 570–578 CE",
+        "de": "um 570–578 n. Chr.",
+        "bs": "oko 570–578. g."
+      },
+      "certainty": "approximate",
+      "note": null
+    },
+    "era": "before",
+    "summary": [
+      {
+        "kind": "fact",
+        "text": {
+          "en": "He spent his early years with Halimah of Banu Saʿd in the desert. His mother Aminah died when he was about six, and his grandfather ʿAbd al-Muttalib about two years later; his uncle Abu Talib then took care of him.",
+          "de": "Seine ersten Jahre verbrachte er bei Halima von den Banu Saʿd in der Wüste. Seine Mutter Amina starb, als er etwa sechs war, sein Großvater Abd al-Muttalib etwa zwei Jahre später; danach sorgte sein Onkel Abu Talib für ihn.",
+          "bs": "Prve godine proveo je kod Halime iz Benu Sa'da u pustinji. Majka Amina umrla je kada je imao oko šest godina, a djed Abdul-Muttalib oko dvije godine kasnije; nakon toga brinuo se o njemu amidža Ebu Talib."
+        },
+        "sourceIds": [
+          "ibn-hisham"
+        ]
+      },
+      {
+        "kind": "fact",
+        "text": {
+          "en": "The Quran recalls: \"Did He not find you an orphan and give you shelter?\"",
+          "de": "Der Koran erinnert: „Hat Er dich nicht als Waise gefunden und dir Zuflucht gegeben?“",
+          "bs": "Kur'an podsjeća: „Zar te nije siročetom našao, pa ti utočište dao?“"
+        },
+        "sourceIds": [
+          "q-93-6"
+        ]
+      }
+    ],
+    "placeIds": [
+      "makkah"
+    ],
+    "peopleIds": [
+      "muhammad",
+      "halimah",
+      "aminah",
+      "abd-al-muttalib",
+      "abu-talib"
+    ],
+    "episodeId": "episode-01",
+    "relatedEventIds": [
+      "birth",
+      "marriage"
+    ],
+    "themeIds": [
+      "patience"
+    ],
+    "sourceIds": [
+      "q-93-6",
+      "ibn-hisham"
+    ]
+  },
+  {
+    "id": "marriage",
+    "title": {
+      "en": "Marriage to Khadijah",
+      "de": "Heirat mit Chadidscha",
+      "bs": "Brak s Hatidžom"
+    },
+    "date": {
+      "sortKey": 595,
+      "label": {
+        "en": "c. 595 CE",
+        "de": "um 595 n. Chr.",
+        "bs": "oko 595. g."
+      },
+      "certainty": "approximate",
+      "note": {
+        "en": "He is commonly reported to have been 25 years old.",
+        "de": "Meist wird berichtet, dass er 25 Jahre alt war.",
+        "bs": "Najčešće se prenosi da je imao 25 godina."
+      }
+    },
+    "era": "before",
+    "summary": [
+      {
+        "kind": "fact",
+        "text": {
+          "en": "Known in Makkah for his honesty, he worked as a trader – including on behalf of Khadijah – and then married her.",
+          "de": "In Mekka für seine Ehrlichkeit bekannt, arbeitete er als Händler – auch im Auftrag von Chadidscha – und heiratete sie dann.",
+          "bs": "Poznat u Mekki po poštenju, radio je kao trgovac – između ostalog za Hatidžu – a zatim se njome oženio."
+        },
+        "sourceIds": [
+          "ibn-hisham"
+        ]
+      }
+    ],
+    "placeIds": [
+      "makkah"
+    ],
+    "peopleIds": [
+      "muhammad",
+      "khadijah"
+    ],
+    "episodeId": "episode-01",
+    "relatedEventIds": [
+      "childhood",
+      "kaaba-rebuild"
+    ],
+    "themeIds": [
+      "character"
+    ],
+    "sourceIds": [
+      "ibn-hisham",
+      "ibn-sad"
+    ]
+  },
+  {
+    "id": "kaaba-rebuild",
+    "title": {
+      "en": "Rebuilding the Kaʿbah",
+      "de": "Wiederaufbau der Kaaba",
+      "bs": "Obnova Kabe"
+    },
+    "date": {
+      "sortKey": 605,
+      "label": {
+        "en": "c. 605 CE",
+        "de": "um 605 n. Chr.",
+        "bs": "oko 605. g."
+      },
+      "certainty": "approximate",
+      "note": {
+        "en": "Commonly placed about five years before the first revelation.",
+        "de": "Meist etwa fünf Jahre vor der ersten Offenbarung angesetzt.",
+        "bs": "Najčešće se smješta oko pet godina prije prve Objave."
+      }
+    },
+    "era": "before",
+    "summary": [
+      {
+        "kind": "interpretation",
+        "text": {
+          "en": "According to the Seerah reports, the clans of Quraysh disputed who should put the Black Stone back in place. They agreed to accept the judgement of the next man to enter – who was Muhammad ﷺ. He placed the stone on a cloak, had a representative of each clan lift it together, and set it in place himself.",
+          "de": "Nach den Sira-Berichten stritten die Clans der Quraisch darüber, wer den Schwarzen Stein wieder einsetzen dürfe. Sie einigten sich, das Urteil des nächsten Eintretenden anzunehmen – das war Muhammad ﷺ. Er legte den Stein auf ein Tuch, ließ es von Vertretern aller Clans gemeinsam anheben und setzte den Stein selbst ein.",
+          "bs": "Prema predajama sire, kurejšijski rodovi su se sporili ko će vratiti Crni kamen na mjesto. Dogovorili su se da prihvate presudu prvog čovjeka koji uđe – a to je bio Muhammed ﷺ. Stavio je kamen na ogrtač, dao da ga predstavnici svih rodova zajedno podignu i sam ga postavio na mjesto."
+        },
+        "sourceIds": [
+          "ibn-hisham"
+        ]
+      }
+    ],
+    "placeIds": [
+      "makkah"
+    ],
+    "peopleIds": [
+      "muhammad"
+    ],
+    "episodeId": "episode-01",
+    "relatedEventIds": [
+      "marriage",
+      "first-revelation"
+    ],
+    "themeIds": [
+      "justice",
+      "character"
+    ],
+    "sourceIds": [
+      "ibn-hisham"
+    ]
+  },
+  {
+    "id": "first-revelation",
+    "title": {
+      "en": "The first revelation",
+      "de": "Die erste Offenbarung",
+      "bs": "Prva Objava"
+    },
+    "date": {
+      "sortKey": 610,
+      "label": {
+        "en": "c. 610 CE",
+        "de": "um 610 n. Chr.",
+        "bs": "oko 610. g."
+      },
+      "certainty": "approximate",
+      "note": {
+        "en": "He was about forty years old. The revelation began in Ramadan according to most scholars; the exact night is not certain.",
+        "de": "Er war etwa vierzig Jahre alt. Nach den meisten Gelehrten begann die Offenbarung im Ramadan; die genaue Nacht ist nicht sicher.",
+        "bs": "Imao je oko četrdeset godina. Prema većini učenjaka Objava je počela u ramazanu; tačna noć nije sigurna."
+      }
+    },
+    "era": "makkah",
+    "summary": [
+      {
+        "kind": "fact",
+        "text": {
+          "en": "While he was worshipping in the Cave of Hiraʾ, the angel Jibril came to him and the first verses of Surah al-ʿAlaq were revealed: \"Read in the name of your Lord who created…\"",
+          "de": "Während er in der Höhle Hira betete, kam der Engel Dschibril zu ihm, und die ersten Verse der Sure al-Alaq wurden offenbart: „Lies im Namen deines Herrn, der erschaffen hat …“",
+          "bs": "Dok je bio u ibadetu u pećini Hira, došao mu je melek Džibril i objavljeni su prvi ajeti sure el-Alek: „Čitaj, u ime Gospodara tvoga koji stvara…“"
+        },
+        "sourceIds": [
+          "bukhari-3",
+          "q-96-1"
+        ]
+      },
+      {
+        "kind": "fact",
+        "text": {
+          "en": "He returned home trembling. Khadijah comforted him and took him to Waraqah ibn Nawfal.",
+          "de": "Zitternd kehrte er nach Hause zurück. Chadidscha tröstete ihn und brachte ihn zu Waraqa ibn Naufal.",
+          "bs": "Vratio se kući drhteći. Hatidža ga je utješila i odvela Varaki ibn Nevfelu."
+        },
+        "sourceIds": [
+          "bukhari-3"
+        ]
+      }
+    ],
+    "placeIds": [
+      "hira",
+      "makkah"
+    ],
+    "peopleIds": [
+      "muhammad",
+      "khadijah",
+      "waraqah"
+    ],
+    "episodeId": "episode-02",
+    "relatedEventIds": [
+      "kaaba-rebuild",
+      "first-muslims"
+    ],
+    "themeIds": [
+      "revelation"
+    ],
+    "sourceIds": [
+      "bukhari-3",
+      "bukhari-4",
+      "q-96-1"
+    ]
+  },
+  {
+    "id": "first-muslims",
+    "title": {
+      "en": "The first Muslims",
+      "de": "Die ersten Muslime",
+      "bs": "Prvi muslimani"
+    },
+    "date": {
+      "sortKey": 611,
+      "label": {
+        "en": "c. 610–613 CE",
+        "de": "um 610–613 n. Chr.",
+        "bs": "oko 610–613. g."
+      },
+      "certainty": "approximate",
+      "note": {
+        "en": "Who accepted Islam first is discussed by scholars. A common answer: Khadijah among women, Abu Bakr among free men, ʿAli among children and Zayd among freed men.",
+        "de": "Wer zuerst den Islam annahm, wird unter Gelehrten diskutiert. Eine verbreitete Antwort: Chadidscha unter den Frauen, Abu Bakr unter den freien Männern, Ali unter den Kindern und Zaid unter den Freigelassenen.",
+        "bs": "Ko je prvi primio islam pitanje je o kojem učenjaci raspravljaju. Uobičajen odgovor: Hatidža među ženama, Ebu Bekr među slobodnim muškarcima, Alija među djecom i Zejd među oslobođenicima."
+      }
+    },
+    "era": "makkah",
+    "summary": [
+      {
+        "kind": "fact",
+        "text": {
+          "en": "For about three years the call was made quietly, to family and trusted friends. A small group of believers formed around the Prophet ﷺ.",
+          "de": "Etwa drei Jahre lang wurde der Ruf im Stillen verbreitet, an Familie und vertraute Freunde. Um den Propheten ﷺ bildete sich eine kleine Gruppe von Gläubigen.",
+          "bs": "Oko tri godine poziv se širio tiho, među porodicom i povjerljivim prijateljima. Oko Poslanika ﷺ formirala se mala skupina vjernika."
+        },
+        "sourceIds": [
+          "ibn-hisham"
+        ]
+      }
+    ],
+    "placeIds": [
+      "makkah"
+    ],
+    "peopleIds": [
+      "muhammad",
+      "khadijah",
+      "abu-bakr",
+      "ali",
+      "zayd"
+    ],
+    "episodeId": "episode-03",
+    "relatedEventIds": [
+      "first-revelation",
+      "public-call"
+    ],
+    "themeIds": [
+      "community",
+      "revelation"
+    ],
+    "sourceIds": [
+      "ibn-hisham",
+      "ibnmajah-150"
+    ]
+  },
+  {
+    "id": "public-call",
+    "title": {
+      "en": "The public call",
+      "de": "Der öffentliche Ruf",
+      "bs": "Javni poziv"
+    },
+    "date": {
+      "sortKey": 613,
+      "label": {
+        "en": "c. 613 CE",
+        "de": "um 613 n. Chr.",
+        "bs": "oko 613. g."
+      },
+      "certainty": "approximate",
+      "note": null
+    },
+    "era": "makkah",
+    "summary": [
+      {
+        "kind": "fact",
+        "text": {
+          "en": "When the verse \"And warn your closest kinsmen\" was revealed, the Prophet ﷺ climbed Mount al-Safa and called the clans of Quraysh. Abu Lahab rejected him, and Surah al-Masad was revealed about him.",
+          "de": "Als der Vers „Und warne deine nächsten Verwandten“ offenbart wurde, stieg der Prophet ﷺ auf den Hügel as-Safa und rief die Clans der Quraisch. Abu Lahab wies ihn zurück, und über ihn wurde Sure al-Masad offenbart.",
+          "bs": "Kada je objavljen ajet „I opominji rodbinu svoju najbližu“, Poslanik ﷺ se popeo na brdo Safa i pozvao kurejšijske rodove. Ebu Leheb ga je odbio, i o njemu je objavljena sura el-Mesed."
+        },
+        "sourceIds": [
+          "bukhari-4770",
+          "q-26-214",
+          "q-111"
+        ]
+      }
+    ],
+    "placeIds": [
+      "makkah"
+    ],
+    "peopleIds": [
+      "muhammad"
+    ],
+    "episodeId": "episode-03",
+    "relatedEventIds": [
+      "first-muslims",
+      "persecution"
+    ],
+    "themeIds": [
+      "revelation",
+      "patience"
+    ],
+    "sourceIds": [
+      "bukhari-4770",
+      "q-26-214",
+      "q-15-94",
+      "q-111"
+    ]
+  },
+  {
+    "id": "persecution",
+    "title": {
+      "en": "Persecution of the believers",
+      "de": "Verfolgung der Gläubigen",
+      "bs": "Progon vjernika"
+    },
+    "date": {
+      "sortKey": 614,
+      "label": {
+        "en": "c. 613–622 CE",
+        "de": "um 613–622 n. Chr.",
+        "bs": "oko 613–622. g."
+      },
+      "certainty": "approximate",
+      "note": null
+    },
+    "era": "makkah",
+    "summary": [
+      {
+        "kind": "fact",
+        "text": {
+          "en": "Muslims without tribal protection – among them Bilal and the family of Yasir – were tortured for their faith. Abu Bakr freed several enslaved believers.",
+          "de": "Muslime ohne Stammesschutz – darunter Bilal und die Familie von Yasir – wurden wegen ihres Glaubens gefoltert. Abu Bakr kaufte mehrere versklavte Gläubige frei.",
+          "bs": "Muslimani bez plemenske zaštite – među njima Bilal i porodica Jasira – mučeni su zbog vjere. Ebu Bekr je otkupio i oslobodio nekoliko robova vjernika."
+        },
+        "sourceIds": [
+          "ibnmajah-150",
+          "ibn-hisham"
+        ]
+      }
+    ],
+    "placeIds": [
+      "makkah"
+    ],
+    "peopleIds": [
+      "bilal",
+      "sumayyah",
+      "abu-bakr",
+      "abu-jahl"
+    ],
+    "episodeId": "episode-04",
+    "relatedEventIds": [
+      "public-call",
+      "abyssinia",
+      "boycott"
+    ],
+    "themeIds": [
+      "patience"
+    ],
+    "sourceIds": [
+      "ibnmajah-150",
+      "ibn-hisham",
+      "ibn-sad"
+    ]
+  },
+  {
+    "id": "abyssinia",
+    "title": {
+      "en": "Migration to Abyssinia",
+      "de": "Auswanderung nach Abessinien",
+      "bs": "Hidžra u Abesiniju"
+    },
+    "date": {
+      "sortKey": 615,
+      "label": {
+        "en": "c. 615 CE",
+        "de": "um 615 n. Chr.",
+        "bs": "oko 615. g."
+      },
+      "certainty": "approximate",
+      "note": {
+        "en": "Placed in the fifth year of prophethood.",
+        "de": "Im fünften Jahr des Prophetentums angesetzt.",
+        "bs": "Smješta se u petu godinu poslanstva."
+      }
+    },
+    "era": "makkah",
+    "summary": [
+      {
+        "kind": "fact",
+        "text": {
+          "en": "The Prophet ﷺ allowed a group of Muslims to seek refuge with al-Najashi, the Christian king of Abyssinia. When Quraysh sent envoys to bring them back, the king refused to hand them over.",
+          "de": "Der Prophet ﷺ erlaubte einer Gruppe von Muslimen, bei an-Nadschaschi, dem christlichen König von Abessinien, Zuflucht zu suchen. Als die Quraisch Gesandte schickten, um sie zurückzuholen, weigerte sich der König, sie auszuliefern.",
+          "bs": "Poslanik ﷺ je dozvolio skupini muslimana da potraže utočište kod Nedžašija, kršćanskog kralja Abesinije. Kada su Kurejšije poslali izaslanike da ih vrate, kralj ih je odbio izručiti."
+        },
+        "sourceIds": [
+          "ibn-hisham"
+        ]
+      },
+      {
+        "kind": "interpretation",
+        "text": {
+          "en": "According to the narration of Umm Salamah, Jaʿfar ibn Abi Talib spoke for the Muslims and recited from Surah Maryam before the king.",
+          "de": "Nach dem Bericht von Umm Salama sprach Dschafar ibn Abi Talib für die Muslime und rezitierte vor dem König aus Sure Maryam.",
+          "bs": "Prema predaji Ummu Seleme, Džafer ibn Ebi Talib govorio je u ime muslimana i učio pred kraljem iz sure Merjem."
+        },
+        "sourceIds": [
+          "ibn-hisham"
+        ]
+      }
+    ],
+    "placeIds": [
+      "abyssinia",
+      "makkah"
+    ],
+    "peopleIds": [
+      "jafar",
+      "najashi",
+      "uthman"
+    ],
+    "episodeId": "episode-04",
+    "relatedEventIds": [
+      "persecution",
+      "boycott"
+    ],
+    "themeIds": [
+      "justice",
+      "trust"
+    ],
+    "sourceIds": [
+      "ibn-hisham",
+      "bukhari-1245"
+    ]
+  },
+  {
+    "id": "boycott",
+    "title": {
+      "en": "The boycott of Banu Hashim",
+      "de": "Der Boykott der Banu Haschim",
+      "bs": "Bojkot Benu Hašima"
+    },
+    "date": {
+      "sortKey": 616,
+      "label": {
+        "en": "c. 616–619 CE",
+        "de": "um 616–619 n. Chr.",
+        "bs": "oko 616–619. g."
+      },
+      "certainty": "approximate",
+      "note": {
+        "en": "Reported to have lasted about three years.",
+        "de": "Er soll etwa drei Jahre gedauert haben.",
+        "bs": "Prenosi se da je trajao oko tri godine."
+      }
+    },
+    "era": "makkah",
+    "summary": [
+      {
+        "kind": "fact",
+        "text": {
+          "en": "Quraysh agreed not to trade or intermarry with the clans of Hashim and al-Muttalib, who were confined to a valley of Makkah (the Shiʿb of Abu Talib) and suffered hunger until the boycott was lifted.",
+          "de": "Die Quraisch beschlossen, mit den Clans Haschim und al-Muttalib weder Handel zu treiben noch Ehen zu schließen. Diese lebten eingeschlossen in einem Tal Mekkas (dem Schiʿb Abi Talib) und litten Hunger, bis der Boykott aufgehoben wurde.",
+          "bs": "Kurejšije su se dogovorili da s rodovima Hašim i el-Muttalib ne trguju niti se s njima žene. Oni su bili zatvoreni u jednoj mekanskoj dolini (Ši'b Ebi Taliba) i gladovali dok bojkot nije ukinut."
+        },
+        "sourceIds": [
+          "ibn-hisham"
+        ]
+      }
+    ],
+    "placeIds": [
+      "makkah"
+    ],
+    "peopleIds": [
+      "muhammad",
+      "abu-talib",
+      "khadijah"
+    ],
+    "episodeId": "episode-04",
+    "relatedEventIds": [
+      "persecution",
+      "year-of-sorrow"
+    ],
+    "themeIds": [
+      "patience",
+      "community"
+    ],
+    "sourceIds": [
+      "ibn-hisham"
+    ]
+  },
+  {
+    "id": "year-of-sorrow",
+    "title": {
+      "en": "The Year of Sorrow",
+      "de": "Das Jahr der Trauer",
+      "bs": "Godina tuge"
+    },
+    "date": {
+      "sortKey": 619,
+      "label": {
+        "en": "c. 619 CE",
+        "de": "um 619 n. Chr.",
+        "bs": "oko 619. g."
+      },
+      "certainty": "approximate",
+      "note": {
+        "en": "The tenth year of prophethood. The name \"Year of Sorrow\" was given by later authors.",
+        "de": "Das zehnte Jahr des Prophetentums. Der Name „Jahr der Trauer“ stammt von späteren Autoren.",
+        "bs": "Deseta godina poslanstva. Naziv „Godina tuge“ dali su kasniji autori."
+      }
+    },
+    "era": "makkah",
+    "summary": [
+      {
+        "kind": "fact",
+        "text": {
+          "en": "Shortly after the end of the boycott, both Abu Talib, his protector, and Khadijah, his wife and first supporter, died.",
+          "de": "Kurz nach dem Ende des Boykotts starben sowohl Abu Talib, sein Beschützer, als auch Chadidscha, seine Frau und erste Unterstützerin.",
+          "bs": "Ubrzo nakon kraja bojkota umrli su i Ebu Talib, njegov zaštitnik, i Hatidža, njegova supruga i prva podrška."
+        },
+        "sourceIds": [
+          "ibn-hisham"
+        ]
+      }
+    ],
+    "placeIds": [
+      "makkah"
+    ],
+    "peopleIds": [
+      "abu-talib",
+      "khadijah",
+      "muhammad"
+    ],
+    "episodeId": "episode-04",
+    "relatedEventIds": [
+      "boycott",
+      "taif"
+    ],
+    "themeIds": [
+      "patience"
+    ],
+    "sourceIds": [
+      "ibn-hisham"
+    ]
+  },
+  {
+    "id": "taif",
+    "title": {
+      "en": "The journey to Taʾif",
+      "de": "Die Reise nach Taif",
+      "bs": "Putovanje u Taif"
+    },
+    "date": {
+      "sortKey": 619.5,
+      "label": {
+        "en": "c. 619 CE",
+        "de": "um 619 n. Chr.",
+        "bs": "oko 619. g."
+      },
+      "certainty": "approximate",
+      "note": null
+    },
+    "era": "makkah",
+    "summary": [
+      {
+        "kind": "fact",
+        "text": {
+          "en": "The Prophet ﷺ went to Taʾif to call its people and was rejected harshly. ʿAʾishah reported that he described this as one of the hardest days of his life; when the angel of the mountains offered to destroy the people, he refused and hoped that their descendants would worship Allah alone.",
+          "de": "Der Prophet ﷺ ging nach Taif, um die Menschen dort einzuladen, und wurde hart abgewiesen. Aischa berichtete, dass er dies als einen der schwersten Tage seines Lebens beschrieb; als der Engel der Berge anbot, die Leute zu vernichten, lehnte er ab und hoffte, dass ihre Nachkommen Allah allein anbeten würden.",
+          "bs": "Poslanik ﷺ je otišao u Taif da pozove njegove stanovnike i bio je grubo odbijen. Aiša je prenijela da je to opisao kao jedan od najtežih dana u životu; kada mu je melek planina ponudio da uništi te ljude, odbio je i nadao se da će njihovi potomci obožavati samo Allaha."
+        },
+        "sourceIds": [
+          "bukhari-3231"
+        ]
+      }
+    ],
+    "placeIds": [
+      "taif",
+      "makkah"
+    ],
+    "peopleIds": [
+      "muhammad",
+      "zayd"
+    ],
+    "episodeId": "episode-04",
+    "relatedEventIds": [
+      "year-of-sorrow",
+      "isra-miraj"
+    ],
+    "themeIds": [
+      "mercy",
+      "patience"
+    ],
+    "sourceIds": [
+      "bukhari-3231",
+      "ibn-hisham"
+    ]
+  },
+  {
+    "id": "isra-miraj",
+    "title": {
+      "en": "al-Israʾ and al-Miʿraj",
+      "de": "al-Isra und al-Miʿradsch",
+      "bs": "Isra i Miradž"
+    },
+    "date": {
+      "sortKey": 620.5,
+      "label": {
+        "en": "Before the Hijrah (date disputed)",
+        "de": "Vor der Hidschra (Datum umstritten)",
+        "bs": "Prije Hidžre (datum sporan)"
+      },
+      "certainty": "disputed",
+      "note": {
+        "en": "The Night Journey took place in Makkah before the Hijrah. Scholars give different years and months; the 27th of Rajab is a widely known view but not established.",
+        "de": "Die Nachtreise fand in Mekka vor der Hidschra statt. Die Gelehrten nennen unterschiedliche Jahre und Monate; der 27. Radschab ist eine verbreitete, aber nicht gesicherte Ansicht.",
+        "bs": "Noćno putovanje desilo se u Mekki prije Hidžre. Učenjaci navode različite godine i mjesece; 27. redžeb je raširen, ali ne i potvrđen stav."
+      }
+    },
+    "era": "makkah",
+    "summary": [
+      {
+        "kind": "fact",
+        "text": {
+          "en": "The Quran mentions the night journey from al-Masjid al-Haram to al-Masjid al-Aqsa. In the ascension that followed, the five daily prayers were prescribed.",
+          "de": "Der Koran erwähnt die nächtliche Reise von al-Masdschid al-Haram zu al-Masdschid al-Aqsa. Bei der folgenden Himmelfahrt wurden die fünf täglichen Gebete vorgeschrieben.",
+          "bs": "Kur'an spominje noćno putovanje od Mesdžidul-harama do Mesdžidul-aksaa. Na uzašašću koje je uslijedilo propisano je pet dnevnih namaza."
+        },
+        "sourceIds": [
+          "q-17-1",
+          "ibn-hisham"
+        ]
+      }
+    ],
+    "placeIds": [
+      "makkah"
+    ],
+    "peopleIds": [
+      "muhammad"
+    ],
+    "episodeId": "episode-04",
+    "relatedEventIds": [
+      "taif",
+      "aqabah"
+    ],
+    "themeIds": [
+      "revelation",
+      "trust"
+    ],
+    "sourceIds": [
+      "q-17-1",
+      "ibn-hisham"
+    ]
+  },
+  {
+    "id": "aqabah",
+    "title": {
+      "en": "The pledges of al-ʿAqabah",
+      "de": "Die Treueeide von al-Aqaba",
+      "bs": "Prisege na Akabi"
+    },
+    "date": {
+      "sortKey": 621,
+      "label": {
+        "en": "621–622 CE",
+        "de": "621–622 n. Chr.",
+        "bs": "621–622. g."
+      },
+      "certainty": "approximate",
+      "note": null
+    },
+    "era": "makkah",
+    "summary": [
+      {
+        "kind": "fact",
+        "text": {
+          "en": "During two pilgrimage seasons, Muslims from Yathrib met the Prophet ﷺ at al-ʿAqabah near Mina and pledged allegiance – the second time promising to protect him as they would protect their own families. Musʿab ibn ʿUmayr was sent to teach them.",
+          "de": "In zwei Pilgerzeiten trafen Muslime aus Yathrib den Propheten ﷺ in al-Aqaba bei Mina und leisteten den Treueeid – beim zweiten Mal mit dem Versprechen, ihn wie ihre eigenen Familien zu schützen. Musʿab ibn Umair wurde geschickt, um sie zu unterrichten.",
+          "bs": "Tokom dvije hadžske sezone muslimani iz Jesriba sreli su Poslanika ﷺ na Akabi kod Mine i dali mu prisegu – drugi put obećavši da će ga štititi kao svoje porodice. Mus'ab ibn Umejr poslan je da ih podučava."
+        },
+        "sourceIds": [
+          "ibn-hisham"
+        ]
+      }
+    ],
+    "placeIds": [
+      "makkah",
+      "madinah"
+    ],
+    "peopleIds": [
+      "muhammad",
+      "musab",
+      "ansar"
+    ],
+    "episodeId": "episode-05",
+    "relatedEventIds": [
+      "isra-miraj",
+      "hijrah"
+    ],
+    "themeIds": [
+      "community",
+      "planning"
+    ],
+    "sourceIds": [
+      "ibn-hisham"
+    ]
+  },
+  {
+    "id": "hijrah",
+    "title": {
+      "en": "The Hijrah",
+      "de": "Die Hidschra",
+      "bs": "Hidžra"
+    },
+    "date": {
+      "sortKey": 622,
+      "label": {
+        "en": "622 CE (1 AH)",
+        "de": "622 n. Chr. (1 n. H.)",
+        "bs": "622. g. (1. g. po H.)"
+      },
+      "certainty": "established",
+      "note": {
+        "en": "The year is established. Later, under ʿUmar, the Islamic calendar was counted from this year.",
+        "de": "Das Jahr ist gesichert. Später, unter Umar, wurde der islamische Kalender ab diesem Jahr gezählt.",
+        "bs": "Godina je potvrđena. Kasnije, za vrijeme Omera, islamski kalendar počeo se računati od te godine."
+      }
+    },
+    "era": "madinah",
+    "summary": [
+      {
+        "kind": "fact",
+        "text": {
+          "en": "After the Muslims had gradually left for Yathrib, and Quraysh plotted against him, the Prophet ﷺ left Makkah secretly with Abu Bakr. They hid for three nights in the Cave of Thawr and then travelled with a hired guide to Madinah.",
+          "de": "Nachdem die Muslime nach und nach nach Yathrib gezogen waren und die Quraisch gegen ihn planten, verließ der Prophet ﷺ Mekka heimlich mit Abu Bakr. Sie versteckten sich drei Nächte in der Höhle Thaur und reisten dann mit einem angeheuerten Führer nach Medina.",
+          "bs": "Nakon što su muslimani postepeno otišli u Jesrib, a Kurejšije kovali zavjeru protiv njega, Poslanik ﷺ je tajno napustio Mekku s Ebu Bekrom. Tri noći su se skrivali u pećini Sevr, a zatim s unajmljenim vodičem putovali u Medinu."
+        },
+        "sourceIds": [
+          "bukhari-3905",
+          "q-8-30",
+          "q-9-40"
+        ]
+      }
+    ],
+    "placeIds": [
+      "makkah",
+      "thawr",
+      "quba",
+      "madinah"
+    ],
+    "peopleIds": [
+      "muhammad",
+      "abu-bakr",
+      "ali",
+      "aishah",
+      "muhajirun",
+      "ansar"
+    ],
+    "episodeId": "episode-05",
+    "relatedEventIds": [
+      "aqabah",
+      "quba",
+      "mosque"
+    ],
+    "themeIds": [
+      "trust",
+      "planning"
+    ],
+    "sourceIds": [
+      "bukhari-3905",
+      "bukhari-3653",
+      "q-9-40",
+      "q-8-30",
+      "tabari"
+    ]
+  },
+  {
+    "id": "quba",
+    "title": {
+      "en": "Arrival at Quba",
+      "de": "Ankunft in Quba",
+      "bs": "Dolazak u Kubu"
+    },
+    "date": {
+      "sortKey": 622.2,
+      "label": {
+        "en": "622 CE (Rabiʿ al-Awwal, 1 AH)",
+        "de": "622 n. Chr. (Rabiʿ al-Awwal, 1 n. H.)",
+        "bs": "622. g. (rebiul-evvel, 1. g. po H.)"
+      },
+      "certainty": "established",
+      "note": {
+        "en": "The month is established; the exact day differs slightly between reports.",
+        "de": "Der Monat ist gesichert; der genaue Tag weicht in den Berichten leicht ab.",
+        "bs": "Mjesec je potvrđen; tačan dan se u predajama malo razlikuje."
+      }
+    },
+    "era": "madinah",
+    "summary": [
+      {
+        "kind": "fact",
+        "text": {
+          "en": "The people of Madinah had been waiting each morning. The Prophet ﷺ stayed some days in Quba, where a mosque was founded, before continuing into the town.",
+          "de": "Die Menschen in Medina hatten jeden Morgen gewartet. Der Prophet ﷺ blieb einige Tage in Quba, wo eine Moschee gegründet wurde, bevor er in die Stadt weiterzog.",
+          "bs": "Stanovnici Medine su ga svako jutro čekali. Poslanik ﷺ je ostao nekoliko dana u Kubi, gdje je osnovan mesdžid, a zatim je nastavio u grad."
+        },
+        "sourceIds": [
+          "bukhari-3905"
+        ]
+      }
+    ],
+    "placeIds": [
+      "quba",
+      "madinah"
+    ],
+    "peopleIds": [
+      "muhammad",
+      "abu-bakr",
+      "ansar"
+    ],
+    "episodeId": "episode-05",
+    "relatedEventIds": [
+      "hijrah",
+      "mosque"
+    ],
+    "themeIds": [
+      "community"
+    ],
+    "sourceIds": [
+      "bukhari-3905",
+      "ibn-hisham"
+    ]
+  },
+  {
+    "id": "mosque",
+    "title": {
+      "en": "Building the Prophet's Mosque",
+      "de": "Bau der Prophetenmoschee",
+      "bs": "Gradnja Poslanikovog mesdžida"
+    },
+    "date": {
+      "sortKey": 622.4,
+      "label": {
+        "en": "1 AH / 622 CE",
+        "de": "1 n. H. / 622 n. Chr.",
+        "bs": "1. g. po H. / 622. g."
+      },
+      "certainty": "established",
+      "note": null
+    },
+    "era": "madinah",
+    "summary": [
+      {
+        "kind": "fact",
+        "text": {
+          "en": "The Prophet ﷺ bought the land where his camel knelt from two orphans and built the mosque with his companions, working alongside them. It became the centre of prayer, learning and community life.",
+          "de": "Der Prophet ﷺ kaufte das Land, auf dem sein Kamel niederkniete, von zwei Waisen und baute die Moschee mit seinen Gefährten, wobei er selbst mitarbeitete. Sie wurde zum Zentrum von Gebet, Lernen und Gemeinschaftsleben.",
+          "bs": "Poslanik ﷺ je od dvoje siročadi kupio zemlju na kojoj je kleknula njegova deva i s ashabima izgradio mesdžid, radeći zajedno s njima. Postao je središte namaza, učenja i života zajednice."
+        },
+        "sourceIds": [
+          "bukhari-428",
+          "bukhari-3905"
+        ]
+      }
+    ],
+    "placeIds": [
+      "madinah"
+    ],
+    "peopleIds": [
+      "muhammad",
+      "muhajirun",
+      "ansar"
+    ],
+    "episodeId": "episode-06",
+    "relatedEventIds": [
+      "quba",
+      "brotherhood"
+    ],
+    "themeIds": [
+      "community"
+    ],
+    "sourceIds": [
+      "bukhari-428",
+      "bukhari-3905"
+    ]
+  },
+  {
+    "id": "brotherhood",
+    "title": {
+      "en": "Brotherhood of the Muhajirun and Ansar",
+      "de": "Verbrüderung von Muhadschirun und Ansar",
+      "bs": "Bratimljenje muhadžira i ensarija"
+    },
+    "date": {
+      "sortKey": 622.5,
+      "label": {
+        "en": "1 AH / 622–623 CE",
+        "de": "1 n. H. / 622–623 n. Chr.",
+        "bs": "1. g. po H. / 622–623. g."
+      },
+      "certainty": "approximate",
+      "note": null
+    },
+    "era": "madinah",
+    "summary": [
+      {
+        "kind": "fact",
+        "text": {
+          "en": "The Prophet ﷺ paired each emigrant with a helper from Madinah as brothers. The Ansar shared their homes and property; the Quran praises them for preferring others over themselves.",
+          "de": "Der Prophet ﷺ verband jeden Auswanderer mit einem Helfer aus Medina als Bruder. Die Ansar teilten ihre Häuser und ihren Besitz; der Koran lobt sie dafür, andere sich selbst vorzuziehen.",
+          "bs": "Poslanik ﷺ je svakog muhadžira pobratimio s jednim ensarijom iz Medine. Ensarije su dijelili domove i imetak; Kur'an ih hvali što su druge pretpostavljali sebi."
+        },
+        "sourceIds": [
+          "q-59-9",
+          "ibn-hisham"
+        ]
+      },
+      {
+        "kind": "interpretation",
+        "text": {
+          "en": "The hadith collections report that Saʿd ibn al-Rabiʿ offered half his wealth to ʿAbd al-Rahman ibn ʿAwf, who thanked him and asked only to be shown the market.",
+          "de": "Die Hadithsammlungen berichten, dass Saʿd ibn ar-Rabiʿ Abd ar-Rahman ibn Auf die Hälfte seines Vermögens anbot; dieser dankte ihm und bat nur darum, ihm den Markt zu zeigen.",
+          "bs": "Hadiske zbirke prenose da je Sa'd ibn er-Rebi' ponudio pola imetka Abdurrahmanu ibn Avfu, a on mu se zahvalio i zamolio samo da mu pokaže pijacu."
+        },
+        "sourceIds": [
+          "ibn-kathir"
+        ]
+      }
+    ],
+    "placeIds": [
+      "madinah"
+    ],
+    "peopleIds": [
+      "muhajirun",
+      "ansar",
+      "muhammad"
+    ],
+    "episodeId": "episode-06",
+    "relatedEventIds": [
+      "mosque",
+      "charter"
+    ],
+    "themeIds": [
+      "community",
+      "mercy"
+    ],
+    "sourceIds": [
+      "q-59-9",
+      "q-49-10",
+      "ibn-hisham"
+    ]
+  },
+  {
+    "id": "charter",
+    "title": {
+      "en": "The Charter of Madinah",
+      "de": "Die Charta von Medina",
+      "bs": "Medinska povelja"
+    },
+    "date": {
+      "sortKey": 622.6,
+      "label": {
+        "en": "c. 1 AH / 622–623 CE",
+        "de": "um 1 n. H. / 622–623 n. Chr.",
+        "bs": "oko 1. g. po H. / 622–623. g."
+      },
+      "certainty": "approximate",
+      "note": {
+        "en": "Historians discuss whether the text preserved by Ibn Ishaq is one document or several agreements made at different times.",
+        "de": "Historiker diskutieren, ob der von Ibn Ishaq überlieferte Text ein Dokument ist oder mehrere zu verschiedenen Zeiten geschlossene Vereinbarungen.",
+        "bs": "Historičari raspravljaju je li tekst koji je sačuvao Ibn Ishak jedan dokument ili više sporazuma sklopljenih u različito vrijeme."
+      }
+    },
+    "era": "madinah",
+    "summary": [
+      {
+        "kind": "fact",
+        "text": {
+          "en": "A written agreement set out the rights and duties of the emigrants, the Ansar and the Jewish tribes of Madinah, including mutual defence of the city.",
+          "de": "Eine schriftliche Vereinbarung legte die Rechte und Pflichten der Auswanderer, der Ansar und der jüdischen Stämme Medinas fest, einschließlich der gemeinsamen Verteidigung der Stadt.",
+          "bs": "Pisani sporazum utvrdio je prava i obaveze muhadžira, ensarija i jevrejskih plemena Medine, uključujući zajedničku odbranu grada."
+        },
+        "sourceIds": [
+          "ibn-hisham"
+        ]
+      },
+      {
+        "kind": "interpretation",
+        "text": {
+          "en": "The name \"Constitution of Madinah\" is a modern description.",
+          "de": "Die Bezeichnung „Verfassung von Medina“ ist eine moderne Beschreibung.",
+          "bs": "Naziv „Medinski ustav“ savremeni je opis."
+        },
+        "sourceIds": []
+      }
+    ],
+    "placeIds": [
+      "madinah"
+    ],
+    "peopleIds": [
+      "muhammad",
+      "muhajirun",
+      "ansar"
+    ],
+    "episodeId": "episode-06",
+    "relatedEventIds": [
+      "brotherhood",
+      "qibla"
+    ],
+    "themeIds": [
+      "justice",
+      "community"
+    ],
+    "sourceIds": [
+      "ibn-hisham"
+    ]
+  },
+  {
+    "id": "qibla",
+    "title": {
+      "en": "Change of the qiblah",
+      "de": "Änderung der Gebetsrichtung",
+      "bs": "Promjena kible"
+    },
+    "date": {
+      "sortKey": 623.9,
+      "label": {
+        "en": "2 AH / 624 CE",
+        "de": "2 n. H. / 624 n. Chr.",
+        "bs": "2. g. po H. / 624. g."
+      },
+      "certainty": "established",
+      "note": {
+        "en": "Sixteen or seventeen months after the Hijrah, according to Sahih al-Bukhari.",
+        "de": "Sechzehn oder siebzehn Monate nach der Hidschra, nach Sahih al-Bukhari.",
+        "bs": "Šesnaest ili sedamnaest mjeseci nakon Hidžre, prema Sahihu el-Buharija."
+      }
+    },
+    "era": "madinah",
+    "summary": [
+      {
+        "kind": "fact",
+        "text": {
+          "en": "The Muslims had prayed towards Jerusalem. Then the command came to turn towards al-Masjid al-Haram in Makkah.",
+          "de": "Die Muslime hatten in Richtung Jerusalem gebetet. Dann kam das Gebot, sich zu al-Masdschid al-Haram in Mekka zu wenden.",
+          "bs": "Muslimani su klanjali prema Jerusalemu. Zatim je došla naredba da se okrenu prema Mesdžidul-haramu u Mekki."
+        },
+        "sourceIds": [
+          "bukhari-40",
+          "q-2-144"
+        ]
+      }
+    ],
+    "placeIds": [
+      "madinah",
+      "makkah"
+    ],
+    "peopleIds": [
+      "muhammad"
+    ],
+    "episodeId": "episode-06",
+    "relatedEventIds": [
+      "charter",
+      "badr"
+    ],
+    "themeIds": [
+      "revelation"
+    ],
+    "sourceIds": [
+      "bukhari-40",
+      "q-2-144"
+    ]
+  },
+  {
+    "id": "badr",
+    "title": {
+      "en": "The Battle of Badr",
+      "de": "Die Schlacht von Badr",
+      "bs": "Bitka na Bedru"
+    },
+    "date": {
+      "sortKey": 624.2,
+      "label": {
+        "en": "Ramadan 2 AH / 624 CE",
+        "de": "Ramadan 2 n. H. / 624 n. Chr.",
+        "bs": "ramazan 2. g. po H. / 624. g."
+      },
+      "certainty": "established",
+      "note": {
+        "en": "The month and year are established; the 17th of Ramadan is the most commonly reported day.",
+        "de": "Monat und Jahr sind gesichert; der 17. Ramadan ist der am häufigsten genannte Tag.",
+        "bs": "Mjesec i godina su potvrđeni; 17. ramazan je najčešće navođeni dan."
+      }
+    },
+    "era": "madinah",
+    "summary": [
+      {
+        "kind": "fact",
+        "text": {
+          "en": "The Muslims went out to meet a Quraysh caravan led by Abu Sufyan. The caravan escaped, and a Quraysh army of about a thousand met a Muslim force of a little over three hundred at the wells of Badr. The Muslims won; the Quraysh leader Abu Jahl was among those killed.",
+          "de": "Die Muslime zogen einer Karawane der Quraisch unter Abu Sufyan entgegen. Die Karawane entkam, und ein Heer der Quraisch von etwa tausend Mann traf an den Brunnen von Badr auf eine muslimische Truppe von etwas über dreihundert. Die Muslime siegten; der Anführer der Quraisch, Abu Dschahl, war unter den Getöteten.",
+          "bs": "Muslimani su izašli pred kurejšijski karavan koji je predvodio Ebu Sufjan. Karavan je umakao, a kurejšijska vojska od oko hiljadu ljudi susrela je muslimansku skupinu od nešto više od tri stotine kod bunara Bedra. Muslimani su pobijedili; među ubijenima bio je i kurejšijski vođa Ebu Džehl."
+        },
+        "sourceIds": [
+          "muslim-1763",
+          "ibn-hisham"
+        ]
+      },
+      {
+        "kind": "fact",
+        "text": {
+          "en": "The Quran recalls that Allah gave the believers victory at Badr when they were few, and calls the battle the Day of the Criterion.",
+          "de": "Der Koran erinnert daran, dass Allah den Gläubigen bei Badr den Sieg gab, als sie wenige waren, und nennt die Schlacht den Tag der Unterscheidung.",
+          "bs": "Kur'an podsjeća da je Allah vjernicima dao pobjedu na Bedru kada ih je bilo malo i bitku naziva Danom razlučivanja."
+        },
+        "sourceIds": [
+          "q-3-123",
+          "q-8-41"
+        ]
+      }
+    ],
+    "placeIds": [
+      "badr",
+      "madinah"
+    ],
+    "peopleIds": [
+      "muhammad",
+      "abu-bakr",
+      "hamzah",
+      "ali",
+      "abu-jahl",
+      "abu-sufyan",
+      "muhajirun",
+      "ansar"
+    ],
+    "episodeId": "episode-07",
+    "relatedEventIds": [
+      "qibla",
+      "uhud"
+    ],
+    "themeIds": [
+      "trust",
+      "planning"
+    ],
+    "sourceIds": [
+      "muslim-1763",
+      "q-3-123",
+      "q-8-9",
+      "q-8-41",
+      "ibn-hisham"
+    ]
+  },
+  {
+    "id": "uhud",
+    "title": {
+      "en": "The Battle of Uhud",
+      "de": "Die Schlacht von Uhud",
+      "bs": "Bitka na Uhudu"
+    },
+    "date": {
+      "sortKey": 625.2,
+      "label": {
+        "en": "Shawwal 3 AH / 625 CE",
+        "de": "Schawwal 3 n. H. / 625 n. Chr.",
+        "bs": "ševval 3. g. po H. / 625. g."
+      },
+      "certainty": "established",
+      "note": null
+    },
+    "era": "madinah",
+    "summary": [
+      {
+        "kind": "fact",
+        "text": {
+          "en": "Quraysh returned with a larger army. The Prophet ﷺ posted archers on a hill and ordered them not to leave. When most of them left their position, the Muslims were attacked from behind and suffered heavy losses, including Hamzah.",
+          "de": "Die Quraisch kehrten mit einem größeren Heer zurück. Der Prophet ﷺ stellte Bogenschützen auf einen Hügel und befahl ihnen, nicht zu weichen. Als die meisten ihre Stellung verließen, wurden die Muslime von hinten angegriffen und erlitten schwere Verluste, darunter Hamza.",
+          "bs": "Kurejšije su se vratili s većom vojskom. Poslanik ﷺ je postavio strijelce na brežuljak i naredio im da ne napuštaju položaj. Kada je većina napustila položaj, muslimani su napadnuti s leđa i pretrpjeli teške gubitke, među njima i Hamzu."
+        },
+        "sourceIds": [
+          "bukhari-3039",
+          "q-3-152",
+          "ibn-hisham"
+        ]
+      }
+    ],
+    "placeIds": [
+      "uhud",
+      "madinah"
+    ],
+    "peopleIds": [
+      "muhammad",
+      "hamzah",
+      "abdullah-ibn-jubayr",
+      "musab",
+      "abu-sufyan"
+    ],
+    "episodeId": "episode-07",
+    "relatedEventIds": [
+      "badr",
+      "trench"
+    ],
+    "themeIds": [
+      "patience",
+      "planning"
+    ],
+    "sourceIds": [
+      "bukhari-3039",
+      "q-3-152",
+      "ibn-hisham"
+    ]
+  },
+  {
+    "id": "trench",
+    "title": {
+      "en": "The Battle of the Trench",
+      "de": "Die Grabenschlacht",
+      "bs": "Bitka na Hendeku"
+    },
+    "date": {
+      "sortKey": 627,
+      "label": {
+        "en": "5 AH / 627 CE",
+        "de": "5 n. H. / 627 n. Chr.",
+        "bs": "5. g. po H. / 627. g."
+      },
+      "certainty": "disputed",
+      "note": {
+        "en": "Most historians date it to 5 AH; some early authorities give 4 AH.",
+        "de": "Die meisten Historiker datieren sie auf 5 n. H.; einige frühe Autoritäten nennen 4 n. H.",
+        "bs": "Većina historičara datira je u 5. godinu po H.; neki rani autoriteti navode 4. godinu."
+      }
+    },
+    "era": "madinah",
+    "summary": [
+      {
+        "kind": "fact",
+        "text": {
+          "en": "A large confederate army besieged Madinah. The Muslims dug a trench to defend the city, and after weeks of siege the confederates withdrew. Surah al-Ahzab describes the fear and the steadfastness of those days.",
+          "de": "Ein großes verbündetes Heer belagerte Medina. Die Muslime hoben einen Graben zur Verteidigung der Stadt aus, und nach wochenlanger Belagerung zogen die Verbündeten ab. Sure al-Ahzab beschreibt die Angst und die Standhaftigkeit jener Tage.",
+          "bs": "Velika saveznička vojska opsjela je Medinu. Muslimani su iskopali hendek (rov) za odbranu grada, i nakon sedmica opsade saveznici su se povukli. Sura el-Ahzab opisuje strah i postojanost tih dana."
+        },
+        "sourceIds": [
+          "q-33-9",
+          "ibn-hisham"
+        ]
+      }
+    ],
+    "placeIds": [
+      "madinah"
+    ],
+    "peopleIds": [
+      "muhammad",
+      "abu-sufyan"
+    ],
+    "episodeId": "episode-08",
+    "relatedEventIds": [
+      "uhud",
+      "hudaybiyyah"
+    ],
+    "themeIds": [
+      "planning",
+      "patience"
+    ],
+    "sourceIds": [
+      "q-33-9",
+      "ibn-hisham"
+    ]
+  },
+  {
+    "id": "hudaybiyyah",
+    "title": {
+      "en": "The Treaty of al-Hudaybiyyah",
+      "de": "Der Vertrag von al-Hudaibiya",
+      "bs": "Ugovor na Hudejbiji"
+    },
+    "date": {
+      "sortKey": 628.1,
+      "label": {
+        "en": "Dhu al-Qaʿdah 6 AH / 628 CE",
+        "de": "Dhu al-Qaʿda 6 n. H. / 628 n. Chr.",
+        "bs": "zul-ka'de 6. g. po H. / 628. g."
+      },
+      "certainty": "established",
+      "note": null
+    },
+    "era": "madinah",
+    "summary": [
+      {
+        "kind": "fact",
+        "text": {
+          "en": "The Prophet ﷺ set out with his companions to perform ʿUmrah but was stopped by Quraysh at al-Hudaybiyyah. After negotiations, a treaty was agreed: a ten-year truce, the Muslims would return home that year and come for ʿUmrah the following year.",
+          "de": "Der Prophet ﷺ brach mit seinen Gefährten zur Umra auf, wurde aber von den Quraisch in al-Hudaibiya aufgehalten. Nach Verhandlungen wurde ein Vertrag geschlossen: ein zehnjähriger Waffenstillstand; die Muslime sollten in diesem Jahr heimkehren und im folgenden Jahr zur Umra kommen.",
+          "bs": "Poslanik ﷺ je s ashabima krenuo na umru, ali su ih Kurejšije zaustavili na Hudejbiji. Nakon pregovora sklopljen je ugovor: desetogodišnje primirje; muslimani će se te godine vratiti kući i doći na umru sljedeće godine."
+        },
+        "sourceIds": [
+          "bukhari-2731",
+          "ibn-hisham"
+        ]
+      },
+      {
+        "kind": "fact",
+        "text": {
+          "en": "Before the treaty, the companions pledged themselves under a tree – the Pledge of Ridwan, mentioned in Surah al-Fath. On the way back, the surah was revealed calling the treaty a clear victory.",
+          "de": "Vor dem Vertrag leisteten die Gefährten unter einem Baum den Treueeid – den Eid von Ridwan, erwähnt in Sure al-Fath. Auf dem Rückweg wurde die Sure offenbart, die den Vertrag einen deutlichen Sieg nennt.",
+          "bs": "Prije ugovora ashabi su dali prisegu ispod drveta – Prisegu Ridvan, spomenutu u suri el-Feth. Na povratku je objavljena sura koja ugovor naziva jasnom pobjedom."
+        },
+        "sourceIds": [
+          "q-48-18",
+          "q-48-1"
+        ]
+      }
+    ],
+    "placeIds": [
+      "hudaybiyyah",
+      "madinah",
+      "makkah"
+    ],
+    "peopleIds": [
+      "muhammad",
+      "uthman",
+      "umar",
+      "suhayl",
+      "abu-bakr",
+      "ali"
+    ],
+    "episodeId": "episode-08",
+    "relatedEventIds": [
+      "trench",
+      "conquest"
+    ],
+    "themeIds": [
+      "justice",
+      "patience",
+      "trust"
+    ],
+    "sourceIds": [
+      "bukhari-2731",
+      "q-48-1",
+      "q-48-18",
+      "q-48-27",
+      "ibn-hisham"
+    ]
+  },
+  {
+    "id": "conquest",
+    "title": {
+      "en": "The conquest of Makkah",
+      "de": "Die Einnahme Mekkas",
+      "bs": "Oslobođenje Mekke"
+    },
+    "date": {
+      "sortKey": 630,
+      "label": {
+        "en": "Ramadan 8 AH / 630 CE",
+        "de": "Ramadan 8 n. H. / 630 n. Chr.",
+        "bs": "ramazan 8. g. po H. / 630. g."
+      },
+      "certainty": "established",
+      "note": null
+    },
+    "era": "madinah",
+    "summary": [
+      {
+        "kind": "fact",
+        "text": {
+          "en": "After allies of Quraysh broke the truce, the Prophet ﷺ marched on Makkah with a large army. The city was taken with very little fighting. Abu Sufyan had accepted Islam, and whoever entered his house, laid down their weapons or closed their door was declared safe.",
+          "de": "Nachdem Verbündete der Quraisch den Waffenstillstand gebrochen hatten, zog der Prophet ﷺ mit einem großen Heer nach Mekka. Die Stadt wurde fast ohne Kampf eingenommen. Abu Sufyan hatte den Islam angenommen, und wer sein Haus betrat, die Waffen niederlegte oder seine Tür schloss, wurde für sicher erklärt.",
+          "bs": "Nakon što su saveznici Kurejšija prekršili primirje, Poslanik ﷺ je s velikom vojskom krenuo na Mekku. Grad je zauzet gotovo bez borbe. Ebu Sufjan je primio islam, a sigurnim je proglašen svako ko uđe u njegovu kuću, odloži oružje ili zatvori svoja vrata."
+        },
+        "sourceIds": [
+          "muslim-1780",
+          "ibn-hisham"
+        ]
+      },
+      {
+        "kind": "fact",
+        "text": {
+          "en": "The idols around the Kaʿbah were removed while the Prophet ﷺ recited: \"Truth has come and falsehood has vanished.\"",
+          "de": "Die Götzen um die Kaaba wurden entfernt, während der Prophet ﷺ rezitierte: „Die Wahrheit ist gekommen, und das Falsche ist vergangen.“",
+          "bs": "Kipovi oko Kabe su uklonjeni dok je Poslanik ﷺ učio: „Došla je Istina, a nestala je laž.“"
+        },
+        "sourceIds": [
+          "bukhari-4287",
+          "q-17-81"
+        ]
+      },
+      {
+        "kind": "interpretation",
+        "text": {
+          "en": "The Seerah works report a general amnesty for the people of Makkah who had fought him for years. The exact wording often quoted is found in Seerah collections, and scholars discuss the strength of its chains.",
+          "de": "Die Sira-Werke berichten von einer allgemeinen Amnestie für die Menschen Mekkas, die ihn jahrelang bekämpft hatten. Der oft zitierte genaue Wortlaut findet sich in Sira-Sammlungen, und Gelehrte diskutieren die Stärke seiner Überlieferungsketten.",
+          "bs": "Djela sire prenose opću amnestiju za stanovnike Mekke koji su se godinama borili protiv njega. Tačna formulacija koja se često citira nalazi se u zbirkama sire, a učenjaci raspravljaju o jačini njenih lanaca prenosilaca."
+        },
+        "sourceIds": [
+          "ibn-hisham",
+          "zad"
+        ]
+      }
+    ],
+    "placeIds": [
+      "makkah",
+      "madinah"
+    ],
+    "peopleIds": [
+      "muhammad",
+      "abu-sufyan",
+      "bilal",
+      "ali",
+      "abu-bakr",
+      "umar"
+    ],
+    "episodeId": "episode-09",
+    "relatedEventIds": [
+      "hudaybiyyah",
+      "farewell"
+    ],
+    "themeIds": [
+      "mercy",
+      "justice"
+    ],
+    "sourceIds": [
+      "muslim-1780",
+      "bukhari-4287",
+      "q-17-81",
+      "q-110",
+      "ibn-hisham"
+    ]
+  },
+  {
+    "id": "farewell",
+    "title": {
+      "en": "The Farewell Pilgrimage",
+      "de": "Die Abschiedspilgerfahrt",
+      "bs": "Oprosni hadž"
+    },
+    "date": {
+      "sortKey": 632,
+      "label": {
+        "en": "Dhu al-Hijjah 10 AH / 632 CE",
+        "de": "Dhu al-Hiddscha 10 n. H. / 632 n. Chr.",
+        "bs": "zul-hidže 10. g. po H. / 632. g."
+      },
+      "certainty": "established",
+      "note": null
+    },
+    "era": "madinah",
+    "summary": [
+      {
+        "kind": "fact",
+        "text": {
+          "en": "The Prophet ﷺ performed his only Hajj after the Hijrah with a great number of Muslims. At ʿArafat he gave a sermon: the sanctity of life, property and honour, the end of the blood feuds and usury of the Days of Ignorance, kindness to women, and holding fast to the Book of Allah.",
+          "de": "Der Prophet ﷺ vollzog mit einer großen Zahl von Muslimen seinen einzigen Haddsch nach der Hidschra. In Arafat hielt er eine Ansprache: die Unantastbarkeit von Leben, Besitz und Ehre, das Ende der Blutrache und des Wuchers der Zeit der Unwissenheit, Güte gegenüber den Frauen und das Festhalten am Buch Allahs.",
+          "bs": "Poslanik ﷺ je s velikim brojem muslimana obavio svoj jedini hadž nakon Hidžre. Na Arefatu je održao hutbu: svetost života, imetka i časti, kraj krvne osvete i kamate iz doba neznanja, dobrota prema ženama i čvrsto držanje Allahove Knjige."
+        },
+        "sourceIds": [
+          "muslim-1218"
+        ]
+      },
+      {
+        "kind": "fact",
+        "text": {
+          "en": "On the day of ʿArafah the verse \"This day I have perfected your religion for you\" was revealed.",
+          "de": "Am Tag von Arafa wurde der Vers „Heute habe Ich euch eure Religion vervollkommnet“ offenbart.",
+          "bs": "Na Dan Arefata objavljen je ajet „Danas sam vam vjeru vašu usavršio“."
+        },
+        "sourceIds": [
+          "bukhari-45",
+          "q-5-3"
+        ]
+      }
+    ],
+    "placeIds": [
+      "makkah",
+      "arafat",
+      "madinah"
+    ],
+    "peopleIds": [
+      "muhammad"
+    ],
+    "episodeId": "episode-10",
+    "relatedEventIds": [
+      "conquest",
+      "death"
+    ],
+    "themeIds": [
+      "justice",
+      "community",
+      "revelation"
+    ],
+    "sourceIds": [
+      "muslim-1218",
+      "bukhari-45",
+      "q-5-3"
+    ]
+  },
+  {
+    "id": "death",
+    "title": {
+      "en": "Death of the Prophet ﷺ",
+      "de": "Tod des Propheten ﷺ",
+      "bs": "Smrt Poslanika ﷺ"
+    },
+    "date": {
+      "sortKey": 632.5,
+      "label": {
+        "en": "Rabiʿ al-Awwal 11 AH / 632 CE",
+        "de": "Rabiʿ al-Awwal 11 n. H. / 632 n. Chr.",
+        "bs": "rebiul-evvel 11. g. po H. / 632. g."
+      },
+      "certainty": "established",
+      "note": {
+        "en": "Month and year are established, and it was a Monday; the exact date differs between reports.",
+        "de": "Monat und Jahr sind gesichert, und es war ein Montag; das genaue Datum unterscheidet sich in den Berichten.",
+        "bs": "Mjesec i godina su potvrđeni, i bio je ponedjeljak; tačan datum se razlikuje u predajama."
+      }
+    },
+    "era": "madinah",
+    "summary": [
+      {
+        "kind": "fact",
+        "text": {
+          "en": "The Prophet ﷺ fell ill in Madinah and died in the room of ʿAʾishah, at about sixty-three years of age. When people could not accept it, Abu Bakr addressed them and recited: \"Muhammad is no more than a messenger; messengers have passed away before him…\"",
+          "de": "Der Prophet ﷺ erkrankte in Medina und starb im Zimmer von Aischa, im Alter von etwa dreiundsechzig Jahren. Als die Menschen es nicht fassen konnten, sprach Abu Bakr zu ihnen und rezitierte: „Muhammad ist nur ein Gesandter; vor ihm sind schon Gesandte dahingegangen …“",
+          "bs": "Poslanik ﷺ se razbolio u Medini i umro u Aišinoj sobi, u dobi od oko šezdeset i tri godine. Kada ljudi to nisu mogli prihvatiti, Ebu Bekr im se obratio i proučio: „Muhammed je samo poslanik, a i prije njega bilo je poslanika…“"
+        },
+        "sourceIds": [
+          "bukhari-1241",
+          "q-3-144"
+        ]
+      }
+    ],
+    "placeIds": [
+      "madinah"
+    ],
+    "peopleIds": [
+      "muhammad",
+      "aishah",
+      "abu-bakr",
+      "umar"
+    ],
+    "episodeId": "episode-10",
+    "relatedEventIds": [
+      "farewell"
+    ],
+    "themeIds": [
+      "patience",
+      "trust"
+    ],
+    "sourceIds": [
+      "bukhari-1241",
+      "q-3-144"
+    ]
+  }
+]

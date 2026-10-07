@@ -1,0 +1,42 @@
+[
+  {
+    "id": "patience",
+    "name": { "en": "Patience", "de": "Geduld", "bs": "Strpljenje" },
+    "description": { "en": "Sabr: steadfastness in hardship, persecution and loss.", "de": "Sabr: Standhaftigkeit in Not, Verfolgung und Verlust.", "bs": "Sabur: postojanost u teškoćama, progonu i gubitku." }
+  },
+  {
+    "id": "trust",
+    "name": { "en": "Trust in Allah", "de": "Gottvertrauen", "bs": "Oslanjanje na Allaha" },
+    "description": { "en": "Tawakkul: doing everything one can, then relying on Allah.", "de": "Tawakkul: alles Mögliche tun und sich dann auf Allah verlassen.", "bs": "Tevekkul: učiniti sve što je moguće, a zatim se osloniti na Allaha." }
+  },
+  {
+    "id": "mercy",
+    "name": { "en": "Mercy and forgiveness", "de": "Barmherzigkeit und Vergebung", "bs": "Milost i oprost" },
+    "description": { "en": "Responding to harm with mercy, and forgiving when able to take revenge.", "de": "Auf Unrecht mit Barmherzigkeit antworten und vergeben, wenn man Vergeltung üben könnte.", "bs": "Odgovoriti na zlo milošću i oprostiti kada je moguće uzvratiti." }
+  },
+  {
+    "id": "justice",
+    "name": { "en": "Justice and keeping promises", "de": "Gerechtigkeit und Vertragstreue", "bs": "Pravda i ispunjavanje obećanja" },
+    "description": { "en": "Fairness, honesty and honouring agreements – even when they are hard.", "de": "Fairness, Ehrlichkeit und das Einhalten von Vereinbarungen – auch wenn es schwerfällt.", "bs": "Pravednost, iskrenost i poštivanje dogovora – čak i kada je teško." }
+  },
+  {
+    "id": "community",
+    "name": { "en": "Brotherhood and community", "de": "Geschwisterlichkeit und Gemeinschaft", "bs": "Bratstvo i zajednica" },
+    "description": { "en": "Building a community of believers who support one another.", "de": "Eine Gemeinschaft von Gläubigen aufbauen, die einander beistehen.", "bs": "Izgradnja zajednice vjernika koji jedni druge podržavaju." }
+  },
+  {
+    "id": "planning",
+    "name": { "en": "Planning and consultation", "de": "Planung und Beratung", "bs": "Planiranje i dogovaranje" },
+    "description": { "en": "Careful preparation and shura – consulting others in shared matters.", "de": "Sorgfältige Vorbereitung und Schura – die Beratung in gemeinsamen Angelegenheiten.", "bs": "Pažljiva priprema i šura – dogovaranje o zajedničkim stvarima." }
+  },
+  {
+    "id": "revelation",
+    "name": { "en": "Revelation and knowledge", "de": "Offenbarung und Wissen", "bs": "Objava i znanje" },
+    "description": { "en": "The Quran as guidance, and the value of reading and learning.", "de": "Der Koran als Rechtleitung und der Wert des Lesens und Lernens.", "bs": "Kur'an kao uputa i vrijednost čitanja i učenja." }
+  },
+  {
+    "id": "character",
+    "name": { "en": "Character", "de": "Charakter", "bs": "Karakter" },
+    "description": { "en": "Truthfulness, trustworthiness and good manners as the foundation of a life.", "de": "Wahrhaftigkeit, Vertrauenswürdigkeit und gutes Benehmen als Fundament eines Lebens.", "bs": "Istinoljubivost, povjerljivost i lijepo ponašanje kao temelj života." }
+  }
+]

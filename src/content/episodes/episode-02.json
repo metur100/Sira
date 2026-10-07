@@ -1,0 +1,52 @@
+{
+  "id": "episode-02",
+  "order": 2,
+  "era": "makkah",
+  "title": { "en": "The beginning of revelation", "de": "Der Beginn der Offenbarung", "bs": "Početak Objave" },
+  "subtitle": { "en": "\"Read in the name of your Lord\"", "de": "„Lies im Namen deines Herrn“", "bs": "„Čitaj, u ime Gospodara tvoga“" },
+  "period": { "en": "c. 610 CE", "de": "um 610 n. Chr.", "bs": "oko 610. g." },
+  "scene": { "sky": "night", "elements": ["stars", "crescent", "mountains", "cave"] },
+  "introduction": { "en": "At about forty, Muhammad ﷺ used to withdraw to a cave above Makkah. One night everything changed. What happened in the Cave of Hiraʾ – and how did those closest to him respond?", "de": "Mit etwa vierzig zog sich Muhammad ﷺ oft in eine Höhle oberhalb Mekkas zurück. In einer Nacht änderte sich alles. Was geschah in der Höhle Hira – und wie reagierten die Menschen, die ihm am nächsten standen?", "bs": "S oko četrdeset godina Muhammed ﷺ se povlačio u pećinu iznad Mekke. Jedne noći sve se promijenilo. Šta se desilo u pećini Hira – i kako su reagovali njemu najbliži?" },
+  "context": [
+    { "kind": "fact", "text": { "en": "ʿAʾishah reported that the revelation began with true dreams, and that solitude was made beloved to him. He would spend several nights in worship in the Cave of Hiraʾ, then return to Khadijah for provisions.", "de": "Aischa berichtete, dass die Offenbarung mit wahren Träumen begann und ihm die Zurückgezogenheit lieb wurde. Er verbrachte mehrere Nächte in Andacht in der Höhle Hira und kehrte dann zu Chadidscha zurück, um sich Vorräte zu holen.", "bs": "Aiša je prenijela da je Objava počela istinitim snovima i da mu je osamljivanje postalo drago. Provodio bi po nekoliko noći u ibadetu u pećini Hira, a zatim se vraćao Hatidži po opskrbu." }, "sourceIds": ["bukhari-3"] }
+  ],
+  "mainEvent": [
+    { "kind": "fact", "text": { "en": "The angel came to him in the cave and said: \"Read!\" He answered that he could not read. After this was repeated three times, the angel recited the first verses of Surah al-ʿAlaq: \"Read in the name of your Lord who created – created man from a clinging substance. Read, and your Lord is the Most Generous, who taught by the pen, taught man what he did not know.\"", "de": "Der Engel kam in der Höhle zu ihm und sagte: „Lies!“ Er antwortete, dass er nicht lesen könne. Nachdem sich dies dreimal wiederholt hatte, trug der Engel die ersten Verse der Sure al-Alaq vor: „Lies im Namen deines Herrn, der erschaffen hat – den Menschen erschaffen hat aus einem Anhängsel. Lies, und dein Herr ist der Edelste, der mit dem Schreibrohr gelehrt hat, den Menschen gelehrt hat, was er nicht wusste.“", "bs": "Melek mu je došao u pećinu i rekao: „Čitaj!“ Odgovorio je da ne zna čitati. Nakon što se to ponovilo tri puta, melek je proučio prve ajete sure el-Alek: „Čitaj, u ime Gospodara tvoga koji stvara – stvara čovjeka od ugruška. Čitaj, a Gospodar tvoj je najplemenitiji, koji poučava peru, koji čovjeka poučava onome što ne zna.“" }, "sourceIds": ["bukhari-3", "q-96-1"] },
+    { "kind": "fact", "text": { "en": "He returned home with his heart trembling and said: \"Cover me.\" When he told Khadijah what had happened, she reassured him: Allah would never disgrace him, because he kept the ties of kinship, helped the weak, honoured guests and supported people in hardship.", "de": "Mit zitterndem Herzen kehrte er nach Hause zurück und sagte: „Bedeckt mich.“ Als er Chadidscha erzählte, was geschehen war, beruhigte sie ihn: Allah werde ihn niemals zuschanden machen, denn er pflege die Verwandtschaftsbande, helfe den Schwachen, ehre Gäste und stehe Menschen in Not bei.", "bs": "Vratio se kući drhtavog srca i rekao: „Pokrijte me.“ Kada je Hatidži ispričao šta se desilo, umirila ga je: Allah ga nikada neće poniziti, jer on održava rodbinske veze, pomaže slabima, časti goste i pomaže ljudima u nevolji." }, "sourceIds": ["bukhari-3"] },
+    { "kind": "fact", "text": { "en": "Khadijah took him to her cousin Waraqah ibn Nawfal, who said it was the same angel who had come to Moses and that his people would drive him out.", "de": "Chadidscha brachte ihn zu ihrem Cousin Waraqa ibn Naufal, der sagte, es sei derselbe Engel, der zu Moses gekommen war, und dass sein Volk ihn vertreiben werde.", "bs": "Hatidža ga je odvela svom rođaku Varaki ibn Nevfelu, koji je rekao da je to isti melek koji je dolazio Musau i da će ga njegov narod protjerati." }, "sourceIds": ["bukhari-3"] },
+    { "kind": "fact", "text": { "en": "After a pause in the revelation, the angel appeared again, and the first verses of Surah al-Muddaththir were revealed: \"O you who covers himself, arise and warn.\"", "de": "Nach einer Pause der Offenbarung erschien der Engel erneut, und die ersten Verse der Sure al-Muddaththir wurden offenbart: „O du Zugedeckter, steh auf und warne.“", "bs": "Nakon prekida Objave melek se ponovo pojavio i objavljeni su prvi ajeti sure el-Muddessir: „O ti, pokriveni, ustani i opominji.“" }, "sourceIds": ["bukhari-4", "q-74-1"] },
+    { "kind": "interpretation", "text": { "en": "Most scholars hold that the revelation began in Ramadan; which night exactly is not certain, and the length of the pause is reported differently.", "de": "Die meisten Gelehrten sind der Ansicht, dass die Offenbarung im Ramadan begann; welche Nacht genau, ist nicht sicher, und die Dauer der Pause wird unterschiedlich angegeben.", "bs": "Većina učenjaka smatra da je Objava počela u ramazanu; koja tačno noć, nije sigurno, a dužina prekida navodi se različito." }, "sourceIds": ["ibn-kathir", "ibn-hisham"] }
+  ],
+  "mainEventId": "first-revelation",
+  "events": ["first-revelation"],
+  "people": ["muhammad", "khadijah", "waraqah", "aishah"],
+  "places": ["hira", "makkah"],
+  "routes": [],
+  "questions": ["e02-q1", "e02-q2", "e02-q3", "e02-q4", "e02-q5", "e02-q6"],
+  "lessons": [
+    { "title": { "en": "The first word was \"Read\"", "de": "Das erste Wort war „Lies“", "bs": "Prva riječ bila je „Čitaj“" }, "text": { "en": "The first revelation speaks of reading, the pen and learning. Seeking knowledge is part of the message from its very first moment.", "de": "Die erste Offenbarung spricht vom Lesen, vom Schreibrohr und vom Lernen. Das Streben nach Wissen gehört von Anfang an zur Botschaft.", "bs": "Prva Objava govori o čitanju, peru i učenju. Traženje znanja dio je poruke od njenog prvog trenutka." }, "themeId": "revelation" },
+    { "title": { "en": "Support from those who know us", "de": "Beistand von denen, die uns kennen", "bs": "Podrška onih koji nas poznaju" }, "text": { "en": "Khadijah's answer was based on what she had seen of his character for years. Good deeds are a source of strength in difficult moments.", "de": "Chadidschas Antwort beruhte auf dem, was sie jahrelang von seinem Charakter gesehen hatte. Gute Taten sind in schweren Momenten eine Quelle der Kraft.", "bs": "Hatidžin odgovor zasnivao se na onome što je godinama vidjela od njegovog karaktera. Dobra djela su izvor snage u teškim trenucima." }, "themeId": "character" }
+  ],
+  "reflectionQuestions": [
+    {
+      "id": "e02-r1",
+      "prompt": { "en": "The first revelation began with \"Read\". What would you like to learn more deeply this year?", "de": "Die erste Offenbarung begann mit „Lies“. Was möchtest du dieses Jahr gründlicher lernen?", "bs": "Prva Objava počela je s „Čitaj“. Šta bi ove godine želio dublje naučiti?" },
+      "options": [
+        { "en": "The meaning of the Quran I recite in prayer.", "de": "Die Bedeutung des Korans, den ich im Gebet rezitiere.", "bs": "Značenje Kur'ana koji učim u namazu." },
+        { "en": "The life of the Prophet ﷺ in more detail.", "de": "Das Leben des Propheten ﷺ ausführlicher.", "bs": "Život Poslanika ﷺ detaljnije." },
+        { "en": "A skill that lets me help others.", "de": "Eine Fähigkeit, mit der ich anderen helfen kann.", "bs": "Vještinu kojom mogu pomoći drugima." }
+      ]
+    },
+    {
+      "id": "e02-r2",
+      "prompt": { "en": "Who has been a \"Khadijah\" for you – someone who believed in you when you were unsure?", "de": "Wer war für dich eine „Chadidscha“ – jemand, der an dich glaubte, als du unsicher warst?", "bs": "Ko je za tebe bio „Hatidža“ – neko ko je vjerovao u tebe kada si bio nesiguran?" },
+      "options": [
+        { "en": "A parent or family member.", "de": "Ein Elternteil oder Familienmitglied.", "bs": "Roditelj ili član porodice." },
+        { "en": "A friend or teacher.", "de": "Ein Freund oder Lehrer.", "bs": "Prijatelj ili učitelj." },
+        { "en": "I want to be that person for someone else.", "de": "Ich möchte diese Person für jemand anderen sein.", "bs": "Želim biti takva osoba za nekog drugog." }
+      ]
+    }
+  ],
+  "sources": { "primary": ["q-96-1", "q-74-1", "bukhari-3", "bukhari-4"], "secondary": ["ibn-hisham", "ibn-kathir"], "further": ["lings", "salahi"] },
+  "themeIds": ["revelation", "character"]
+}
