@@ -10,7 +10,10 @@
     "backgroundColor": "#101830",
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.certidevelopment.sira"
+      "bundleIdentifier": "com.certidevelopment.sira",
+      "config": {
+        "usesNonExemptEncryption": false
+      }
     },
     "android": {
       "package": "com.certidevelopment.sira",
@@ -43,7 +46,8 @@
         "expo-audio",
         {
           "recordAudioAndroid": false,
-          "enableBackgroundPlayback": false
+          "enableBackgroundPlayback": false,
+          "microphonePermission": false
         }
       ],
       [
