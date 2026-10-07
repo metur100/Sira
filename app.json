@@ -10,10 +10,10 @@
     "backgroundColor": "#101830",
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.sira.seerah"
+      "bundleIdentifier": "com.certidevelopment.sira"
     },
     "android": {
-      "package": "com.sira.seerah",
+      "package": "com.certidevelopment.sira",
       "versionCode": 1,
       "adaptiveIcon": {
         "backgroundColor": "#14173A",
@@ -26,7 +26,9 @@
         "android.permission.RECORD_AUDIO",
         "android.permission.SYSTEM_ALERT_WINDOW",
         "android.permission.READ_EXTERNAL_STORAGE",
-        "android.permission.WRITE_EXTERNAL_STORAGE"
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "com.google.android.c2dm.permission.RECEIVE",
+        "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
       ]
     },
     "web": {
@@ -60,7 +62,8 @@
         }
       ],
       "expo-status-bar",
-      "./plugins/withStableAndroidBuild"
+      "./plugins/withStableAndroidBuild",
+      "./plugins/withReleaseSigning"
     ],
     "experiments": {
       "typedRoutes": true
