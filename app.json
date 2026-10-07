@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Sira",
-    "slug": "sira",
+    "slug": "sira-life-of-the-prophet",
     "version": "1.0.0",
     "scheme": "sira",
     "orientation": "portrait",
@@ -32,6 +32,9 @@
         "android.permission.WRITE_EXTERNAL_STORAGE",
         "com.google.android.c2dm.permission.RECEIVE",
         "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+      ],
+      "permissions": [
+        "android.permission.MODIFY_AUDIO_SETTINGS"
       ]
     },
     "web": {
@@ -71,6 +74,13 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "7083a9d9-85f5-4c77-bd13-0ce436b5775f"
+      }
+    },
+    "owner": "certi-development"
   }
 }
